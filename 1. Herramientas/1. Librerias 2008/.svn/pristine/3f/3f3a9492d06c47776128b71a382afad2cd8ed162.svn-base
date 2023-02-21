@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetFechaSistema">
+        <s:complexType />
+      </s:element>
+      <s:element name="GetFechaSistemaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetFechaSistemaResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CargarDatos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodPrograma" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodProceso" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sIdTerminal" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sIdSistema" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="bComprimir" type="s:boolean" />
+            <s:element minOccurs="0" maxOccurs="1" name="sIdComunicacion" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Params" type="tns:ArrayOfAnyType" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfAnyType">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="anyType" nillable="true" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CargarDatosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CargarDatosResult" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sIdComunicacion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConfirmarCargaDatos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodPrograma" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodProceso" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sIdTerminal" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sIdSistema" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sIdComunicaciones" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sError" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConfirmarCargaDatosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="ConfirmarCargaDatosResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="IniciarDescargarDatos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sCodPrograma" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sCodProceso" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sIdterminal" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sIdSistema" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sIdComunicacion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="IniciarDescargarDatosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IniciarDescargarDatosResult" type="tns:ArrayOfString" />
+            <s:element minOccurs="0" maxOccurs="1" name="sIdComunicacion" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EnviarDescargaDatos">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="sIdComunicaciones" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sError" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="sDatosEnviados" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="EnviarDescargaDatosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="EnviarDescargaDatosResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DescargarNuevaVersion">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CodigoPrograma" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="VersionActual" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DescargarNuevaVersionResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DescargarNuevaVersionResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetFechaSistemaSoapIn">
+    <wsdl:part name="parameters" element="tns:GetFechaSistema" />
+  </wsdl:message>
+  <wsdl:message name="GetFechaSistemaSoapOut">
+    <wsdl:part name="parameters" element="tns:GetFechaSistemaResponse" />
+  </wsdl:message>
+  <wsdl:message name="CargarDatosSoapIn">
+    <wsdl:part name="parameters" element="tns:CargarDatos" />
+  </wsdl:message>
+  <wsdl:message name="CargarDatosSoapOut">
+    <wsdl:part name="parameters" element="tns:CargarDatosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConfirmarCargaDatosSoapIn">
+    <wsdl:part name="parameters" element="tns:ConfirmarCargaDatos" />
+  </wsdl:message>
+  <wsdl:message name="ConfirmarCargaDatosSoapOut">
+    <wsdl:part name="parameters" element="tns:ConfirmarCargaDatosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IniciarDescargarDatosSoapIn">
+    <wsdl:part name="parameters" element="tns:IniciarDescargarDatos" />
+  </wsdl:message>
+  <wsdl:message name="IniciarDescargarDatosSoapOut">
+    <wsdl:part name="parameters" element="tns:IniciarDescargarDatosResponse" />
+  </wsdl:message>
+  <wsdl:message name="EnviarDescargaDatosSoapIn">
+    <wsdl:part name="parameters" element="tns:EnviarDescargaDatos" />
+  </wsdl:message>
+  <wsdl:message name="EnviarDescargaDatosSoapOut">
+    <wsdl:part name="parameters" element="tns:EnviarDescargaDatosResponse" />
+  </wsdl:message>
+  <wsdl:message name="DescargarNuevaVersionSoapIn">
+    <wsdl:part name="parameters" element="tns:DescargarNuevaVersion" />
+  </wsdl:message>
+  <wsdl:message name="DescargarNuevaVersionSoapOut">
+    <wsdl:part name="parameters" element="tns:DescargarNuevaVersionResponse" />
+  </wsdl:message>
+  <wsdl:portType name="DataAccessSoap">
+    <wsdl:operation name="GetFechaSistema">
+      <wsdl:input message="tns:GetFechaSistemaSoapIn" />
+      <wsdl:output message="tns:GetFechaSistemaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CargarDatos">
+      <wsdl:input message="tns:CargarDatosSoapIn" />
+      <wsdl:output message="tns:CargarDatosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConfirmarCargaDatos">
+      <wsdl:input message="tns:ConfirmarCargaDatosSoapIn" />
+      <wsdl:output message="tns:ConfirmarCargaDatosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="IniciarDescargarDatos">
+      <wsdl:input message="tns:IniciarDescargarDatosSoapIn" />
+      <wsdl:output message="tns:IniciarDescargarDatosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="EnviarDescargaDatos">
+      <wsdl:input message="tns:EnviarDescargaDatosSoapIn" />
+      <wsdl:output message="tns:EnviarDescargaDatosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="DescargarNuevaVersion">
+      <wsdl:input message="tns:DescargarNuevaVersionSoapIn" />
+      <wsdl:output message="tns:DescargarNuevaVersionSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="DataAccessSoap" type="tns:DataAccessSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetFechaSistema">
+      <soap:operation soapAction="http://tempuri.org/GetFechaSistema" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CargarDatos">
+      <soap:operation soapAction="http://tempuri.org/CargarDatos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConfirmarCargaDatos">
+      <soap:operation soapAction="http://tempuri.org/ConfirmarCargaDatos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IniciarDescargarDatos">
+      <soap:operation soapAction="http://tempuri.org/IniciarDescargarDatos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EnviarDescargaDatos">
+      <soap:operation soapAction="http://tempuri.org/EnviarDescargaDatos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DescargarNuevaVersion">
+      <soap:operation soapAction="http://tempuri.org/DescargarNuevaVersion" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="DataAccessSoap12" type="tns:DataAccessSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetFechaSistema">
+      <soap12:operation soapAction="http://tempuri.org/GetFechaSistema" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CargarDatos">
+      <soap12:operation soapAction="http://tempuri.org/CargarDatos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConfirmarCargaDatos">
+      <soap12:operation soapAction="http://tempuri.org/ConfirmarCargaDatos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IniciarDescargarDatos">
+      <soap12:operation soapAction="http://tempuri.org/IniciarDescargarDatos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EnviarDescargaDatos">
+      <soap12:operation soapAction="http://tempuri.org/EnviarDescargaDatos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DescargarNuevaVersion">
+      <soap12:operation soapAction="http://tempuri.org/DescargarNuevaVersion" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="DataAccess">
+    <wsdl:port name="DataAccessSoap" binding="tns:DataAccessSoap">
+      <soap:address location="http://localhost/WSComunicaciones/DataAccess.asmx" />
+    </wsdl:port>
+    <wsdl:port name="DataAccessSoap12" binding="tns:DataAccessSoap12">
+      <soap12:address location="http://localhost/WSComunicaciones/DataAccess.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

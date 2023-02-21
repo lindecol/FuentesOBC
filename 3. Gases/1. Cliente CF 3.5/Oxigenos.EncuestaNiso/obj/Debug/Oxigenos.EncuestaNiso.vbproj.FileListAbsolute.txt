@@ -1,0 +1,12 @@
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.EncuestaNiso\bin\Debug\Oxigenos.EncuestaNiso.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.EncuestaNiso\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.Form1.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.FrmEncuestaNiso.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.FrmEncuestaNiso2.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.vbproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.EncuestaNiso\obj\Debug\Oxigenos.EncuestaNiso.pdb

@@ -1,0 +1,204 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A6D2D403-EE74-4E3E-A288-EA47E9683736}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectTypeGuids>{4D628B5B-2FBC-4AA6-8C16-197242AEB884};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>MovilidadCF.Windows.Forms</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OutputFileFolder>\Program Files\DatascanCF.Windows.Forms</OutputFileFolder>
+    <RootNamespace>MovilidadCF.Windows.Forms</RootNamespace>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <FormFactorID>
+    </FormFactorID>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <SignAssembly>false</SignAssembly>
+    <OSVersion>5.01</OSVersion>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <NativePlatformName>Windows Mobile 5.0 Pocket PC SDK</NativePlatformName>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PlatformID>4118C335-430C-497f-BE48-11C3316B135E</PlatformID>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <DeployDirSuffix>$(AssemblyName)</DeployDirSuffix>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <BaseAddress>0</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <GenerateSerializationAssemblies>off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <BaseAddress>0</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <GenerateSerializationAssemblies>off</GenerateSerializationAssemblies>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.5.452, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DLL\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Windowsce.Forms" />
+    <Reference Include="Microsoft.WindowsMobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="mscorlib" />
+    <Reference Include="OpenNETCF" />
+    <Reference Include="OpenNETCF.Windows.Forms" />
+    <Reference Include="OpenNETCF.WindowsMobile" />
+    <Reference Include="Symbol" />
+    <Reference Include="Symbol.Barcode" />
+    <Reference Include="Symbol.BarcodeForms" />
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BitmapFile.cs" />
+    <Compile Include="BITMAPFILEHEADER.cs" />
+    <Compile Include="BITMAPINFOHEADER.cs" />
+    <Compile Include="CharsValidator.cs" />
+    <Compile Include="ComboBoxBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Drawing.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EnumComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Enums.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Graph.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="InputBoxBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IInputControl.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="KeyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="NumericInputBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="OneInstance.cs" />
+    <Compile Include="Shape.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SignatureControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TextInputBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UIHandler.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UIHandlerMessageFilter.cs" />
+    <Compile Include="VSHost.cs" />
+    <Compile Include="Windows.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DataComboBox.bmp" />
+    <EmbeddedResource Include="EnumComboBox.bmp" />
+    <EmbeddedResource Include="Graph.bmp" />
+    <EmbeddedResource Include="ListBox.bmp" />
+    <EmbeddedResource Include="NumericInputBox.bmp" />
+    <EmbeddedResource Include="Shape.bmp" />
+    <EmbeddedResource Include="TextInputBox.bmp" />
+    <EmbeddedResource Include="UIHandler.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DatascanCF.cd" />
+    <None Include="DesignTimeAttributes.xmta" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="SignatureControl.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MobilidadCF\MobilidadCF.csproj">
+      <Project>{6D7E45FD-0ED4-4D4F-962A-C73DC2DD09B2}</Project>
+      <Name>MobilidadCF</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v3.5'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.CSharp.targets" />
+</Project>

@@ -1,0 +1,58 @@
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\QuickMobile.Client.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\QuickMobile.Client.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\DatascanCF.Data.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\DatascanCF.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\OpenNETCF.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\OpenNETCF.Drawing.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\OpenNETCF.Net.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\System.Data.SqlServerCe.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\System.Data.SqlClient.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\OpenNETCF.Configuration.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\OpenNETCF.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\DatascanCF.Windows.Forms.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\OpenNETCF.WindowsCE.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\OpenNETCF.Drawing.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\System.Data.SqlServerCe.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\DatascanCF.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\OpenNETCF.Net.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\System.Data.SqlClient.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\DatascanCF.Data.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\OpenNETCF.Configuration.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\OpenNETCF.Windows.Forms.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.Imagenes.AnimateCtl1.Image.jpg
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.Comunicacion.CargaDatosForm.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.Comunicacion.DescargarDatosForm.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.frmPruebacomunicacion.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.Properties.Resources.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.Comunicacion.ActualizarVersiones.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.csproj.GenerateResource.Cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\QuickMobile.Client.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\QuickMobile.Client.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\DatascanCF.Data.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\DatascanCF.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\DatascanCF.Windows.Forms.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\System.Data.SqlServerCe.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\System.Data.SqlClient.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\DatascanCF.Windows.Forms.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\System.Data.SqlServerCe.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\DatascanCF.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\System.Data.SqlClient.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\bin\Debug\DatascanCF.Data.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\ResolveAssemblyReference.cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.Imagenes.AnimateCtl1.Image.jpg
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.Comunicacion.CargaDatosForm.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.Comunicacion.DescargarDatosForm.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.frmPruebacomunicacion.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.Properties.Resources.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.Comunicacion.ActualizarVersiones.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.csproj.GenerateResource.Cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\QuickMobile.Client\obj\Debug\QuickMobile.Client.pdb

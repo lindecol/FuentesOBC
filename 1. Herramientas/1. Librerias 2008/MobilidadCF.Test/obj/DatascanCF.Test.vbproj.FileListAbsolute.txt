@@ -1,0 +1,102 @@
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Test.exe
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Test.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Data.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Data.FixlenFile.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Location.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Symbol.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.Drawing.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\QuickMobile.Client.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.Barcode.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.BarcodeForms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.StandardForms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\System.Data.SqlClient.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.MagStripe.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.Net.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.Configuration.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\System.Data.SqlServerCe.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.StandardForms.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.BarcodeForms.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.Windows.Forms.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\System.Data.SqlClient.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Data.FixlenFile.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Data.FixlenFile.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Symbol.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.MagStripe.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.Net.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.Configuration.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\System.Data.SqlServerCe.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Windows.Forms.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.Drawing.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.WindowsCE.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Location.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.Barcode.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\QuickMobile.Client.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Data.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.BarcodeContinousTriggerForm.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.BarcodeForm1.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.BarcodeForm2.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.Form1.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.Form2.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.Resources.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.PAFClientTest.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.vbproj.GenerateResource.Cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.exe
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Test.exe
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Test.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Data.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Data.FixlenFile.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Location.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Symbol.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Windows.Forms.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\QuickMobile.Client.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.Barcode.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.BarcodeForms.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.StandardForms.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\System.Data.SqlClient.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.MagStripe.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.Net.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\System.Data.SqlServerCe.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.StandardForms.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.BarcodeForms.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\System.Data.SqlClient.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Data.FixlenFile.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Data.FixlenFile.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Symbol.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.MagStripe.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\OpenNETCF.Net.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\System.Data.SqlServerCe.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Windows.Forms.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Location.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\Symbol.Barcode.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\QuickMobile.Client.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\bin\Debug\DatascanCF.Data.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\ResolveAssemblyReference.cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.BarcodeContinousTriggerForm.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.BarcodeForm1.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.BarcodeForm2.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.Form1.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.Form2.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.Resources.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.PAFClientTest.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.vbproj.GenerateResource.Cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.exe
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Test\obj\Debug\DatascanCF.Test.pdb

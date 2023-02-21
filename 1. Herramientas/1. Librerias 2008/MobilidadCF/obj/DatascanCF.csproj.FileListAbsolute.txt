@@ -1,0 +1,30 @@
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\DatascanCF.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\DatascanCF.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\OpenNETCF.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\OpenNETCF.Drawing.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\OpenNETCF.Configuration.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\OpenNETCF.Drawing.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\OpenNETCF.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\OpenNETCF.Windows.Forms.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\OpenNETCF.WindowsCE.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\OpenNETCF.Configuration.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\obj\Debug\DatascanCF.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\obj\Debug\DatascanCF.pdb
+H:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\DatascanCF.dll
+H:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\DatascanCF.pdb
+H:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\ICSharpCode.SharpZipLib.dll
+H:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\obj\Debug\ResolveAssemblyReference.cache
+H:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\obj\Debug\DatascanCF.dll
+H:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\obj\Debug\DatascanCF.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\DatascanCF.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\DatascanCF.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\obj\Debug\ResolveAssemblyReference.cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\obj\Debug\DatascanCF.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF\obj\Debug\DatascanCF.pdb

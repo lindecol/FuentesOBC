@@ -1,0 +1,36 @@
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\bin\Debug\Datascan.Data.Transformations.dll.config
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\bin\Debug\Datascan.Data.Transformations.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\bin\Debug\Datascan.Data.Transformations.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.DataPreviewDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.CustomTaskDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.DBExportTaskDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.DBImportTaskDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.ExcuteProcessSQLDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.TextFileExportTaskDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.TransformationEditControl.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.EditTareaDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.Resources.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.TextFileImportTaskDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.vbproj.GenerateResource.Cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\bin\Debug\Datascan.Data.Transformations.dll.config
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\bin\Debug\Datascan.Data.Transformations.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\bin\Debug\Datascan.Data.Transformations.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\bin\Debug\Datascan.Data.Transformations.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\ResolveAssemblyReference.cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.DataPreviewDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.CustomTaskDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.DBExportTaskDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.DBImportTaskDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.ExcuteProcessSQLDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.TextFileExportTaskDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.TransformationEditControl.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.EditTareaDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.Resources.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.TextFileImportTaskDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.vbproj.GenerateResource.Cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.Transformations\obj\Debug\Datascan.Data.Transformations.pdb

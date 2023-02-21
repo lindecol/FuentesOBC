@@ -1,0 +1,155 @@
+SET ANSI_NULLS ON;
+SET QUOTED_IDENTIFIER ON;
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Perfiles]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[Perfiles](
+	[IdPerfil] [int] IDENTITY(1,1) NOT NULL,
+	[Nombre] [nvarchar](100) NOT NULL,
+	[Activo] [bit] NOT NULL,
+	[Sistema] [bit] NOT NULL,
+ CONSTRAINT [PK_Perfiles] PRIMARY KEY (IdPerfil))
+END
+SET ANSI_NULLS ON;
+SET QUOTED_IDENTIFIER ON;
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Empresas]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[Empresas](
+	[IdEmpresa] [int] IDENTITY(1,1) NOT NULL,
+	[NIT] [nvarchar](15) NOT NULL,
+	[NombreCorto] [nvarchar](50) NOT NULL,
+	[NombreCompleto] [nvarchar](100) NOT NULL,
+	[Direccion] [nvarchar](200) NULL,
+	[Ciudad] [nvarchar](50) NULL,
+	[Pais] [nvarchar](50) NULL,
+	[Telefono] [nvarchar](30) NULL,
+	[Fax] [nvarchar](30) NULL,
+	[Logo] [image] NULL,
+ CONSTRAINT [PK_Empresas] PRIMARY KEY (IdEmpresa))
+END
+SET ANSI_NULLS ON;
+SET QUOTED_IDENTIFIER ON;
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Categorias]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[Categorias](
+	[IdCategoria] [int] IDENTITY(1,1) NOT NULL,
+	[Nombre] [nvarchar](50) NOT NULL,
+	[IdCategoriaPadre] [int] NULL,
+	[Orden] [int] NOT NULL,
+ CONSTRAINT [PK_Categorias] PRIMARY KEY (IdCategoria))
+END
+SET ANSI_NULLS ON;
+SET QUOTED_IDENTIFIER ON;
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[TiposModulo]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[TiposModulo](
+	[IdTipoModulo] [int] NOT NULL,
+	[Descripcion] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_TiposModulo] PRIMARY KEY (IdTipoModulo))
+END
+SET ANSI_NULLS ON;
+SET QUOTED_IDENTIFIER ON;
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Programas]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[Programas](
+	[IdPrograma] [int] IDENTITY(1,1) NOT NULL,
+	[Nombre] [nvarchar](100) NOT NULL,
+	[Ensamblado] [nvarchar](50) NOT NULL,
+ CONSTRAINT [PK_Programas] PRIMARY KEY (IdPrograma))
+END
+SET ANSI_NULLS ON;
+SET QUOTED_IDENTIFIER ON;
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[ModulosPerfil]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[ModulosPerfil](
+	[IdPerfil] [int] NOT NULL,
+	[IdModulo] [int] NOT NULL,
+	[PermitirInsertar] [bit] NOT NULL,
+	[PermitirModificar] [bit] NOT NULL,
+	[PermitirBorrar] [bit] NOT NULL,
+	[PermitirImprimir] [bit] NOT NULL,
+	[PermisosEspeciales] [varchar](50) NULL,
+ CONSTRAINT [PK_ModulosPerfil] PRIMARY KEY(IdPerfil,IdModulo))
+END
+SET ANSI_NULLS ON;
+SET QUOTED_IDENTIFIER ON;
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[PerfilesUsuarios]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[PerfilesUsuarios](
+	[IdUsuario] [int] NOT NULL,
+	[IdPerfil] [int] NOT NULL,
+ CONSTRAINT [PK_PerfilesUsuarios] PRIMARY KEY (IdUsuario,IdPerfil))
+END
+SET ANSI_NULLS ON;
+SET QUOTED_IDENTIFIER ON;
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Usuarios]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[Usuarios](
+	[IdUsuario] [int] IDENTITY(7,1) NOT NULL,
+	[Usuario] [nvarchar](10) NOT NULL,
+	[Clave] [nvarchar](10) NOT NULL,
+	[Nombre] [nvarchar](200) NOT NULL,
+	[IdEmpresa] [int] NULL,
+	[Email] [nvarchar](200) NOT NULL,
+	[Sistema] [bit] NOT NULL,
+	[SuperUser] [bit] NULL,
+	[MultiEmpresa] [bit] NULL,
+	[FechaCreacion] [datetime] NOT NULL,
+	[Activo] [bit] NOT NULL,
+ CONSTRAINT [PK_Usuarios] PRIMARY KEY(IdUsuario))
+END
+SET ANSI_NULLS ON;
+SET QUOTED_IDENTIFIER ON;
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Modulos]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[Modulos](
+	[IdModulo] [int] IDENTITY(1,1) NOT NULL,
+	[IdTipoModulo] [int] NOT NULL,
+	[IdPrograma] [int] NULL,
+	[Nombre] [nvarchar](100) NOT NULL,
+	[ClassURL] [nvarchar](200) NULL,
+	[Activo] [bit] NOT NULL,
+	[IdCategoria] [int] NULL,
+	[Icon16] [image] NULL,
+ CONSTRAINT [PK_Modulos] PRIMARY KEY (IdModulo))
+END
+SET ANSI_NULLS ON;
+SET QUOTED_IDENTIFIER ON;
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[PermisosEspeciales]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[PermisosEspeciales](
+	[IdModulo] [int] NOT NULL,
+	[IdPermiso] [int] NOT NULL,
+	[Descripcion] [nvarchar](60) NOT NULL,
+ CONSTRAINT [PK_PermisosEspeciales] PRIMARY KEY (IdModulo,IdPermiso))
+END
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_ModulosPerfil_Modulos]') AND parent_object_id = OBJECT_ID(N'[dbo].[ModulosPerfil]'))
+ALTER TABLE [dbo].[ModulosPerfil]  WITH CHECK ADD  CONSTRAINT [FK_ModulosPerfil_Modulos] FOREIGN KEY([IdModulo])
+REFERENCES [dbo].[Modulos] ([IdModulo]);
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_ModulosPerfil_Perfiles]') AND parent_object_id = OBJECT_ID(N'[dbo].[ModulosPerfil]'))
+ALTER TABLE [dbo].[ModulosPerfil]  WITH CHECK ADD  CONSTRAINT [FK_ModulosPerfil_Perfiles] FOREIGN KEY([IdPerfil])
+REFERENCES [dbo].[Perfiles] ([IdPerfil]);
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_PerfilesUsuarios_Perfiles]') AND parent_object_id = OBJECT_ID(N'[dbo].[PerfilesUsuarios]'))
+ALTER TABLE [dbo].[PerfilesUsuarios]  WITH CHECK ADD  CONSTRAINT [FK_PerfilesUsuarios_Perfiles] FOREIGN KEY([IdPerfil])
+REFERENCES [dbo].[Perfiles] ([IdPerfil]);
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_PerfilesUsuarios_Usuarios]') AND parent_object_id = OBJECT_ID(N'[dbo].[PerfilesUsuarios]'))
+ALTER TABLE [dbo].[PerfilesUsuarios]  WITH CHECK ADD  CONSTRAINT [FK_PerfilesUsuarios_Usuarios] FOREIGN KEY([IdUsuario])
+REFERENCES [dbo].[Usuarios] ([IdUsuario]);
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_Usuarios_Empresas]') AND parent_object_id = OBJECT_ID(N'[dbo].[Usuarios]'))
+ALTER TABLE [dbo].[Usuarios]  WITH CHECK ADD  CONSTRAINT [FK_Usuarios_Empresas] FOREIGN KEY([IdEmpresa])
+REFERENCES [dbo].[Empresas] ([IdEmpresa]);
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_Modulos_Categorias]') AND parent_object_id = OBJECT_ID(N'[dbo].[Modulos]'))
+ALTER TABLE [dbo].[Modulos]  WITH CHECK ADD  CONSTRAINT [FK_Modulos_Categorias] FOREIGN KEY([IdCategoria])
+REFERENCES [dbo].[Categorias] ([IdCategoria]);
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_Modulos_Programas]') AND parent_object_id = OBJECT_ID(N'[dbo].[Modulos]'))
+ALTER TABLE [dbo].[Modulos]  WITH CHECK ADD  CONSTRAINT [FK_Modulos_Programas] FOREIGN KEY([IdPrograma])
+REFERENCES [dbo].[Programas] ([IdPrograma]);
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_Modulos_TiposModulo]') AND parent_object_id = OBJECT_ID(N'[dbo].[Modulos]'))
+ALTER TABLE [dbo].[Modulos]  WITH CHECK ADD  CONSTRAINT [FK_Modulos_TiposModulo] FOREIGN KEY([IdTipoModulo])
+REFERENCES [dbo].[TiposModulo] ([IdTipoModulo]);
+IF NOT EXISTS (SELECT * FROM sys.foreign_keys WHERE object_id = OBJECT_ID(N'[dbo].[FK_PermisosEspeciales_Modulos]') AND parent_object_id = OBJECT_ID(N'[dbo].[PermisosEspeciales]'))
+ALTER TABLE [dbo].[PermisosEspeciales]  WITH CHECK ADD  CONSTRAINT [FK_PermisosEspeciales_Modulos] FOREIGN KEY([IdModulo])
+REFERENCES [dbo].[Modulos] ([IdModulo]);
+INSERT [dbo].[TiposModulo] ([IdTipoModulo], [Descripcion]) VALUES (0, N'Módulo Interno Nucleo')
+INSERT [dbo].[TiposModulo] ([IdTipoModulo], [Descripcion]) VALUES (1, N'Módulo Programa Externo')
+INSERT [dbo].[TiposModulo] ([IdTipoModulo], [Descripcion]) VALUES (2, N'Módulo Web')
+INSERT [dbo].[TiposModulo] ([IdTipoModulo], [Descripcion]) VALUES (3, N'Módulo Movil')

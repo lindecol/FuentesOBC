@@ -1,0 +1,58 @@
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\bin\Debug\Datascan.Windows.Forms.dll.config
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\bin\Debug\Datascan.Windows.Forms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\bin\Debug\Datascan.Windows.Forms.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Images.Collapse.jpg
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Images.Collapse_h.jpg
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Images.Expand.jpg
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Images.Expand_h.jpg
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Images.XPander.ico
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.DataComboBox.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.EnumComboBox.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Graph.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.NumericInputBox.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.TextInputBox.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Shape.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.HeaderStrip.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.PaneCaption.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.SectionHeader.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.ChartControl.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.ListBar.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.PaneCaption.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.SectionHeader.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.XPander.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.XPanderList.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.frmListBarTest.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Properties.Resources.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.csproj.GenerateResource.Cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\bin\Debug\Datascan.Windows.Forms.dll.config
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\bin\Debug\Datascan.Windows.Forms.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\bin\Debug\Datascan.Windows.Forms.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\ResolveAssemblyReference.cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Images.Collapse.jpg
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Images.Collapse_h.jpg
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Images.Expand.jpg
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Images.Expand_h.jpg
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Images.XPander.ico
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.DataComboBox.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.EnumComboBox.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Graph.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.NumericInputBox.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.TextInputBox.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Shape.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.HeaderStrip.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.PaneCaption.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.SectionHeader.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.ChartControl.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.ListBar.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.PaneCaption.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.SectionHeader.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.XPander.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.XPanderList.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.frmListBarTest.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.Properties.Resources.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.csproj.GenerateResource.Cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Windows.Forms\obj\Debug\Datascan.Windows.Forms.pdb

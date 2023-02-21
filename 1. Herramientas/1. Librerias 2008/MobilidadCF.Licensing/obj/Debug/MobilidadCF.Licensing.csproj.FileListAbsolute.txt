@@ -1,0 +1,26 @@
+C:\Workspace\Librerias - 2008\MobilidadCF.Licensing\bin\Debug\MovilidadCF.Licensing.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Licensing\bin\Debug\MovilidadCF.Licensing.pdb
+C:\Workspace\Librerias - 2008\MobilidadCF.Licensing\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\Librerias - 2008\MobilidadCF.Licensing\obj\Debug\MovilidadCF.Licensing.LicenceErrorForm.resources
+C:\Workspace\Librerias - 2008\MobilidadCF.Licensing\obj\Debug\MobilidadCF.Licensing.csproj.GenerateResource.Cache
+C:\Workspace\Librerias - 2008\MobilidadCF.Licensing\obj\Debug\MovilidadCF.Licensing.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Licensing\obj\Debug\MovilidadCF.Licensing.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\bin\Debug\MovilidadCF.Licensing.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\bin\Debug\MovilidadCF.Licensing.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\bin\Debug\OpenNETCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\bin\Debug\OpenNETCF.Drawing.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\bin\Debug\OpenNETCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\bin\Debug\OpenNETCF.WindowsCE.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\bin\Debug\OpenNETCF.Configuration.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\bin\Debug\OpenNETCF.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\bin\Debug\OpenNETCF.WindowsCE.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\bin\Debug\OpenNETCF.Drawing.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\bin\Debug\OpenNETCF.Configuration.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\bin\Debug\OpenNETCF.Windows.Forms.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\obj\Debug\MovilidadCF.Licensing.LicenceErrorForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\obj\Debug\MobilidadCF.Licensing.csproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\obj\Debug\MovilidadCF.Licensing.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Licensing\obj\Debug\MovilidadCF.Licensing.pdb

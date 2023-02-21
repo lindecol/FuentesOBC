@@ -1,0 +1,95 @@
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\ScriptsBD\ScriptSQLMobile.txt
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Test.exe.config
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Test.exe
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Test.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Test.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Data.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Data.Transformations.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Framework.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Windows.Forms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Mono.Security.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Npgsql.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Framework.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Data.Transformations.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Data.Transformations.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Data.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Windows.Forms.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.DataTestForm.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.Form1.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.Form2.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.Resources.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.PAFClientTest.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.TestSerializador.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.exe
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Test.exe.config
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.exe
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\ScriptsBD\ScriptSQLMobile.txt
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Test.exe
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Test.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Test.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Data.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Data.Transformations.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Framework.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Windows.Forms.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Mono.Security.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Npgsql.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Framework.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Data.Transformations.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Data.Transformations.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Data.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Windows.Forms.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\ResolveAssemblyReference.cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.DataTestForm.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.Form1.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.Form2.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.Resources.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.PAFClientTest.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.TestSerializador.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+D:\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\ResolveAssemblyReference.cache
+D:\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.DataTestForm.resources
+D:\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.Form1.resources
+D:\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.Form2.resources
+D:\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.Resources.resources
+D:\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.PAFClientTest.resources
+D:\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.TestSerializador.resources
+D:\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.vbproj.GenerateResource.Cache
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\ScriptsBD\ScriptSQLMobile.txt
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Test.exe.config
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Test.exe
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Test.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Test.xml
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Desktop.Data.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Desktop.Data.Transformations.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Desktop.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Desktop.Framework.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Desktop.Windows.Forms.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Mono.Security.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Npgsql.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Datascan.Data.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Desktop.Data.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Desktop.Windows.Forms.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Desktop.Framework.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Desktop.Data.Transformations.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\Test\bin\Debug\Desktop.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.exe
+D:\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.xml
+D:\LibreriasMovilidad\Codigo\Librerias\Test\obj\Debug\Test.pdb
+C:\Workspace\Librerias\Test\bin\Debug\Test.exe.config
+C:\Workspace\Librerias\Test\obj\Debug\Test.exe
+C:\Workspace\Librerias\Test\obj\Debug\Test.xml
+C:\Workspace\Librerias\Test\obj\Debug\Test.pdb

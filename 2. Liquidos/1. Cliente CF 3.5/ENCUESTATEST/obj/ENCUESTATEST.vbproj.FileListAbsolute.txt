@@ -1,0 +1,13 @@
+C:\Users\OBC\Desktop\OBC\OBC LIQUIDOS\Proyecto.Liquido\Liquidos\ENCUESTATEST\bin\Debug\ENCUESTATEST.exe
+C:\Users\OBC\Desktop\OBC\OBC LIQUIDOS\Proyecto.Liquido\Liquidos\ENCUESTATEST\bin\Debug\ENCUESTATEST.pdb
+C:\Users\OBC\Desktop\OBC\OBC LIQUIDOS\Proyecto.Liquido\Liquidos\ENCUESTATEST\bin\Debug\ENCUESTATEST.xml
+C:\Users\OBC\Desktop\OBC\OBC LIQUIDOS\Proyecto.Liquido\Liquidos\ENCUESTATEST\bin\Debug\Oxigenos.EncuestaNiso.dll
+C:\Users\OBC\Desktop\OBC\OBC LIQUIDOS\Proyecto.Liquido\Liquidos\ENCUESTATEST\bin\Debug\Oxigenos.EncuestaNiso.pdb
+C:\Users\OBC\Desktop\OBC\OBC LIQUIDOS\Proyecto.Liquido\Liquidos\ENCUESTATEST\bin\Debug\Oxigenos.EncuestaNiso.xml
+C:\Users\OBC\Desktop\OBC\OBC LIQUIDOS\Proyecto.Liquido\Liquidos\ENCUESTATEST\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OBC\Desktop\OBC\OBC LIQUIDOS\Proyecto.Liquido\Liquidos\ENCUESTATEST\obj\Debug\ENCUESTATEST.Form1.resources
+C:\Users\OBC\Desktop\OBC\OBC LIQUIDOS\Proyecto.Liquido\Liquidos\ENCUESTATEST\obj\Debug\ENCUESTATEST.Resources.resources
+C:\Users\OBC\Desktop\OBC\OBC LIQUIDOS\Proyecto.Liquido\Liquidos\ENCUESTATEST\obj\Debug\ENCUESTATEST.vbproj.GenerateResource.Cache
+C:\Users\OBC\Desktop\OBC\OBC LIQUIDOS\Proyecto.Liquido\Liquidos\ENCUESTATEST\obj\Debug\ENCUESTATEST.exe
+C:\Users\OBC\Desktop\OBC\OBC LIQUIDOS\Proyecto.Liquido\Liquidos\ENCUESTATEST\obj\Debug\ENCUESTATEST.xml
+C:\Users\OBC\Desktop\OBC\OBC LIQUIDOS\Proyecto.Liquido\Liquidos\ENCUESTATEST\obj\Debug\ENCUESTATEST.pdb

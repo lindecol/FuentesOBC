@@ -1,0 +1,10 @@
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.Shared\bin\Debug\Oxigenos.Common.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.Shared\bin\Debug\Oxigenos.Common.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.Shared\bin\Debug\Oxigenos.Shared.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.Shared\bin\Debug\System.Data.SqlServerCe.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.Shared\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.Shared\obj\Debug\Oxigenos.Common.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.Shared\obj\Debug\Oxigenos.Common.vbproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.Shared\obj\Debug\Oxigenos.Common.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.Shared\obj\Debug\Oxigenos.Shared.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\1. Cliente CF 3.5\Oxigenos.Shared\obj\Debug\Oxigenos.Common.pdb

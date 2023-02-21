@@ -1,0 +1,192 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Oxigenos.Principal
+</name>
+</assembly>
+<members>
+<member name="T:Oxigenos.Principal.NucleoDataSet.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.DireccionesClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.TalonariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.ParametrosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.PedidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.EntidadesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.TiposClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.TiposPagoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.DireccionesClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.TalonariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.ParametrosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.PedidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.EntidadesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.TiposClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.TiposPagoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.DireccionesClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.TalonariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.ParametrosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.PedidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.EntidadesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.TiposClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet.TiposPagoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSetTableAdapters.ClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSetTableAdapters.DireccionesClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSetTableAdapters.TalonariosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSetTableAdapters.ParametrosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSetTableAdapters.PedidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Principal.NucleoDataSetTableAdapters.EntidadesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Oxigenos.Principal.OxigenosWS.DataAccess.#ctor">
+	<remarks/>
+</member><member name="M:Oxigenos.Principal.OxigenosWS.DataAccess.GetFechaSistema">
+	<remarks/>
+</member><member name="M:Oxigenos.Principal.OxigenosWS.DataAccess.BeginGetFechaSistema(System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:Oxigenos.Principal.OxigenosWS.DataAccess.EndGetFechaSistema(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:Oxigenos.Principal.OxigenosWS.DataAccess.GetDatosCarga(System.String,System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:Oxigenos.Principal.OxigenosWS.DataAccess.BeginGetDatosCarga(System.String,System.Int32,System.Int32,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:Oxigenos.Principal.OxigenosWS.DataAccess.EndGetDatosCarga(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:Oxigenos.Principal.OxigenosWS.DataAccess.ConfirmarCarga(System.String,System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:Oxigenos.Principal.OxigenosWS.DataAccess.BeginConfirmarCarga(System.String,System.Int32,System.Int32,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:Oxigenos.Principal.OxigenosWS.DataAccess.EndConfirmarCarga(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:Oxigenos.Principal.OxigenosWS.DataAccess.SendDatos(System.String,System.Int32,System.Int32,System.String)">
+	<remarks/>
+</member><member name="M:Oxigenos.Principal.OxigenosWS.DataAccess.BeginSendDatos(System.String,System.Int32,System.Int32,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:Oxigenos.Principal.OxigenosWS.DataAccess.EndSendDatos(System.IAsyncResult)">
+	<remarks/>
+</member><member name="T:Oxigenos.Principal.OxigenosWS.DataAccess">
+	<remarks/>
+</member><member name="M:Oxigenos.Principal.ImprimirComprobantes.PrintPortatilHojaRuta(Oxigenos.Common.PrinterDocument)">
+	<summary>
+ Imprimir hoja de ruta
+ </summary>
+	<param name="doc"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Oxigenos.Principal.NucleoDataAccess.ActualizarDocumentoPDF(System.String,System.String,System.String,System.String)">
+	<summary>
+ KUXAN 26/12/2019 Funcion para actualizar el path del PDF generado
+ </summary>
+	<param name="tipoFactura">Tipo Factura</param>
+	<param name="numeroFactura">Numero Factura</param>
+	<param name="prefijo">Prefijo</param>
+	<param name="path">Path PDF generado</param>
+	<remarks></remarks>
+</member><member name="P:Oxigenos.Principal.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Oxigenos.Principal.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Oxigenos.Principal.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

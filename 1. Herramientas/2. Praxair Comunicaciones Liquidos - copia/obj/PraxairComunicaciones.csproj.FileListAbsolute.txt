@@ -1,0 +1,52 @@
+D:\Workspace2\QuickMobile.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\Workspace2\QuickMobile.Client\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+D:\Workspace2\QuickMobile.Client\bin\Debug\System.Data.SqlServerCe.dll
+D:\Workspace2\QuickMobile.Client\bin\Debug\System.Data.SqlServerCe.xml
+D:\Workspace2\QuickMobile.Client\obj\Debug\PraxairComunicaciones.Imagenes.AnimateCtl1.Image.jpg
+D:\Workspace2\QuickMobile.Client\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+D:\Workspace2\QuickMobile.Client\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+D:\Workspace2\QuickMobile.Client\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+D:\Workspace2\QuickMobile.Client\bin\Debug\PraxairComunicaciones.dll
+D:\Workspace2\QuickMobile.Client\bin\Debug\PraxairComunicaciones.pdb
+D:\Workspace2\QuickMobile.Client\obj\Debug\PraxairComunicaciones.dll
+D:\Workspace2\QuickMobile.Client\obj\Debug\PraxairComunicaciones.pdb
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\obj\Debug\PraxairComunicaciones.Imagenes.AnimateCtl1.Image.jpg
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\obj\Debug\PraxairComunicaciones.dll
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\obj\Debug\PraxairComunicaciones.pdb
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\bin\Debug\PraxairComunicaciones.dll
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\bin\Debug\PraxairComunicaciones.pdb
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\bin\Debug\DatascanCF.Data.dll
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\bin\Debug\DatascanCF.dll
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\bin\Debug\System.Data.SqlServerCe.dll
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\bin\Debug\System.Data.SqlClient.dll
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\bin\Debug\System.Data.SqlServerCe.xml
+C:\Documents and Settings\colejxa2\Mis documentos\Fuentes\ProyectoOBCLiquido\Proyecto Liquido v 2.05\comunicaicones\bin\Debug\System.Data.SqlClient.xml
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\PraxairComunicaciones.dll
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\PraxairComunicaciones.pdb
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\DatascanCF.Data.dll
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\DatascanCF.dll
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\icsharpcode.sharpziplib.dll
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\OpenNETCF.dll
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\OpenNETCF.Drawing.dll
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\OpenNETCF.Net.dll
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\System.Data.SqlServerCe.dll
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\System.Data.SqlClient.dll
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\System.Data.SqlServerCe.xml
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\bin\Debug\System.Data.SqlClient.xml
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\obj\Debug\ResolveAssemblyReference.cache
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\obj\Debug\PraxairComunicaciones.Imagenes.AnimateCtl1.Image.jpg
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\obj\Debug\PraxairComunicaciones.dll
+C:\Fuentes\Proyecto.Liquido\Liquidos\comunicaicones\obj\Debug\PraxairComunicaciones.pdb

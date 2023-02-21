@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Desktop.Windows.Forms.BaseStackStrip" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>BaseStackStrip.cs</FileName>
+      <HashCode>CAAwAAABAAACAAAAIAAAAEAABAAAAAAAAAAAAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop.Windows.Forms.DataComboBox" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataComboBox.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop.Windows.Forms.EnumComboBox" Collapsed="true">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>EnumComboBox.cs</FileName>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAgAAAAAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop.Windows.Forms.Graph" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Graph.cs</FileName>
+      <HashCode>AEGAFQAQACAAQAAAQISAgCAqAAAACBEAAAAIAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop.Windows.Forms.HeaderStrip" Collapsed="true">
+    <Position X="2.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>HeaderStrip.cs</FileName>
+      <HashCode>DAAAAAAAAAACgAAAAAAAAEAABAAAAAAgAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop.Windows.Forms.PaneCaption" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PaneCaption.cs</FileName>
+      <HashCode>AACAACAAACAJAgAIAECAAEBCAEAAACAACAAAAAAABAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop.Windows.Forms.Shape" Collapsed="true">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Shape.cs</FileName>
+      <HashCode>AACAAAAAACAAAAAAQACAAAACAAAAAAAABAEAAAAABAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop.Windows.Forms.StackStrip" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>StackStrip.cs</FileName>
+      <HashCode>AAggAIEBAAAAAAAAJQAQAAEAAACAAACAQEAQAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop.Windows.Forms.TextInputBox" Collapsed="true">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TextInputBox.cs</FileName>
+      <HashCode>AgAEAAADAGAABAERAACEAAICACABAAAgQBgACAAAoAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop.Windows.Forms.SectionHeader" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SectionHeader.cs</FileName>
+      <HashCode>AACEAAAEACAJAgAIQACAAEBCAEAAACAACAAAAAAABAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Desktop.Windows.Forms.DataGridView" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataGridView.cs</FileName>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

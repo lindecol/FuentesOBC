@@ -1,0 +1,47 @@
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\PruebaWM.exe
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\PruebaWM.pdb
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Data.dll
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.dll
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Drawing.dll
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Configuration.dll
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.xml
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Drawing.xml
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Data.xml
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Configuration.xml
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Windows.Forms.xml
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\obj\Debug\PruebaWM.Properties.Resources.resources
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\obj\Debug\PruebaWM.csproj.GenerateResource.Cache
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\obj\Debug\PruebaWM.exe
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\obj\Debug\PruebaWM.pdb
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\itextsharpcf.dll
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\obj\Debug\PruebaWM.frmFirma.resources
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\obj\Debug\PruebaWM.Form1.resources
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\System.Data.SqlClient.dll
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\GenerarPDF.dll
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\GenerarPDF.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\obj\Debug\PruebaWM.Form1.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\obj\Debug\PruebaWM.frmFirma.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\obj\Debug\PruebaWM.Properties.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\obj\Debug\PruebaWM.csproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\obj\Debug\PruebaWM.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\PruebaWM.exe
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\PruebaWM.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\GenerarPDF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\itextsharpcf.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Data.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Drawing.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\System.Data.SqlClient.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Configuration.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\GenerarPDF.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Drawing.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Data.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Configuration.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\bin\Debug\OpenNETCF.Windows.Forms.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\PDF 2019\PruebaWMmartes\PruebaWM\PruebaWM\obj\Debug\PruebaWM.exe
+C:\Users\JEAN POOL\Documents\Visual Studio 2008\Projects\PruebaWM\PruebaWM\bin\Debug\System.Data.SqlServerCe.dll

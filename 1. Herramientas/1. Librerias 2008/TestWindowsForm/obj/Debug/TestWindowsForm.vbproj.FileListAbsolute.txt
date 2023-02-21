@@ -1,0 +1,27 @@
+C:\Workspace\Librerias - 2008\TestWindowsForm\bin\Debug\TestWindowsForm.exe
+C:\Workspace\Librerias - 2008\TestWindowsForm\bin\Debug\TestWindowsForm.pdb
+C:\Workspace\Librerias - 2008\TestWindowsForm\bin\Debug\TestWindowsForm.xml
+C:\Workspace\Librerias - 2008\TestWindowsForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\Librerias - 2008\TestWindowsForm\obj\Debug\TestWindowsForm.Resources.resources
+C:\Workspace\Librerias - 2008\TestWindowsForm\obj\Debug\TestWindowsForm.vbproj.GenerateResource.Cache
+C:\Workspace\Librerias - 2008\TestWindowsForm\obj\Debug\TestWindowsForm.exe
+C:\Workspace\Librerias - 2008\TestWindowsForm\obj\Debug\TestWindowsForm.xml
+C:\Workspace\Librerias - 2008\TestWindowsForm\obj\Debug\TestWindowsForm.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\TestWindowsForm\obj\Debug\TestWindowsForm.exe
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\TestWindowsForm\obj\Debug\TestWindowsForm.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\TestWindowsForm\obj\Debug\TestWindowsForm.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\TestWindowsForm\bin\Debug\TestWindowsForm.exe
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\TestWindowsForm\bin\Debug\TestWindowsForm.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\TestWindowsForm\bin\Debug\TestWindowsForm.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\TestWindowsForm\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\TestWindowsForm\obj\Debug\TestWindowsForm.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\TestWindowsForm\obj\Debug\TestWindowsForm.vbproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\TestWindowsForm\bin\Debug\TestWindowsForm.exe
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\TestWindowsForm\bin\Debug\TestWindowsForm.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\TestWindowsForm\bin\Debug\TestWindowsForm.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\TestWindowsForm\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\TestWindowsForm\obj\Debug\TestWindowsForm.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\TestWindowsForm\obj\Debug\TestWindowsForm.vbproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\TestWindowsForm\obj\Debug\TestWindowsForm.exe
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\TestWindowsForm\obj\Debug\TestWindowsForm.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\TestWindowsForm\obj\Debug\TestWindowsForm.pdb

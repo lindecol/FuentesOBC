@@ -1,0 +1,88 @@
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Client.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Client.pdb
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\System.Data.SqlServerCe.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\System.Data.SqlClient.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.Comunicacion.CargaDatosForm.resources
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.Comunicacion.DescargarDatosForm.resources
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.frmPruebacomunicacion.resources
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.Properties.Resources.resources
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.Comunicacion.ActualizarVersiones.resources
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MobilidadCF.Client.csproj.GenerateResource.Cache
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.pdb
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Data.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Windows.Forms.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Windows.Forms.pdb
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Data.pdb
+C:\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Client.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Client.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Data.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Drawing.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Net.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.WindowsCE.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\System.Data.SqlServerCe.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Configuration.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\System.Data.SqlClient.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Data.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.WindowsCE.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Configuration.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Drawing.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Net.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Windows.Forms.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.Comunicacion.CargaDatosForm.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.Comunicacion.DescargarDatosForm.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.frmPruebacomunicacion.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.Properties.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.Comunicacion.ActualizarVersiones.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MobilidadCF.Client.csproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Client.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Client.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Data.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Drawing.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Net.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.WindowsCE.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\System.Data.SqlServerCe.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Configuration.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\System.Data.SqlClient.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.Data.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.WindowsCE.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Configuration.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Drawing.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Net.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\MovilidadCF.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\bin\Debug\OpenNETCF.Windows.Forms.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.Comunicacion.CargaDatosForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.Comunicacion.DescargarDatosForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.frmPruebacomunicacion.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.Properties.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.Comunicacion.ActualizarVersiones.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\obj\Debug\MobilidadCF.Client.csproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Client\obj\Debug\MovilidadCF.Client.pdb

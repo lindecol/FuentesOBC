@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "http://localhost/WebServicesOBC/", "http://localhost/WebServicesOBC", "{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}"
+	ProjectSection(WebsiteProperties) = preProject
+		ProjectReferences = ""
+		Debug.AspNetCompiler.VirtualPath = "/WebServicesOBC"
+		Debug.AspNetCompiler.PhysicalPath = "C:\PROYECTOS\PocketPC.NET\VisualStudio 2005\Oxigenos - Despachos\WebServicesOBC\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebServicesOBC\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebServicesOBC"
+		Release.AspNetCompiler.PhysicalPath = "C:\PROYECTOS\PocketPC.NET\VisualStudio 2005\Oxigenos - Despachos\WebServicesOBC\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebServicesOBC\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "C:\PROYECTOS\PocketPC.NET\VisualStudio 2005\Oxigenos - Despachos\WebServicesOBC\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupwebServicesOBC", "..\SetupwebServicesOBC\SetupwebServicesOBC.vdproj", "{DCBCE463-FC25-4432-BCF7-4EBF92711827}"
+EndProject
+Project("{2CFEAB61-6A3B-4EB8-B523-560B4BEEF521}") = "WebServicesOBC_deploy", "..\WebServicesOBC_deploy\WebServicesOBC_deploy.wdproj", "{4640E8DA-DBAB-4C03-993D-C12110A5710D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Debug|.NET.ActiveCfg = Debug|.NET
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Debug|.NET.Build.0 = Debug|.NET
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Release|.NET.ActiveCfg = Debug|.NET
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Release|.NET.Build.0 = Debug|.NET
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Release|Mixed Platforms.Build.0 = Debug|.NET
+		{DCBCE463-FC25-4432-BCF7-4EBF92711827}.Debug|.NET.ActiveCfg = Debug
+		{DCBCE463-FC25-4432-BCF7-4EBF92711827}.Debug|Any CPU.ActiveCfg = Debug
+		{DCBCE463-FC25-4432-BCF7-4EBF92711827}.Debug|Mixed Platforms.ActiveCfg = Debug
+		{DCBCE463-FC25-4432-BCF7-4EBF92711827}.Release|.NET.ActiveCfg = Release
+		{DCBCE463-FC25-4432-BCF7-4EBF92711827}.Release|Any CPU.ActiveCfg = Release
+		{DCBCE463-FC25-4432-BCF7-4EBF92711827}.Release|Mixed Platforms.ActiveCfg = Release
+		{4640E8DA-DBAB-4C03-993D-C12110A5710D}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{4640E8DA-DBAB-4C03-993D-C12110A5710D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4640E8DA-DBAB-4C03-993D-C12110A5710D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4640E8DA-DBAB-4C03-993D-C12110A5710D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4640E8DA-DBAB-4C03-993D-C12110A5710D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4640E8DA-DBAB-4C03-993D-C12110A5710D}.Release|.NET.ActiveCfg = Release|Any CPU
+		{4640E8DA-DBAB-4C03-993D-C12110A5710D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4640E8DA-DBAB-4C03-993D-C12110A5710D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4640E8DA-DBAB-4C03-993D-C12110A5710D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4640E8DA-DBAB-4C03-993D-C12110A5710D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

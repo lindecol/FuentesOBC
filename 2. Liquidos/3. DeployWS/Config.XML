@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<AppSettings>
+  <Configuracion>
+    <Key>ConexionOracle</Key>
+    <Value>u9fvTElF84IplR/cz8xLDw==</Value>
+  </Configuracion>
+  <Configuracion>
+    <Key>UsuarioOracle</Key>
+    <Value>s1FK8yUpdZbxJU0n9+XF7w==</Value>
+  </Configuracion>
+  <Configuracion>
+    <Key>ContrasenaOracle</Key>
+    <Value>EjCcHVA5p0mli7FZ8WVoxw==</Value>
+  </Configuracion>
+  <Configuracion>
+    <Key>CodigoPrograma</Key>
+    <Value>2</Value>
+  </Configuracion>
+</AppSettings>

@@ -1,0 +1,55 @@
+C:\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\MovilidadCF.Bluetooth.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\MovilidadCF.Bluetooth.pdb
+C:\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\MovilidadCF.Windows.Forms.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\MovilidadCF.Windows.Forms.pdb
+C:\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.FormFindDevice.resources
+C:\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.FormPrint.resources
+C:\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.FormReceiveFile.resources
+C:\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.FormSendFile.resources
+C:\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\MobilidadCF.Bluetooth.csproj.GenerateResource.Cache
+C:\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\MovilidadCF.Bluetooth.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\MovilidadCF.Bluetooth.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\MovilidadCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.Drawing.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.Configuration.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\MovilidadCF.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.Drawing.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.Configuration.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.Windows.Forms.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.FormFindDevice.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.FormPrint.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.FormReceiveFile.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.FormSendFile.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\MobilidadCF.Bluetooth.csproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\bin\Debug\MovilidadCF.Bluetooth.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\bin\Debug\MovilidadCF.Bluetooth.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\bin\Debug\InTheHand.Net.Personal.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\bin\Debug\MovilidadCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.Drawing.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.Configuration.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\bin\Debug\MovilidadCF.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.Drawing.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.Configuration.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\bin\Debug\OpenNETCF.Windows.Forms.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.FormFindDevice.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.FormPrint.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.FormReceiveFile.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.FormSendFile.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\obj\Debug\MobilidadCF.Bluetooth.csproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Bluetooth\obj\Debug\MovilidadCF.Bluetooth.pdb

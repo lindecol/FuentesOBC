@@ -1,0 +1,8 @@
+9/09/2020 8:42:10 a. m. ERROR: System.Data.OracleClient requiere la version 8.1.7 o posterior del software cliente de Oracle.
+9/09/2020 8:44:21 a. m. ERROR: La cadena de entrada no tiene el formato correcto.No se puede almacenar < > en la columna Asignaciones. El tipo esperado es Int16.
+9/09/2020 8:45:57 a. m. ERROR: La cadena de entrada no tiene el formato correcto.No se puede almacenar < > en la columna Asignaciones. El tipo esperado es Int16.
+9/09/2020 8:47:58 a. m. ERROR: La cadena de entrada no tiene el formato correcto.No se puede almacenar < > en la columna Asignaciones. El tipo esperado es Int16.
+9/09/2020 8:52:40 a. m. ERROR: La cadena de entrada no tiene el formato correcto.No se puede almacenar < > en la columna Monto. El tipo esperado es Decimal.
+9/09/2020 8:54:28 a. m. ERROR: La cadena de entrada no tiene el formato correcto.No se puede almacenar < > en la columna Monto. El tipo esperado es Decimal.
+9/09/2020 8:58:01 a. m. ERROR: La cadena de entrada no tiene el formato correcto.No se puede almacenar < > en la columna Monto. El tipo esperado es Decimal.
+9/09/2020 9:00:23 a. m. ERROR: System.Data.OracleClient requiere la version 8.1.7 o posterior del software cliente de Oracle.

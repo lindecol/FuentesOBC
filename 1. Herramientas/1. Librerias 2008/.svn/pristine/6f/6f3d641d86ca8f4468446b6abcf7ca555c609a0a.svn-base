@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{20FC1BCE-1215-4FD3-94C3-0327693C8FDA}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>Desktop.Framework</RootNamespace>
+    <AssemblyName>Desktop.Framework</AssemblyName>
+    <MyType>Windows</MyType>
+    <OptionStrict>On</OptionStrict>
+    <ManifestCertificateThumbprint>F20242CF55730E15EA8BCAC2B2744B6F55EBF0BE</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Centuaro.Nucleo_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>false</SignManifests>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <PublishUrl>http://192.168.0.26/DatascanSWM/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <TargetCulture>es</TargetCulture>
+    <ProductName>Datascan WMS</ProductName>
+    <PublisherName>Datascan Ltda</PublisherName>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Centaro.EXE.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Centaro.EXE.xml</DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Datascan, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Datascan\bin\Debug\Datascan.dll</HintPath>
+    </Reference>
+    <Reference Include="Datascan.Data, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Datascan.Data\bin\Debug\Datascan.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Datascan.Windows.Forms, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Datascan.Windows.Forms\bin\Debug\Datascan.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.0.0, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Datascan.Data" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IU\AcercaDeDialog.Designer.vb">
+      <DependentUpon>AcercaDeDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\AcercaDeDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataAccess\ConfiguracionDataSet.Designer.vb">
+      <DependentUpon>ConfiguracionDataSet.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataAccess\ConfiguracionDataSet.vb">
+      <DependentUpon>ConfiguracionDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\ConfigurarModulosForm.Designer.vb">
+      <DependentUpon>ConfigurarModulosForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\ConfigurarModulosForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuracion\EditarModuloDialog.Designer.vb">
+      <DependentUpon>EditarModuloDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\EditarModuloDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuracion\EmpresasForm.Designer.vb">
+      <DependentUpon>EmpresasForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\EmpresasForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataAccess\GestorConfiguracion.vb">
+    </Compile>
+    <Compile Include="Configuracion\MainConfiguracionForm.Designer.vb">
+      <DependentUpon>MainConfiguracionForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\MainConfiguracionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuracion\RegistroProgramasDialog.Designer.vb">
+      <DependentUpon>RegistroProgramasDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\RegistroProgramasDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuracion\SelecionarCategoriaDialog.Designer.vb">
+      <DependentUpon>SelecionarCategoriaDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracion\SelecionarCategoriaDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataAccess\SeguridadDataset.designer.vb">
+      <DependentUpon>SeguridadDataset.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataAccess\SeguridadDataset.vb">
+      <DependentUpon>SeguridadDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IU\DataNavigationControl.Designer.vb">
+      <DependentUpon>DataNavigationControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\DataNavigationControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IU\Security\CambiarClaveDialog.Designer.vb">
+      <DependentUpon>CambiarClaveDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\Security\CambiarClaveDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\Security\EditarUsuarioDialog.Designer.vb">
+      <DependentUpon>EditarUsuarioDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\Security\EditarUsuarioDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\Security\PerfilesUsuarioDialog.Designer.vb">
+      <DependentUpon>PerfilesUsuarioDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\Security\PerfilesUsuarioDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\Security\EditarPerfilDialog.Designer.vb">
+      <DependentUpon>EditarPerfilDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\Security\EditarPerfilDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataAccess\GestorSeguridad.vb">
+    </Compile>
+    <Compile Include="DataAccess\SesionDataset.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SesionDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess\GestorSesion.vb">
+    </Compile>
+    <Compile Include="IU\MainForm.Designer.vb">
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\Security\PerfilesUsuariosView.Designer.vb">
+      <DependentUpon>PerfilesUsuariosView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\Security\PerfilesUsuariosView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IU\Security\UsuarioView.Designer.vb">
+      <DependentUpon>UsuarioView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\Security\UsuarioView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IU\SeleccionarEmpresaDialog.Designer.vb">
+      <DependentUpon>SeleccionarEmpresaDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\SeleccionarEmpresaDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\BaseViewControl.Designer.vb">
+      <DependentUpon>BaseViewControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\BaseViewControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IU\DataNavigationDialog.Designer.vb">
+      <DependentUpon>DataNavigationDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\DataNavigationDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataAccess\Definiciones.vb" />
+    <Compile Include="IU\DefinirFiltrosDialog.designer.vb">
+      <DependentUpon>DefinirFiltrosDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\DefinirFiltrosDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrameworkApp.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Shared\GUIUtils.vb" />
+    <Compile Include="Shared\INucleo.vb" />
+    <Compile Include="Shared\IPrograma.vb" />
+    <Compile Include="Shared\IProgress.vb" />
+    <Compile Include="Shared\ManagerException.vb" />
+    <Compile Include="Shared\StringUtils.vb" />
+    <Compile Include="SplashScreen.vb" />
+    <Compile Include="IU\LoginControl.Designer.vb">
+      <DependentUpon>LoginControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\LoginControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="IU\MainViewControl.Designer.vb">
+      <DependentUpon>MainViewControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\MainViewControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IU\NavigationPanelControl.Designer.vb">
+      <DependentUpon>NavigationPanelControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\NavigationPanelControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IU\NavigatorEventsArgs.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="IU\AcercaDeDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AcercaDeDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuracion\ConfigurarModulosForm.resx">
+      <DependentUpon>ConfigurarModulosForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuracion\EditarModuloDialog.resx">
+      <DependentUpon>EditarModuloDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuracion\EmpresasForm.resx">
+      <DependentUpon>EmpresasForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuracion\MainConfiguracionForm.resx">
+      <DependentUpon>MainConfiguracionForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuracion\RegistroProgramasDialog.resx">
+      <DependentUpon>RegistroProgramasDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuracion\SelecionarCategoriaDialog.resx">
+      <DependentUpon>SelecionarCategoriaDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\Security\CambiarClaveDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CambiarClaveDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\Security\EditarUsuarioDialog.resx">
+      <DependentUpon>EditarUsuarioDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\Security\PerfilesUsuarioDialog.resx">
+      <DependentUpon>PerfilesUsuarioDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\Security\EditarPerfilDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EditarPerfilDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\Security\PerfilesUsuariosView.resx">
+      <DependentUpon>PerfilesUsuariosView.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\Security\UsuarioView.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>UsuarioView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\SeleccionarEmpresaDialog.resx">
+      <DependentUpon>SeleccionarEmpresaDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\BaseViewControl.resx">
+      <DependentUpon>BaseViewControl.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\DataNavigationDialog.resx">
+      <DependentUpon>DataNavigationDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\DefinirFiltrosDialog.resx">
+      <DependentUpon>DefinirFiltrosDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\LoginControl.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LoginControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\MainViewControl.resx">
+      <DependentUpon>MainViewControl.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\NavigationPanelControl.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>NavigationPanelControl.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataAccess\SesionDataset.xsc">
+      <DependentUpon>SesionDataset.xsd</DependentUpon>
+    </None>
+    <None Include="DataAccess\SesionDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SesionDataset.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataAccess\SesionDataset.xss">
+      <DependentUpon>SesionDataset.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="IU\DataNavigationControl.resx">
+      <DependentUpon>DataNavigationControl.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScriptsBD\ScriptSQLMobile.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScriptsBD\ScriptSQLServer.txt" />
+    <Content Include="Resources\18_subAccounts.gif" />
+    <Content Include="Resources\AddTable.bmp" />
+    <None Include="app.config" />
+    <None Include="DataAccess\ConfiguracionDataSet.xsc">
+      <DependentUpon>ConfiguracionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataAccess\ConfiguracionDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ConfiguracionDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataAccess\ConfiguracionDataSet.xss">
+      <DependentUpon>ConfiguracionDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataAccess\SeguridadDataset.xsc">
+      <DependentUpon>SeguridadDataset.xsd</DependentUpon>
+    </None>
+    <None Include="DataAccess\SeguridadDataset.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>SeguridadDataset.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataAccess\SeguridadDataset.xss">
+      <DependentUpon>SeguridadDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\BuilderDialog_movedown.bmp" />
+    <None Include="Resources\BuilderDialog_movedown1.bmp" />
+    <Content Include="Resources\database_export2.bmp" />
+    <Content Include="Resources\database_import.bmp" />
+    <Content Include="Resources\Delete.bmp" />
+    <Content Include="Resources\EditInformation.bmp" />
+    <Content Include="Resources\EditInformation1.bmp" />
+    <Content Include="Resources\Edit_Undo.bmp" />
+    <Content Include="Resources\ExportToDatabase.bmp" />
+    <Content Include="Resources\ExportToFile.bmp" />
+    <Content Include="Resources\Filter2.bmp" />
+    <Content Include="Resources\Find.bmp" />
+    <Content Include="Resources\gear_1.bmp" />
+    <None Include="Resources\GoToDown.bmp" />
+    <Content Include="Resources\GoToUp.bmp" />
+    <None Include="Resources\GoToUp1.bmp" />
+    <None Include="Resources\ico_18_secure.gif" />
+    <None Include="Resources\ico_16_securityrole.gif" />
+    <None Include="Resources\ico_16_4500.gif" />
+    <Content Include="Resources\ImportFromDatabase.bmp" />
+    <Content Include="Resources\ImportFromFile.bmp" />
+    <Content Include="Resources\NewCard.bmp" />
+    <Content Include="Resources\NewDocument.bmp" />
+    <Content Include="Resources\NewWindow.bmp" />
+    <Content Include="Resources\NewWindow1.bmp" />
+    <Content Include="Resources\OK.bmp" />
+    <Content Include="Resources\OpenFolder.bmp" />
+    <Content Include="Resources\Play.bmp" />
+    <Content Include="Resources\RefreshDocView.bmp" />
+    <Content Include="Resources\Save.bmp" />
+    <None Include="Resources\SaveAll.bmp" />
+    <None Include="Resources\sdhcinst_2.ico" />
+    <Content Include="Resources\Task.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="BusinessObjects.CrystalReports.NET.2.0">
+      <Visible>False</Visible>
+      <ProductName>Crystal Reports para .NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="CentauroSettings.XML">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Include</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+    <PublishFile Include="stdole">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Desktop.Data\Desktop.Data.csproj">
+      <Project>{996090A2-E218-4676-B118-E67F383A882E}</Project>
+      <Name>Desktop.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Desktop.Windows.Forms\Desktop.Windows.Forms.csproj">
+      <Project>{670B88C0-0097-451E-8C9A-815D69D5C9CB}</Project>
+      <Name>Desktop.Windows.Forms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Desktop\Desktop.csproj">
+      <Project>{6F982860-6928-43BD-9E0A-3C6FED0158C0}</Project>
+      <Name>Desktop</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\" />
+    <Folder Include="UserControl\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

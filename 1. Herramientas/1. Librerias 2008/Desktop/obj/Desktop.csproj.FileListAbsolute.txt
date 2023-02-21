@@ -1,0 +1,12 @@
+D:\LibreriasMovilidad\Codigo\Librerias\Datascan\bin\Debug\Desktop.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Datascan\bin\Debug\Desktop.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\Datascan\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Datascan\obj\Debug\ResolveAssemblyReference.cache
+D:\LibreriasMovilidad\Codigo\Librerias\Datascan\obj\Debug\Desktop.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Datascan\obj\Debug\Desktop.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\Desktop\obj\Debug\ResolveAssemblyReference.cache
+D:\LibreriasMovilidad\Codigo\Librerias\Desktop\obj\Debug\Desktop.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\Desktop\bin\Debug\Desktop.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Desktop\bin\Debug\Desktop.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\Desktop\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\LibreriasMovilidad\Codigo\Librerias\Desktop\obj\Debug\Desktop.dll

@@ -1,0 +1,92 @@
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\PraxairComunicaciones.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\PraxairComunicaciones.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\MovilidadCF.Data.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\MovilidadCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\MovilidadCF.Symbol.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\MovilidadCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\OpenNETCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\OpenNETCF.Drawing.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\OpenNETCF.Net.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\OpenNETCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\System.Data.SqlServerCe.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\Symbol.Barcode.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\System.Data.SqlClient.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\Symbol.MagStripe.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\OpenNETCF.Configuration.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\Symbol.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\OpenNETCF.Drawing.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\OpenNETCF.Windows.Forms.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\OpenNETCF.Net.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\OpenNETCF.Configuration.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\bin\Debug\OpenNETCF.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\obj\Debug\PraxairComunicaciones.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\comunicaicones\obj\Debug\PraxairComunicaciones.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\PraxairComunicaciones.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\PraxairComunicaciones.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\OpenNETCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\OpenNETCF.Drawing.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\OpenNETCF.Net.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\OpenNETCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\OpenNETCF.WindowsCE.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\System.Data.SqlServerCe.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\System.Data.SqlClient.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\Symbol.MagStripe.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\OpenNETCF.Configuration.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\Symbol.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\OpenNETCF.Drawing.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\OpenNETCF.Windows.Forms.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\OpenNETCF.Net.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\OpenNETCF.Configuration.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\OpenNETCF.WindowsCE.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\OpenNETCF.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\obj\Debug\PraxairComunicaciones.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\obj\Debug\PraxairComunicaciones.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\Symbol.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones\bin\Debug\Symbol.MagStripe.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\obj\Debug\PraxairComunicaciones.Comunicacion.CargaDatosForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\obj\Debug\PraxairComunicaciones.Comunicacion.DescargarDatosForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\obj\Debug\PraxairComunicaciones.Properties.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\obj\Debug\PraxairComunicaciones.csproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\PraxairComunicaciones.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\PraxairComunicaciones.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\OpenNETCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\OpenNETCF.Drawing.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\OpenNETCF.Net.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\OpenNETCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\OpenNETCF.WindowsCE.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\System.Data.SqlServerCe.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\Symbol.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\OpenNETCF.Configuration.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\Symbol.MagStripe.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\System.Data.SqlClient.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\OpenNETCF.WindowsCE.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\OpenNETCF.Net.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\OpenNETCF.Drawing.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\Symbol.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\OpenNETCF.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\OpenNETCF.Configuration.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\Symbol.MagStripe.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\bin\Debug\OpenNETCF.Windows.Forms.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\obj\Debug\PraxairComunicaciones.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\2. Praxair Comunicaciones Liquidos\obj\Debug\PraxairComunicaciones.pdb

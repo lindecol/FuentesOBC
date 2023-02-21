@@ -1,0 +1,54 @@
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\DatascanCF.Windows.Forms.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\OpenNETCF.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\OpenNETCF.WindowsMobile.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.Barcode.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.BarcodeForms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\OpenNETCF.Drawing.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.StandardForms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\OpenNETCF.Configuration.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\OpenNETCF.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.BarcodeForms.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\OpenNETCF.Drawing.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\OpenNETCF.WindowsMobile.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.StandardForms.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.Barcode.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\OpenNETCF.Configuration.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\OpenNETCF.Windows.Forms.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.DataComboBox.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.EnumComboBox.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.Graph.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.ListBox.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.NumericInputBox.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.Shape.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.TextInputBox.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.UIHandler.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.SignatureControl.bmp
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\DatascanCF.Windows.Forms.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\DatascanCF.Windows.Forms.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.Barcode.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.BarcodeForms.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.StandardForms.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.BarcodeForms.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.StandardForms.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\bin\Debug\Symbol.Barcode.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\ResolveAssemblyReference.cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.DataComboBox.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.EnumComboBox.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.Graph.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.ListBox.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.NumericInputBox.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.Shape.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.TextInputBox.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.UIHandler.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.SignatureControl.bmp
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Windows.Forms\obj\Debug\DatascanCF.Windows.Forms.pdb

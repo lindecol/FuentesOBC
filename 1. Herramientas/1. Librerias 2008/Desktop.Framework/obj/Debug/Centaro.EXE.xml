@@ -1,0 +1,347 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Desktop.Framework
+</name>
+</assembly>
+<members>
+<member name="T:Desktop.Framework.SesionDataset.ProgramasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.CategoriasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.ModulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.ModulosPerfilDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.UsuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.EmpresasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.ProgramasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.CategoriasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.ModulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.ModulosPerfilRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.UsuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.EmpresasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.ProgramasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.CategoriasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.ModulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.ModulosPerfilRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.UsuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset.EmpresasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SesionDataset">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Desktop.Framework.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Desktop.Framework.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="P:Desktop.Framework.My.Resources.Resources.ScriptSQLMobile">
+	<summary>
+  Busca una cadena traducida similar a CREATE TABLE [Perfiles](
+	[IdPerfil] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[Nombre] [nvarchar](100) NOT NULL,
+	[Activo] [bit] NOT NULL,
+	[Sistema] [bit] NOT NULL);
+CREATE TABLE [Empresas](
+	[IdEmpresa] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[NIT] [nvarchar](15) NOT NULL,
+	[NombreCorto] [nvarchar](50) NOT NULL,
+	[NombreCompleto] [nvarchar](100) NOT NULL,
+	[Direccion] [nvarchar](200) NULL,
+	[Ciudad] [nvarchar](50) NULL,
+	[Pais] [nvarchar](50) NULL,
+	[Telefono] [nvarchar](30) NULL,
+	[Fax [resto de la cadena truncado]";.
+</summary>
+</member><member name="P:Desktop.Framework.My.Resources.Resources.ScriptSQLServer">
+	<summary>
+  Busca una cadena traducida similar a SET ANSI_NULLS ON;
+SET QUOTED_IDENTIFIER ON;
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo].[Perfiles]') AND type in (N'U'))
+BEGIN
+CREATE TABLE [dbo].[Perfiles](
+	[IdPerfil] [int] IDENTITY(1,1) NOT NULL,
+	[Nombre] [nvarchar](100) NOT NULL,
+	[Activo] [bit] NOT NULL,
+	[Sistema] [bit] NOT NULL,
+ CONSTRAINT [PK_Perfiles] PRIMARY KEY (IdPerfil))
+END
+SET ANSI_NULLS ON;
+SET QUOTED_IDENTIFIER ON;
+IF NOT EXISTS (SELECT * FROM sys.objects WHERE object_id = OBJECT_ID(N'[dbo]. [resto de la cadena truncado]";.
+</summary>
+</member><member name="T:Desktop.Framework.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.CategoriasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.ModulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.EmpresasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.TiposModuloDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.ProgramasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.PermisosEspecialesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.UsuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.CategoriasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.ModulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.EmpresasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.TiposModuloRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.ProgramasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.PermisosEspecialesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.UsuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.CategoriasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.ModulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.EmpresasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.TiposModuloRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.ProgramasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.PermisosEspecialesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet.UsuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.ConfiguracionDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.PerfilesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.UsuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.PerfilesUsuariosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.ModulosPerfilDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.ProgramasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.ModulosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.PermisosModuloDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.PermisosEspecialesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.EmpresasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.CategoriasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.PerfilesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.UsuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.PerfilesUsuariosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.ModulosPerfilRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.ProgramasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.ModulosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.PermisosModuloRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.PermisosEspecialesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.EmpresasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.CategoriasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.PerfilesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.UsuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.PerfilesUsuariosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.ModulosPerfilRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.ProgramasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.ModulosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.PermisosModuloRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.PermisosEspecialesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.EmpresasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset.CategoriasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Desktop.Framework.SeguridadDataset">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

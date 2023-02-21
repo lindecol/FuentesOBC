@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Librerias">
+</Property><Property Name="Archivo de la solución" Value="C:\Workspace\Librerias - 2008\Librerias.sln">
+</Property><Property Name="Date" Value="lunes, 10 de febrero de 2014">
+</Property><Property Name="Time" Value="21:18">
+</Property></Properties><Event ErrorLevel="0" Project="MobilidadCF" Source="MobilidadCF\MobilidadCF.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="MobilidadCF" Source="MobilidadCF\MobilidadCF.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Data" Source="MobilidadCF.Data\MobilidadCF.Data.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Data" Source="MobilidadCF.Data\MobilidadCF.Data.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Symbol" Source="MobilidadCF.Symbol\MobilidadCF.Symbol.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Symbol" Source="MobilidadCF.Symbol\MobilidadCF.Symbol.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Communications" Source="MobilidadCF.Communications\MobilidadCF.Communications.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Communications" Source="MobilidadCF.Communications\MobilidadCF.Communications.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Data.FixlenFile" Source="MobilidadCF.Data.FixlenFile\MobilidadCF.Data.FixlenFile.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Data.FixlenFile" Source="MobilidadCF.Data.FixlenFile\MobilidadCF.Data.FixlenFile.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Bluetooth" Source="MobilidadCF.Bluetooth\MobilidadCF.Bluetooth.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Bluetooth" Source="MobilidadCF.Bluetooth\MobilidadCF.Bluetooth.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Desktop.Data" Source="Desktop.Data\Desktop.Data.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Desktop.Data" Source="Desktop.Data\Desktop.Data.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Test" Source="MobilidadCF.Test\MobilidadCF.Test.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Test" Source="MobilidadCF.Test\MobilidadCF.Test.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Location" Source="MobilidadCF.Location\MobilidadCF.Location.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Location" Source="MobilidadCF.Location\MobilidadCF.Location.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Desktop" Source="Desktop\Desktop.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Desktop" Source="Desktop\Desktop.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Desktop.Data.FixlenFile" Source="Desktop.Data.FixlenFile\Desktop.Data.FixlenFile.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Desktop.Data.FixlenFile" Source="Desktop.Data.FixlenFile\Desktop.Data.FixlenFile.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Desktop.Data.Transformations" Source="Desktop.Data.Transformations\Desktop.Data.Transformations.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Desktop.Data.Transformations" Source="Desktop.Data.Transformations\Desktop.Data.Transformations.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test\Test.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Test" Source="Test\Test.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Desktop.Framework" Source="Desktop.Framework\Desktop.Framework.vbproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Desktop.Framework" Source="Desktop.Framework\Desktop.Framework.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Client" Source="MobilidadCF.Client\MobilidadCF.Client.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Client" Source="MobilidadCF.Client\MobilidadCF.Client.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Desktop.Windows.Forms" Source="Desktop.Windows.Forms\Desktop.Windows.Forms.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="Desktop.Windows.Forms" Source="Desktop.Windows.Forms\Desktop.Windows.Forms.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Windows.Forms" Source="MobilidadCF.Windows.Forms\MobilidadCF.Windows.Forms.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Windows.Forms" Source="MobilidadCF.Windows.Forms\MobilidadCF.Windows.Forms.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Licensing" Source="MobilidadCF.Licensing\MobilidadCF.Licensing.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Licensing" Source="MobilidadCF.Licensing\MobilidadCF.Licensing.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Librerias.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="Librerias.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Desktop.Data" Source="Desktop.Data\Desktop.Data.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Desktop.Data" Source="Desktop.Data\Desktop.Data.csproj" Description="Se actualizaron las referencias a una versión anterior del proveedor de SQL Server Compact.">
+</Event><Event ErrorLevel="0" Project="Desktop" Source="Desktop\Desktop.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Desktop.Data.FixlenFile" Source="Desktop.Data.FixlenFile\Desktop.Data.FixlenFile.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Desktop.Data.Transformations" Source="Desktop.Data.Transformations\Desktop.Data.Transformations.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Test" Source="Test\Test.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Desktop.Framework" Source="Desktop.Framework\Desktop.Framework.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="Desktop.Framework" Source="Desktop.Framework\Desktop.Framework.vbproj" Description="Se actualizaron las referencias a una versión anterior del proveedor de SQL Server Compact.">
+</Event><Event ErrorLevel="0" Project="Desktop.Windows.Forms" Source="Desktop.Windows.Forms\Desktop.Windows.Forms.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="MobilidadCF" Source="MobilidadCF\MobilidadCF.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Data" Source="MobilidadCF.Data\MobilidadCF.Data.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Data" Source="MobilidadCF.Data\MobilidadCF.Data.csproj" Description="Se actualizaron las referencias a una versión anterior del proveedor de SQL Server Compact.">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Symbol" Source="MobilidadCF.Symbol\MobilidadCF.Symbol.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Communications" Source="MobilidadCF.Communications\MobilityCentral\EstadoForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Communications" Source="MobilidadCF.Communications\MobilityCentral\EstadoForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Communications" Source="MobilidadCF.Communications\WinTMS\WinTMSServerForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Communications" Source="MobilidadCF.Communications\WinTMS\WinTMSServerForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Communications" Source="MobilidadCF.Communications\MobilidadCF.Communications.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Data.FixlenFile" Source="MobilidadCF.Data.FixlenFile\My Project\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Data.FixlenFile" Source="MobilidadCF.Data.FixlenFile\My Project\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Data.FixlenFile" Source="MobilidadCF.Data.FixlenFile\MobilidadCF.Data.FixlenFile.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Bluetooth" Source="MobilidadCF.Bluetooth\FormFindDevice.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Bluetooth" Source="MobilidadCF.Bluetooth\FormFindDevice.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Bluetooth" Source="MobilidadCF.Bluetooth\FormPrint.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Bluetooth" Source="MobilidadCF.Bluetooth\FormPrint.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Bluetooth" Source="MobilidadCF.Bluetooth\FormReceiveFile.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Bluetooth" Source="MobilidadCF.Bluetooth\FormReceiveFile.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Bluetooth" Source="MobilidadCF.Bluetooth\FormSendFile.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Bluetooth" Source="MobilidadCF.Bluetooth\FormSendFile.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Bluetooth" Source="MobilidadCF.Bluetooth\MobilidadCF.Bluetooth.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Test" Source="MobilidadCF.Test\BarcodeContinousTriggerForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Test" Source="MobilidadCF.Test\BarcodeContinousTriggerForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Test" Source="MobilidadCF.Test\BarcodeForm1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Test" Source="MobilidadCF.Test\BarcodeForm1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Test" Source="MobilidadCF.Test\BarcodeForm2.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Test" Source="MobilidadCF.Test\BarcodeForm2.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Test" Source="MobilidadCF.Test\Form1.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Test" Source="MobilidadCF.Test\Form1.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Test" Source="MobilidadCF.Test\Form2.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Test" Source="MobilidadCF.Test\Form2.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Test" Source="MobilidadCF.Test\My Project\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Test" Source="MobilidadCF.Test\My Project\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Test" Source="MobilidadCF.Test\PAFClientTest.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Test" Source="MobilidadCF.Test\PAFClientTest.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Test" Source="MobilidadCF.Test\MobilidadCF.Test.vbproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Location" Source="MobilidadCF.Location\GPSCaptureForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Location" Source="MobilidadCF.Location\GPSCaptureForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Location" Source="MobilidadCF.Location\MobilidadCF.Location.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Client" Source="MobilidadCF.Client\Comunicacion\ActualizarVersiones.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Client" Source="MobilidadCF.Client\Comunicacion\ActualizarVersiones.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Client" Source="MobilidadCF.Client\Comunicacion\CargaDatosForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Client" Source="MobilidadCF.Client\Comunicacion\CargaDatosForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Client" Source="MobilidadCF.Client\Comunicacion\DescargarDatosForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Client" Source="MobilidadCF.Client\Comunicacion\DescargarDatosForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Client" Source="MobilidadCF.Client\frmPruebacomunicacion.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Client" Source="MobilidadCF.Client\frmPruebacomunicacion.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Client" Source="MobilidadCF.Client\Properties\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Client" Source="MobilidadCF.Client\Properties\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Client" Source="MobilidadCF.Client\MobilidadCF.Client.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Client" Source="MobilidadCF.Client\MobilidadCF.Client.csproj" Description="Se actualizaron las referencias a una versión anterior del proveedor de SQL Server Compact.">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Windows.Forms" Source="MobilidadCF.Windows.Forms\MobilidadCF.Windows.Forms.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Licensing" Source="MobilidadCF.Licensing\LicenceErrorForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="MobilidadCF.Licensing" Source="MobilidadCF.Licensing\LicenceErrorForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MobilidadCF.Licensing" Source="MobilidadCF.Licensing\MobilidadCF.Licensing.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

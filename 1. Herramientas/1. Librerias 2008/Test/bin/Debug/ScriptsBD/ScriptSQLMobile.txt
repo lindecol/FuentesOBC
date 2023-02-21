@@ -1,0 +1,70 @@
+CREATE TABLE [Perfiles](
+	[IdPerfil] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[Nombre] [nvarchar](100) NOT NULL,
+	[Activo] [bit] NOT NULL,
+	[Sistema] [bit] NOT NULL);
+CREATE TABLE [Empresas](
+	[IdEmpresa] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[NIT] [nvarchar](15) NOT NULL,
+	[NombreCorto] [nvarchar](50) NOT NULL,
+	[NombreCompleto] [nvarchar](100) NOT NULL,
+	[Direccion] [nvarchar](200) NULL,
+	[Ciudad] [nvarchar](50) NULL,
+	[Pais] [nvarchar](50) NULL,
+	[Telefono] [nvarchar](30) NULL,
+	[Fax] [nvarchar](30) NULL,
+	[Logo] [image] NULL);
+CREATE TABLE [Categorias](
+	[IdCategoria] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[Nombre] [nvarchar](50) NOT NULL,
+	[IdCategoriaPadre] [int] NULL,
+	[Orden] [int] NOT NULL);
+CREATE TABLE [TiposModulo](
+	[IdTipoModulo] [int] NOT NULL PRIMARY KEY,
+	[Descripcion] [nvarchar](50) NOT NULL);
+CREATE TABLE [Programas](
+	[IdPrograma] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[Nombre] [nvarchar](100) NOT NULL,
+	[Ensamblado] [nvarchar](50) NOT NULL);
+CREATE TABLE [ModulosPerfil](
+	[IdPerfil] [int] NOT NULL,
+	[IdModulo] [int] NOT NULL,
+	[PermitirInsertar] [bit] NOT NULL,
+	[PermitirModificar] [bit] NOT NULL,
+	[PermitirBorrar] [bit] NOT NULL,
+	[PermitirImprimir] [bit] NOT NULL,
+	[PermisosEspeciales] [nvarchar](50) NULL,
+	CONSTRAINT ModulosPerfil PRIMARY KEY (IdPerfil, IdModulo));
+CREATE TABLE [PerfilesUsuarios](
+	[IdUsuario] [int] NOT NULL,
+	[IdPerfil] [int] NOT NULL,
+	CONSTRAINT PerfilesUsuarios PRIMARY KEY (IdUsuario, IdPerfil));
+CREATE TABLE [Usuarios](
+	[IdUsuario] [int] IDENTITY(7,1) NOT NULL PRIMARY KEY,
+	[Usuario] [nvarchar](10) NOT NULL,
+	[Clave] [nvarchar](10) NOT NULL,
+	[Nombre] [nvarchar](200) NOT NULL,
+	[IdEmpresa] [int] NULL,
+	[Email] [nvarchar](200) NOT NULL,
+	[Sistema] [bit] NOT NULL,
+	[SuperUser] [bit] NULL,
+	[MultiEmpresa] [bit] NULL,
+	[FechaCreacion] [datetime] NOT NULL,
+	[Activo] [bit] NOT NULL);
+CREATE TABLE [Modulos](
+	[IdModulo] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[IdTipoModulo] [int] NOT NULL,
+	[IdPrograma] [int] NULL,
+	[Nombre] [nvarchar](100) NOT NULL,
+	[ClassURL] [nvarchar](200) NULL,
+	[Activo] [bit] NOT NULL,
+	[IdCategoria] [int] NULL,
+	[Icon16] [image] NULL);
+CREATE TABLE [PermisosEspeciales](
+	[IdModulo] [int] NOT NULL,
+	[IdPermiso] [int] NOT NULL,
+	[Descripcion] [nvarchar](60) NOT NULL,
+	CONSTRAINT PermisosEspeciales PRIMARY KEY (IdModulo, IdPermiso));
+	INSERT INTO TIPOSMODULO (IdTipoModulo,Descripcion) VALUES (0,'Módulo Interno Nucleo');
+	INSERT INTO TIPOSMODULO (IdTipoModulo,Descripcion) VALUES (1,'Módulo Programa Externo');
+	INSERT INTO TIPOSMODULO (IdTipoModulo,Descripcion) VALUES (2,'Módulo Web');

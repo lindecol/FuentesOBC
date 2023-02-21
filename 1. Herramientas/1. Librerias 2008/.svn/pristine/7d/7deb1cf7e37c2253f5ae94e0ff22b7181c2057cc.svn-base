@@ -1,0 +1,213 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{670B88C0-0097-451E-8C9A-815D69D5C9CB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Desktop.Windows.Forms</RootNamespace>
+    <AssemblyName>Desktop.Windows.Forms</AssemblyName>
+    <StartupObject>
+    </StartupObject>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CharsValidator.cs" />
+    <Compile Include="ChartControl\ChartControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChartControl\ChartEvents.cs" />
+    <Compile Include="ChartControl\ChartHelper.cs" />
+    <Compile Include="ChartControl\ChartItem.cs" />
+    <Compile Include="ComboBoxBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BaseStackStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HeaderStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="StackStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Drawing\CustomBorderColor.cs" />
+    <Compile Include="Drawing\HLSRGB.cs" />
+    <Compile Include="EnumComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Enums.cs" />
+    <Compile Include="Generic\PopupCancel.cs" />
+    <Compile Include="Graph.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IInputControl.cs" />
+    <Compile Include="InputBoxBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ListBar\Enumerations.cs" />
+    <Compile Include="ListBar\EventsArgs.cs" />
+    <Compile Include="ListBar\IMouseObject.cs" />
+    <Compile Include="ListBar\ListBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ListBar\ListBarDragDropInsertPoint.cs" />
+    <Compile Include="ListBar\ListBarGroup.cs" />
+    <Compile Include="ListBar\ListBarGroupCollection.cs" />
+    <Compile Include="ListBar\ListBarItem.cs" />
+    <Compile Include="ListBar\ListBarItemCollection.cs" />
+    <Compile Include="ListBar\ListBarScrollButton.cs" />
+    <Compile Include="ListBar\ListBarTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListBar\ListBarUtility.cs" />
+    <Compile Include="NumericInputBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PaneCaption.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SectionHeader.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Shape.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TextInputBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XPander\XPander.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="XPander\XPanderDesigner.cs" />
+    <Compile Include="XPander\XPanderList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="XPander\XPanderListDesigner.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ChartControl\ChartControl.resx">
+      <DependentUpon>ChartControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListBar\ListBar.resx">
+      <DependentUpon>ListBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaneCaption.resx">
+      <DependentUpon>PaneCaption.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SectionHeader.resx">
+      <DependentUpon>SectionHeader.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XPander\XPander.resx">
+      <DependentUpon>XPander.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XPander\XPanderList.resx">
+      <DependentUpon>XPanderList.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Images\Collapse.jpg" />
+    <EmbeddedResource Include="Images\Collapse_h.jpg" />
+    <EmbeddedResource Include="Images\Expand.jpg" />
+    <EmbeddedResource Include="Images\Expand_h.jpg" />
+    <EmbeddedResource Include="Images\XPander.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DataComboBox.bmp" />
+    <EmbeddedResource Include="EnumComboBox.bmp" />
+    <EmbeddedResource Include="Graph.bmp" />
+    <EmbeddedResource Include="ListBar\ListBarTest.resx">
+      <DependentUpon>ListBarTest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NumericInputBox.bmp" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextInputBox.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Shape.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="HeaderStrip.bmp" />
+    <EmbeddedResource Include="PaneCaption.bmp" />
+    <EmbeddedResource Include="SectionHeader.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

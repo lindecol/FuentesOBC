@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Symbol.BarcodeForms</name>
+    </assembly>
+    <members>
+        <member name="T:Symbol.StandardForms.EnabledDecoders">
+            <summary>
+            The EnabledDecoders standard barcode form provides a dialog that allows each
+            decoders parameters to be viewed and changed.
+            </summary>
+            <remarks>
+            The EnabledDecoders dialog provides a CheckList as well as a SymList for 
+            configuring each of the decoders. It is normally created using the static
+            Run method.
+            </remarks>
+        </member>
+        <member name="M:Symbol.StandardForms.EnabledDecoders.DoScale">
+            <summary>
+            This function does the (initial) scaling of the form
+            by re-setting the related parameters (if required) and
+            then calling the Scale(...) internally. 
+            </summary>
+            
+        </member>
+        <member name="M:Symbol.StandardForms.EnabledDecoders.Scale(Symbol.StandardForms.EnabledDecoders)">
+            <summary>
+            This function scales the given Form and its child controls in order to
+            make them completely viewable, based on the screen width and height.
+            </summary>
+        </member>
+        <member name="M:Symbol.StandardForms.EnabledDecoders.Run(Symbol.Barcode.Reader)">
+            <summary>
+            The Run method is the recommended method to use to create the 
+            EnabledDecoders dialog.
+            </summary>
+            <param name="TheReader">The Barcode Reader object to view and change 
+            decoder parameters.</param>
+        </member>
+        <member name="M:Symbol.StandardForms.EnabledDecoders.#ctor(Symbol.Barcode.Reader)">
+            <summary>
+            EnabledDecoders constructor creates a dialog that can be used to modify 
+            barcode reader decoder parameters.
+            </summary>
+            <param name="TheReader">A barcode reader object that contains the decoder
+            parameters to be viewed or modified.</param>
+        </member>
+        <member name="M:Symbol.StandardForms.EnabledDecoders.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:Symbol.StandardForms.ScanParamsForm">
+            <summary>
+            The ScanParamsForm standard barcode form provides a dialog that allows each
+            of the Reader's scan parameters to be viewed and changed.
+            </summary>
+            <remarks>
+            The ScanParamsForm dialog provides a tab control with different feedback 
+            parameters that can be changed. This class is normally instantiated using
+            the static Run method.
+            </remarks>
+        </member>
+        <member name="M:Symbol.StandardForms.ScanParamsForm.DoScale">
+            <summary>
+            This function does the (initial) scaling of the form
+            by re-setting the related parameters (if required) and
+            then calling the Scale(...) internally. 
+            </summary>
+            
+        </member>
+        <member name="M:Symbol.StandardForms.ScanParamsForm.Scale(Symbol.StandardForms.ScanParamsForm)">
+            <summary>
+            This function scales the given Form and its child controls in order to
+            make them completely viewable, based on the screen width and height.
+            </summary>
+        </member>
+        <member name="M:Symbol.StandardForms.ScanParamsForm.Run(Symbol.Barcode.Reader)">
+            <summary>
+            The static Run() method is used to create display the ScanParamsForm.
+            </summary>
+            <remarks>
+            This is the recommended method for created a ScanParamsForm.
+            </remarks>
+            <param name="TheReader">A Barcode.Reader object that contains 
+            the scan parameters to be viewed or changed.</param>
+        </member>
+        <member name="M:Symbol.StandardForms.ScanParamsForm.#ctor(Symbol.Barcode.Reader)">
+            <summary>
+            The ScanParamsForm constructor with settable barcode reader object.
+            </summary>
+            <param name="TheReader">A Barcode.Reader object that contains 
+            the scan parameters to be viewed or changed.</param>
+        </member>
+        <member name="M:Symbol.StandardForms.ScanParamsForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

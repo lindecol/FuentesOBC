@@ -1,0 +1,40 @@
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\DatascanCF.Data.FixlenFile.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\DatascanCF.Data.FixlenFile.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\DatascanCF.Data.FixlenFile.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\DatascanCF.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.Configuration.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.WindowsCE.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.Configuration.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\DatascanCF.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\obj\Debug\DatascanCF.Data.FixlenFile.Resources.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\obj\Debug\DatascanCF.Data.FixlenFile.vbproj.GenerateResource.Cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\obj\Debug\DatascanCF.Data.FixlenFile.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\obj\Debug\DatascanCF.Data.FixlenFile.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\obj\Debug\DatascanCF.Data.FixlenFile.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\DatascanCF.Data.FixlenFile.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\DatascanCF.Data.FixlenFile.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\DatascanCF.Data.FixlenFile.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\DatascanCF.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.WindowsCE.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.Configuration.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.WindowsCE.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\OpenNETCF.Configuration.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\bin\Debug\DatascanCF.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\obj\Debug\ResolveAssemblyReference.cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\obj\Debug\DatascanCF.Data.FixlenFile.Resources.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\obj\Debug\DatascanCF.Data.FixlenFile.vbproj.GenerateResource.Cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\obj\Debug\DatascanCF.Data.FixlenFile.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\obj\Debug\DatascanCF.Data.FixlenFile.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Data.FixlenFile\obj\Debug\DatascanCF.Data.FixlenFile.pdb

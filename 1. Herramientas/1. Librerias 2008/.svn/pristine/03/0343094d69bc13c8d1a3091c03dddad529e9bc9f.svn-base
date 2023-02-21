@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="TransformationDataSet" targetNamespace="http://tempuri.org/IntegracionDataSet.xsd" xmlns:mstns="http://tempuri.org/IntegracionDataSet.xsd" xmlns="http://tempuri.org/IntegracionDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="3" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="DatosRonda" IsAppSettingsProperty="True" Modifier="Assembly" Name="DatosRonda (MySettings)" PropertyReference="ApplicationSettings.Desktop.Data.Transformations.MySettings.GlobalReference.Default.DatosRonda" Provider="System.Data.Odbc">
+          </Connection>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="Desktop___InventariosConnectionString" IsAppSettingsProperty="True" Modifier="Assembly" Name="Desktop___InventariosConnectionString (MySettings)" PropertyReference="ApplicationSettings.Desktop.Data.Transformations.MySettings.GlobalReference.Default.Desktop___InventariosConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="Desktop_InventarioConnectionString" IsAppSettingsProperty="True" Modifier="Assembly" Name="Desktop_InventarioConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Desktop.Data.Transformations.MySettings.GlobalReference.Default.Desktop_InventarioConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="Setting" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="Setting (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Desktop.Data.Transformations.My.MySettings.GlobalReference.Default.Setting" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="TransformationDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="TransformationDataSet" msprop:Generator_DataSetName="TransformationDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Tareas" msprop:Generator_UserTableName="Tareas" msprop:Generator_RowDeletedName="TareasRowDeleted" msprop:Generator_RowChangedName="TareasRowChanged" msprop:Generator_RowClassName="TareasRow" msprop:Generator_RowChangingName="TareasRowChanging" msprop:Generator_RowEvArgName="TareasRowChangeEvent" msprop:Generator_RowEvHandlerName="TareasRowChangeEventHandler" msprop:Generator_TableClassName="TareasDataTable" msprop:Generator_TableVarName="tableTareas" msprop:Generator_RowDeletingName="TareasRowDeleting" msprop:Generator_TablePropName="Tareas">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IdTarea" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="IdTarea" msprop:Generator_ColumnPropNameInRow="IdTarea" msprop:Generator_ColumnVarNameInTable="columnIdTarea" msprop:Generator_ColumnPropNameInTable="IdTareaColumn" type="xs:int" />
+              <xs:element name="TaskTypeName" msdata:Caption="TaskName" msprop:Generator_UserColumnName="TaskTypeName" msprop:Generator_ColumnPropNameInRow="TaskTypeName" msprop:Generator_ColumnVarNameInTable="columnTaskTypeName" msprop:Generator_ColumnPropNameInTable="TaskTypeNameColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Description" msdata:Caption="TaskName" msprop:Generator_UserColumnName="Description" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" type="xs:string" />
+              <xs:element name="ExecutionOrder" msprop:Generator_UserColumnName="ExecutionOrder" msprop:Generator_ColumnPropNameInRow="ExecutionOrder" msprop:Generator_ColumnVarNameInTable="columnExecutionOrder" msprop:Generator_ColumnPropNameInTable="ExecutionOrderColumn" type="xs:int" />
+              <xs:element name="Configuration" msprop:Generator_UserColumnName="Configuration" msprop:Generator_ColumnPropNameInRow="Configuration" msprop:Generator_ColumnVarNameInTable="columnConfiguration" msprop:Generator_ColumnPropNameInTable="ConfigurationColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Tareas" />
+      <xs:field xpath="mstns:IdTarea" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

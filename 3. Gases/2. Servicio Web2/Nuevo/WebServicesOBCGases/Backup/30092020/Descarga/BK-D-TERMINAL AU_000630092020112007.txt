@@ -1,0 +1,35 @@
+TABLECOUNT: 4
+TOTALROWCOUNT: 14
+TABLE: PEDIDOS_GASES_DESCARGA
+ROWCOUNT: 2 
+NoPedido|CodSucursal|CodCliente|CodEntidad|FechaPedido|FechaProgramada|HoraProgramada|FechaAtencion|HoraAtencion|PrimerServicio|Recoleccion|Solicito|Observacion|Estado|MotivoAnulacion|Nuevo|ActivaTarjeta|Direccion|Barrio|
+System.String|System.String|System.String|System.String|System.DateTime|System.DateTime|System.String|System.DateTime|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|
+0000002|01|0038565|(null)|2020/09/30 00:00:00|2020/09/30 00:00:00|10:09|2020/09/30 00:00:00|11:4|0| | | |3|(null)|1|(null)| | |
+7322080|01|0213212|0190463|2020/09/17 00:00:00|2020/09/17 00:00:00|12:21|2020/09/18 00:00:00|10:18|0|0|EDWARD|2LPM*24H Prueba Obc|3| |(null)|(null)|KR 110 # 63 - 35|VILLAS DEL DORADO|
+
+TABLE: DETPEDIDOS_GASES_DESCARGA
+ROWCOUNT: 6 
+NoPedido|CodProducto|Capacidad|UnidadesVendidasPraxair|UnidadesVendidasCliente|UnidadesPedidas|UnidadesReales|Asignaciones|Recolecciones|Nuevo|UnidadMedidaVenta|DescripcionProducto|TipoProducto|RequiereAsignacion|RequiereFlete|CodFlete|CapacidadActivo|Lastro|NoAutorizacion|IdDetalleAutorizacion|UnidadesAutorizadas|TipoPago|Monto|UnidadesVendidasCredito|UnidadesVendidasContado|TotalDescuentoContado|TotalDescuentoCredito|TotalIvaContado|TotalIvaCredito|SubTotalContado|SubTotalCredito|MontoTotalContado|MontoTotalCredito|MontoTotalCopago|MontoTotalCuota|PrecioContado|PrecioCredito|PorcentajeImpuesto|PorcentajeDescuento|
+System.String|System.String|System.String|System.Int16|System.Int16|System.Int16|System.Int16|System.Int16|System.Int16|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.Int16|System.String|System.Decimal|System.Int16|System.Int16|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|
+7322080|0101403|8000|0|0|8|0|(null)|0|(null)|m3|OXIGENO MEDICINAL EN CILINDRO|1|1|1| |(null)|1| |(null)|(null)|(null)|(null)|0|0|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|
+7322080|1101403|1000|0|0|1|0|(null)|0|(null)|cu|FLETE OXIGENO GASEOSO MEDICINAL|4|0|1| |(null)|0| |(null)|(null)|(null)|(null)|0|0|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|
+7322080|2101403|1000|0|0|5|0|(null)|0|(null)|cu|ALQUILER CILINDRO OXIGENO GASEOSO MEDICINAL|3|0|0| |(null)|0| |(null)|(null)|(null)|(null)|0|0|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|(null)|
+7322080|0901131|1000|1|0|0|1|1|0|1|m3|O2 MEDICINAL CILINDRO PORTATIL|1|1|1|1901131|1000|1| | |0|0|0.00|1|0|0.00|0.00|0.00|0.00|0.00|7000.00|0.00|7000.00|0.00|0.00|0.00|7000.00|0.00|0.00|
+7322080|1901131|1000|1|0|0|1|0|0|1|cu|FLETE O2 MEDICINAL CILINDRO PORTATIL|4|0|0|0901131|1000|0| | |0|0|0.00|1|0|0.00|0.00|0.00|0.00|0.00|11864.00|0.00|11864.00|0.00|0.00|0.00|11864.00|0.00|0.00|
+0000002|4000016|1000|3|0|0|3|0|0|1|cu|ALQUILER  MUEBLES|2|0|0| |1000|0| |(null)|(null)|(null)|(null)|3|0|0.00|0.00|0.00|6772.00|0.00|35640.00|0.00|42412.00|(null)|(null)|0.00|11880.00|19.00|0.00|
+
+TABLE: GUIACARGADESCARGA
+ROWCOUNT: 1 
+Id_carga|Fecha_inicio|Kilometraje_ini|Numero_guia|Fecha_cierre|Kilometraje_cierre|
+System.String|System.DateTime|System.String|System.String|System.DateTime|System.String|
+453817|2020/09/17 12:59:01|1|(null)|(null)|(null)|
+
+TABLE: ATENCIONES_DESCARGA_GASES
+ROWCOUNT: 5 
+NoPedido|CodProducto|Capacidad|cantidad|
+System.String|System.String|System.String|System.Int16|
+0000002|4000016|1000|3|
+7322079|0901131|1000|1|
+7322079|1901131|1000|1|
+7322080|0901131|1000|1|
+7322080|1901131|1000|1|

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ExecuteProcessDataSet" targetNamespace="http://tempuri.org/ExecuteProcess.xsd" xmlns:mstns="http://tempuri.org/ExecuteProcess.xsd" xmlns="http://tempuri.org/ExecuteProcess.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ExecuteProcessDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="ExecuteProcessDataSet" msprop:Generator_DataSetName="ExecuteProcessDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="General" msprop:Generator_UserTableName="General" msprop:Generator_RowDeletedName="GeneralRowDeleted" msprop:Generator_RowChangedName="GeneralRowChanged" msprop:Generator_RowClassName="GeneralRow" msprop:Generator_RowChangingName="GeneralRowChanging" msprop:Generator_RowEvArgName="GeneralRowChangeEvent" msprop:Generator_RowEvHandlerName="GeneralRowChangeEventHandler" msprop:Generator_TableClassName="GeneralDataTable" msprop:Generator_TableVarName="tableGeneral" msprop:Generator_RowDeletingName="GeneralRowDeleting" msprop:Generator_TablePropName="General">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TipoSentencia" msprop:Generator_UserColumnName="TipoSentencia" msprop:Generator_ColumnVarNameInTable="columnTipoSentencia" msprop:Generator_ColumnPropNameInRow="TipoSentencia" msprop:Generator_ColumnPropNameInTable="TipoSentenciaColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SentenciaSQL" msprop:Generator_UserColumnName="SentenciaSQL" msprop:Generator_ColumnVarNameInTable="columnSentenciaSQL" msprop:Generator_ColumnPropNameInRow="SentenciaSQL" msprop:Generator_ColumnPropNameInTable="SentenciaSQLColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CadenaConexion" msprop:Generator_UserColumnName="CadenaConexion" msprop:Generator_ColumnVarNameInTable="columnCadenaConexion" msprop:Generator_ColumnPropNameInRow="CadenaConexion" msprop:Generator_ColumnPropNameInTable="CadenaConexionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TipoConexion" msprop:Generator_UserColumnName="TipoConexion" msprop:Generator_ColumnPropNameInRow="TipoConexion" msprop:Generator_ColumnVarNameInTable="columnTipoConexion" msprop:Generator_ColumnPropNameInTable="TipoConexionColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

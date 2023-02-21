@@ -1,0 +1,24 @@
+C:\Workspace\Librerias - 2008\MobilidadCF\bin\Debug\MovilidadCF.dll
+C:\Workspace\Librerias - 2008\MobilidadCF\bin\Debug\MovilidadCF.pdb
+C:\Workspace\Librerias - 2008\MobilidadCF\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Workspace\Librerias - 2008\MobilidadCF\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\Librerias - 2008\MobilidadCF\obj\Debug\MovilidadCF.dll
+C:\Workspace\Librerias - 2008\MobilidadCF\obj\Debug\MovilidadCF.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\MovilidadCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\MovilidadCF.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\OpenNETCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\OpenNETCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\OpenNETCF.WindowsCE.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\OpenNETCF.Drawing.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\OpenNETCF.Configuration.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\OpenNETCF.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\OpenNETCF.WindowsCE.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\OpenNETCF.Drawing.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\OpenNETCF.Configuration.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\bin\Debug\OpenNETCF.Windows.Forms.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\obj\Debug\MovilidadCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF\obj\Debug\MovilidadCF.pdb

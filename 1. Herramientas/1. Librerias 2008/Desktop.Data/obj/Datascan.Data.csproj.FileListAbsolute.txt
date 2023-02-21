@@ -1,0 +1,20 @@
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\bin\Debug\Datascan.Data.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\bin\Debug\Datascan.Data.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\bin\Debug\Datascan.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\bin\Debug\Npgsql.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\bin\Debug\Mono.Security.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\bin\Debug\Datascan.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\obj\Debug\Datascan.Data.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\obj\Debug\Datascan.Data.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\bin\Debug\Datascan.Data.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\bin\Debug\Datascan.Data.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\bin\Debug\Datascan.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\bin\Debug\Npgsql.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\bin\Debug\Mono.Security.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\bin\Debug\Datascan.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\obj\Debug\ResolveAssemblyReference.cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\obj\Debug\Datascan.Data.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data\obj\Debug\Datascan.Data.pdb

@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{745835A8-A593-4F02-A176-BBF23A30B004}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>MovilidadCF.Test.Form1</StartupObject>
+    <RootNamespace>MovilidadCF.Test</RootNamespace>
+    <AssemblyName>MovilidadCF.Test</AssemblyName>
+    <ProjectTypeGuids>{68B1623D-7FB9-47D8-8664-7ECEA3297D4F};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <PlatformFamilyName>WindowsCE</PlatformFamilyName>
+    <PlatformID>E2BECB1F-8C8C-41ba-B736-9BE7D946A398</PlatformID>
+    <OSVersion>5.00</OSVersion>
+    <MyType>WindowsForms</MyType>
+    <DeployDirSuffix>DatascanCF.Test</DeployDirSuffix>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FormFactorID>
+    </FormFactorID>
+    <OptionStrict>On</OptionStrict>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <NativePlatformName>Windows CE</NativePlatformName>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>$(PlatformFamilyName)=TRUE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <FileAlignment>512</FileAlignment>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>$(PlatformFamilyName)=TRUE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>
+    </NoWarn>
+    <FileAlignment>512</FileAlignment>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="OpenNETCF, Version=2.3.0.39, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL" />
+    <Reference Include="OpenNETCF.Drawing, Version=2.3.0.39, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL" />
+    <Reference Include="OpenNETCF.Windows.Forms, Version=2.3.0.39, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL" />
+    <Reference Include="OpenNETCF.WindowsCE, Version=2.3.0.39, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL" />
+    <Reference Include="OpenNETCF.WindowsCE.Messaging, Version=2.3.0.39, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL" />
+    <Reference Include="Symbol" />
+    <Reference Include="Symbol.Barcode" />
+    <Reference Include="Symbol.BarcodeForms" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataGrid" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArchivoError.vb" />
+    <Compile Include="BarcodeContinousTriggerForm.Designer.vb">
+      <DependentUpon>BarcodeContinousTriggerForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BarcodeContinousTriggerForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BarcodeForm1.Designer.vb">
+      <DependentUpon>BarcodeForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BarcodeForm1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BarcodeForm2.Designer.vb">
+      <DependentUpon>BarcodeForm2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BarcodeForm2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PAFClientTest.Designer.vb">
+      <DependentUpon>PAFClientTest.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PAFClientTest.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BarcodeContinousTriggerForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BarcodeContinousTriggerForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BarcodeForm1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BarcodeForm1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BarcodeForm2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BarcodeForm2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAFClientTest.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PAFClientTest.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MobilidadCF.Data.FixlenFile\MobilidadCF.Data.FixlenFile.vbproj">
+      <Project>{7C62B959-0CAF-4B3C-AFEE-2CCEFD5F0091}</Project>
+      <Name>MobilidadCF.Data.FixlenFile</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MobilidadCF.Data\MobilidadCF.Data.csproj">
+      <Project>{F204265B-395B-4114-8E44-4450387882F4}</Project>
+      <Name>MobilidadCF.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MobilidadCF.Location\MobilidadCF.Location.csproj">
+      <Project>{84C500C5-BA57-42FA-9DD6-6BD076E4689E}</Project>
+      <Name>MobilidadCF.Location</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MobilidadCF.Symbol\MobilidadCF.Symbol.csproj">
+      <Project>{0FE809BD-CF9D-4D88-BE0D-09052B7659E8}</Project>
+      <Name>MobilidadCF.Symbol</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MobilidadCF.Windows.Forms\MobilidadCF.Windows.Forms.csproj">
+      <Project>{A6D2D403-EE74-4E3E-A288-EA47E9683736}</Project>
+      <Name>MobilidadCF.Windows.Forms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MobilidadCF\MobilidadCF.csproj">
+      <Project>{6D7E45FD-0ED4-4D4F-962A-C73DC2DD09B2}</Project>
+      <Name>MobilidadCF</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MobilidadCF.Client\MobilidadCF.Client.csproj">
+      <Project>{F6310CCC-1E17-4E23-8032-43433B463A43}</Project>
+      <Name>MobilidadCF.Client</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v1.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.VisualBasic.v1.targets" />
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v2.0'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.VisualBasic.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{F184B08F-C81C-45F6-A57F-5ABD9991F28F}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <Import Condition="'$(TargetFrameworkVersion)' == 'v3.5'" Project="$(MSBuildBinPath)\Microsoft.CompactFramework.VisualBasic.targets" />
+</Project>

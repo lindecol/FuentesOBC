@@ -1,0 +1,34 @@
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\DatascanCF.Location.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\DatascanCF.Location.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\DatascanCF.Windows.Forms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.Drawing.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.Windows.Forms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.Configuration.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\DatascanCF.Windows.Forms.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.Drawing.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.Windows.Forms.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.Configuration.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\obj\Debug\DatascanCF.Location.GPSCaptureForm.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\obj\Debug\DatascanCF.Location.csproj.GenerateResource.Cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\obj\Debug\DatascanCF.Location.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\obj\Debug\DatascanCF.Location.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\DatascanCF.Location.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\DatascanCF.Location.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\DatascanCF.Windows.Forms.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.Drawing.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.Windows.Forms.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.Configuration.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\DatascanCF.Windows.Forms.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.Drawing.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.Windows.Forms.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\bin\Debug\OpenNETCF.Configuration.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\obj\Debug\ResolveAssemblyReference.cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\obj\Debug\DatascanCF.Location.GPSCaptureForm.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\obj\Debug\DatascanCF.Location.csproj.GenerateResource.Cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\obj\Debug\DatascanCF.Location.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Location\obj\Debug\DatascanCF.Location.pdb

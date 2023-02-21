@@ -1,0 +1,8 @@
+TABLECOUNT: 1
+TOTALROWCOUNT: 1
+TABLE: GUIACARGADESCARGA
+ROWCOUNT: 1 
+Id_carga|Fecha_inicio|Kilometraje_ini|Numero_guia|Fecha_cierre|Kilometraje_cierre|
+System.String|System.DateTime|System.String|System.String|System.DateTime|System.String|
+450679|2020/08/25 09:03:50|100| | | |
+

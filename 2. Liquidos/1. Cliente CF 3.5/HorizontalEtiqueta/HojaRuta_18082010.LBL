@@ -1,0 +1,288 @@
+! 0 200 200 1960 1
+LABEL
+CONTRAST 0
+TONE 0
+SPEED 5
+PAGE-WIDTH 839
+BAR-SENSE
+;// PAGE 0000000008391960
+LINE 12 8 774 8 1
+LINE 64 10 64 1180 1
+LINE 12 8 12 1180 1
+LINE 118 8 118 1180 1
+LINE 64 8 64 822 1
+LINE 178 8 178 1956 1
+LINE 564 8 564 1956 1
+LINE 178 1956 774 1956 1
+LINE 12 1180 774 1180 1
+LINE 234 8 234 1956 1
+LINE 12 270 774 270 1
+LINE 12 386 774 386 1
+LINE 12 156 774 156 1
+T90 7 0 24 1170 Producto:
+;//{{BEGIN-BT
+T90 7 0 70 1170 Total m3 /
+T90 7 0 90 1170    kilos
+;//{{END-BT
+T90 7 0 134 1170 Tanquero:
+;//{{BEGIN-BT
+T90 7 0 188 1162     No
+T90 7 0 208 1162 Remision
+;//{{END-BT
+LINE 12 1030 774 1030 1
+LINE 118 712 774 712 1
+LINE 178 936 774 936 1
+LINE 178 826 774 826 1
+LINE 178 598 774 598 1
+LINE 178 496 774 496 1
+T90 7 0 196 1746 Relacion de Cargues y Entregas
+T90 7 0 138 700 Cabezote:
+T90 7 0 198 1002 Dia
+;//{{BEGIN-BT
+T90 7 0 190 492  Presion
+T90 7 0 210 492   Final
+;//{{END-BT
+;//{{BEGIN-BT
+T90 7 0 190 922   Km.
+T90 7 0 210 922 Llegada
+;//{{END-BT
+;//{{BEGIN-BT
+T90 7 0 188 802   Hora
+T90 7 0 208 802 Llegada
+;//{{END-BT
+;//{{BEGIN-BT
+T90 7 0 188 690  Hora
+T90 7 0 208 690 Salida
+;//{{END-BT
+;//{{BEGIN-BT
+T90 7 0 190 592 Presion
+T90 7 0 210 592  Inicial
+;//{{END-BT
+;//{{BEGIN-BT
+T90 7 0 186 154 TotalCargado/
+T90 7 0 206 154  Descargado
+;//{{END-BT
+;//{{BEGIN-BT
+T90 7 0 186 362 Nivel 
+T90 7 0 206 362 Inicial
+;//{{END-BT
+;//{{BEGIN-BT
+T90 7 0 188 242 Nivel 
+T90 7 0 208 242 Final
+;//{{END-BT
+LINE 136 8 136 386 1
+LINE 34 8 34 386 1
+LINE 80 8 80 386 1
+T90 0 0 120 382 Total Horas
+T90 0 0 124 256 Total Km
+T90 0 0 18 140 Fecha Salida
+T90 0 0 16 380 Hora Salida
+T90 0 0 22 260 Km Salida
+T90 0 0 66 140 Fecha Entrada
+T90 0 0 64 378 HoraEntrada
+T90 0 0 68 264 Km.Entrada
+T90 0 0 154 246 [TotalKm]
+T90 7 0 30 1008 [Producto]
+T90 7 0 150 1372 [PtdeVenta]
+T90 7 0 140 564 [Cabezote]
+T90 0 0 42 380 [HoraSalida]
+T90 0 0 46 250 [kmSalida]
+T90 0 0 44 134 [FechaSalida]
+T90 0 0 92 136 [Fechaentrada]
+T90 0 0 94 258 [KmEntrada]
+T90 0 0 92 382 [HoraEntrada]
+T90 0 0 148 374 [TotalHora]
+T90 7 0 88 1746 [chofer]
+T90 7 0 138 1006 [Tanquero]
+T90 7 0 82 1002 [Totalm3]
+T90 7 0 743 1945 [(Linea)RelacionCargue14]
+T90 7 0 743 1169 [(Linea)Remision14]
+T90 7 0 743 1012 [(Linea)Dia14]
+T90 7 0 743 929 [(Linea)kmllegda14]
+T90 7 0 743 705 [(Linea)HrSalida14]
+T90 7 0 743 145 [(Linea)Total14]
+T90 7 0 743 495 [(Linea)prfinal14]
+T90 7 0 743 373 [(Linea)NivelIni14]
+T90 7 0 743 261 [(Linea)NivFinal14]
+T90 7 0 743 811 [(Linea)Hrllegda14]
+T90 7 0 743 595 [(Linea)prinicial14]
+T90 7 0 609 811 [(Linea)Hrllegda10]
+T90 7 0 710 810 [(Linea)Hrllegda13]
+T90 7 0 676 810 [(Linea)Hrllegda12]
+T90 7 0 676 594 [(Linea)prinicial12]
+T90 7 0 568 1943 [(Linea)RelacionCargue9]
+T90 7 0 568 1167 [(Linea)Remision9]
+T90 7 0 568 1012 [(Linea)Dia9]
+T90 7 0 568 927 [(Linea)kmllegda9]
+T90 7 0 568 809 [(Linea)Hrllegda9]
+T90 7 0 568 703 [(Linea)HrSalida9]
+T90 7 0 568 593 [(Linea)prinicial9]
+T90 7 0 568 143 [(Linea)Total9]
+T90 7 0 568 493 [(Linea)prfinal9]
+T90 7 0 568 371 [(Linea)NivelIni9]
+T90 7 0 568 259 [(Linea)NivFinal9]
+T90 7 0 609 595 [(Linea)prinicial10]
+T90 7 0 643 811 [(Linea)Hrllegda11]
+T90 7 0 710 594 [(Linea)prinicial13]
+T90 7 0 643 595 [(Linea)prinicial11]
+LINE 774 9 774 1957 1
+LINE 273 8 273 1956 1
+LINE 309 8 309 1956 1
+LINE 345 9 345 1957 1
+LINE 381 8 381 1956 1
+LINE 415 9 415 1957 1
+LINE 449 9 449 1957 1
+LINE 486 9 486 1957 1
+LINE 525 8 525 1956 1
+T90 7 0 244 1950 [(Linea)RelacionCargue0]
+T90 7 0 244 1174 [(Linea)Remision0]
+T90 7 0 244 1012 [(Linea)Dia0]
+T90 7 0 242 934 [(Linea)kmllegda0]
+T90 7 0 244 816 [(Linea)Hrllegda0]
+T90 7 0 244 712 [(Linea)HrSalida0]
+T90 7 0 244 602 [(Linea)prinicial0]
+T90 7 0 244 144 [(Linea)Total0]
+T90 7 0 244 500 [(Linea)prfinal0]
+T90 7 0 244 380 [(Linea)NivelIni0]
+T90 7 0 244 266 [(Linea)NivFinal0]
+T90 7 0 280 1950 [(Linea)RelacionCargue1]
+T90 7 0 280 1174 [(Linea)Remision1]
+T90 7 0 280 1012 [(Linea)Dia1]
+T90 7 0 280 934 [(Linea)kmllegda1]
+T90 7 0 280 710 [(Linea)HrSalida1]
+T90 7 0 280 378 [(Linea)NivelIni1]
+T90 7 0 280 266 [(Linea)NivFinal1]
+T90 7 0 280 816 [(Linea)Hrllegda1]
+T90 7 0 280 600 [(Linea)prinicial1]
+T90 7 0 280 144 [(Linea)Total1]
+T90 7 0 280 500 [(Linea)prfinal1]
+T90 7 0 316 1947 [(Linea)RelacionCargue2]
+T90 7 0 316 1171 [(Linea)Remision2]
+T90 7 0 316 1012 [(Linea)Dia2]
+T90 7 0 316 931 [(Linea)kmllegda2]
+T90 7 0 316 813 [(Linea)Hrllegda2]
+T90 7 0 316 707 [(Linea)HrSalida2]
+T90 7 0 316 597 [(Linea)prinicial2]
+T90 7 0 316 141 [(Linea)Total2]
+T90 7 0 316 497 [(Linea)prfinal2]
+T90 7 0 316 375 [(Linea)NivelIni2]
+T90 7 0 316 263 [(Linea)NivFinal2]
+T90 7 0 352 1947 [(Linea)RelacionCargue3]
+T90 7 0 352 1171 [(Linea)Remision3]
+T90 7 0 352 1012 [(Linea)Dia3]
+T90 7 0 352 931 [(Linea)kmllegda3]
+T90 7 0 352 813 [(Linea)Hrllegda3]
+T90 7 0 352 707 [(Linea)HrSalida3]
+T90 7 0 352 597 [(Linea)prinicial3]
+T90 7 0 352 141 [(Linea)Total3]
+T90 7 0 352 497 [(Linea)prfinal3]
+T90 7 0 352 375 [(Linea)NivelIni3]
+T90 7 0 352 263 [(Linea)NivFinal3]
+T90 7 0 384 1948 [(Linea)RelacionCargue4]
+T90 7 0 384 1172 [(Linea)Remision4]
+T90 7 0 384 1012 [(Linea)Dia4]
+T90 7 0 384 932 [(Linea)kmllegda4]
+T90 7 0 384 814 [(Linea)Hrllegda4]
+T90 7 0 384 708 [(Linea)HrSalida4]
+T90 7 0 384 598 [(Linea)prinicial4]
+T90 7 0 384 142 [(Linea)Total4]
+T90 7 0 384 498 [(Linea)prfinal4]
+T90 7 0 384 376 [(Linea)NivelIni4]
+T90 7 0 384 264 [(Linea)NivFinal4]
+T90 7 0 419 1948 [(Linea)RelacionCargue5]
+T90 7 0 419 1172 [(Linea)Remision5]
+T90 7 0 419 1012 [(Linea)Dia5]
+T90 7 0 419 932 [(Linea)kmllegda5]
+T90 7 0 419 814 [(Linea)Hrllegda5]
+T90 7 0 419 708 [(Linea)HrSalida5]
+T90 7 0 419 598 [(Linea)prinicial5]
+T90 7 0 419 142 [(Linea)Total5]
+T90 7 0 419 498 [(Linea)prfinal5]
+T90 7 0 419 376 [(Linea)NivelIni5]
+T90 7 0 419 264 [(Linea)NivFinal5]
+T90 7 0 455 1948 [(Linea)RelacionCargue6]
+T90 7 0 455 1172 [(Linea)Remision6]
+T90 7 0 455 1012 [(Linea)Dia6]
+T90 7 0 455 932 [(Linea)kmllegda6]
+T90 7 0 455 814 [(Linea)Hrllegda6]
+T90 7 0 455 710 [(Linea)HrSalida6]
+T90 7 0 455 600 [(Linea)prinicial6]
+T90 7 0 455 142 [(Linea)Total6]
+T90 7 0 455 498 [(Linea)prfinal6]
+T90 7 0 455 378 [(Linea)NivelIni6]
+T90 7 0 455 264 [(Linea)NivFinal6]
+T90 7 0 492 1948 [(Linea)RelacionCargue7]
+T90 7 0 492 1172 [(Linea)Remision7]
+T90 7 0 492 1012 [(Linea)Dia7]
+T90 7 0 492 932 [(Linea)kmllegda7]
+T90 7 0 492 814 [(Linea)Hrllegda7]
+T90 7 0 492 710 [(Linea)HrSalida7]
+T90 7 0 492 600 [(Linea)prinicial7]
+T90 7 0 492 142 [(Linea)Total7]
+T90 7 0 492 498 [(Linea)prfinal7]
+T90 7 0 492 378 [(Linea)NivelIni7]
+T90 7 0 492 264 [(Linea)NivFinal7]
+T90 7 0 529 1948 [(Linea)RelacionCargue8]
+T90 7 0 529 1172 [(Linea)Remision8]
+T90 7 0 529 1012 [(Linea)Dia8]
+T90 7 0 529 932 [(Linea)kmllegda8]
+T90 7 0 529 814 [(Linea)Hrllegda8]
+T90 7 0 529 710 [(Linea)HrSalida8]
+T90 7 0 529 600 [(Linea)prinicial8]
+T90 7 0 529 142 [(Linea)Total8]
+T90 7 0 529 498 [(Linea)prfinal8]
+T90 7 0 529 378 [(Linea)NivelIni8]
+T90 7 0 529 264 [(Linea)NivFinal8]
+T90 7 0 150 1536 Punto Venta:
+T90 7 0 56 1944 Cedula Chofer:
+T90 7 0 118 1746 [hojaruta]
+T90 7 0 62 1746 [cedula]
+T90 7 0 84 1944 Nombre Chofer:
+T90 7 0 110 1944 Hoja de Ruta:
+T90 7 0 28 1944 Nombre transportadora:
+T90 7 0 30 1678 [Nombretransportadora]
+T90 7 0 144 1744 [Terminal]
+T90 7 0 140 1946 Terminal
+T90 7 0 609 1945 [(Linea)RelacionCargue10]
+T90 7 0 609 1169 [(Linea)Remision10]
+T90 7 0 609 1012 [(Linea)Dia10]
+T90 7 0 609 929 [(Linea)kmllegda10]
+T90 7 0 609 705 [(Linea)HrSalida10]
+T90 7 0 609 145 [(Linea)Total10]
+T90 7 0 609 495 [(Linea)prfinal10]
+T90 7 0 609 373 [(Linea)NivelIni10]
+T90 7 0 609 261 [(Linea)NivFinal10]
+LINE 600 8 600 1956 1
+LINE 637 8 637 1956 1
+T90 7 0 643 1945 [(Linea)RelacionCargue11]
+T90 7 0 643 1169 [(Linea)Remision11]
+T90 7 0 643 1019 [(Linea)Dia11]
+T90 7 0 643 929 [(Linea)kmllegda11]
+T90 7 0 643 705 [(Linea)HrSalida11]
+T90 7 0 643 145 [(Linea)Total11]
+T90 7 0 643 495 [(Linea)prfinal11]
+T90 7 0 643 373 [(Linea)NivelIni11]
+T90 7 0 643 261 [(Linea)NivFinal11]
+LINE 672 8 672 1956 1
+T90 7 0 676 1944 [(Linea)RelacionCargue12]
+T90 7 0 676 1168 [(Linea)Remision12]
+T90 7 0 676 1018 [(Linea)Dia12]
+T90 7 0 676 928 [(Linea)kmllegda12]
+T90 7 0 676 704 [(Linea)HrSalida12]
+T90 7 0 676 144 [(Linea)Total12]
+T90 7 0 676 494 [(Linea)prfinal12]
+T90 7 0 676 372 [(Linea)NivelIni12]
+T90 7 0 676 260 [(Linea)NivFinal12]
+LINE 704 8 704 1956 1
+T90 7 0 710 1944 [(Linea)RelacionCargue13]
+T90 7 0 710 1168 [(Linea)Remision13]
+T90 7 0 710 1018 [(Linea)Dia13]
+T90 7 0 710 928 [(Linea)kmllegda13]
+T90 7 0 710 704 [(Linea)HrSalida13]
+T90 7 0 710 144 [(Linea)Total13]
+T90 7 0 710 494 [(Linea)prfinal13]
+T90 7 0 710 372 [(Linea)NivelIni13]
+T90 7 0 710 260 [(Linea)NivFinal13]
+LINE 736 9 736 1957 1
+FORM
+PRINT

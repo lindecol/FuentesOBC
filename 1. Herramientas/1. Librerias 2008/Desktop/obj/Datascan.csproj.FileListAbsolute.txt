@@ -1,0 +1,12 @@
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan\bin\Debug\Datascan.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan\bin\Debug\Datascan.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan\obj\Debug\Datascan.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan\obj\Debug\Datascan.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan\bin\Debug\Datascan.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan\bin\Debug\Datascan.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan\obj\Debug\ResolveAssemblyReference.cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan\obj\Debug\Datascan.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan\obj\Debug\Datascan.pdb

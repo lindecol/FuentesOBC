@@ -1,0 +1,35 @@
+TABLECOUNT: 4
+TOTALROWCOUNT: 14
+TABLE: PEDIDOS_GASES_DESCARGA
+ROWCOUNT: 2 
+NoPedido|CodSucursal|CodCliente|CodEntidad|FechaPedido|FechaProgramada|HoraProgramada|FechaAtencion|HoraAtencion|PrimerServicio|Recoleccion|Solicito|Observacion|Estado|MotivoAnulacion|Nuevo|ActivaTarjeta|Direccion|Barrio|
+System.String|System.String|System.String|System.String|System.DateTime|System.DateTime|System.String|System.DateTime|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|
+7298683|01|0123456|0030507|2020/08/26 00:00:00|2020/08/26 00:00:00|10:37|2020/08/26 00:00:00|11:5|0|0|EDWARD TORRES|MULETAS Pruebas Obc |3| | | |KR 24 # 43 SUR - 27|ALQUERIA|
+7298685|01|0216513|0024513|2020/08/26 00:00:00|2020/08/26 00:00:00|10:39|2020/09/09 00:00:00|8:19|0|0|EDWARD TORRES|4 LPM X 24 HRS //CLL|3| | | |CL 6 # 6 - 61|FACATATIVA|
+
+TABLE: DETPEDIDOS_GASES_DESCARGA
+ROWCOUNT: 9 
+NoPedido|CodProducto|Capacidad|UnidadesVendidasPraxair|UnidadesVendidasCliente|UnidadesPedidas|UnidadesReales|Asignaciones|Recolecciones|Nuevo|UnidadMedidaVenta|DescripcionProducto|TipoProducto|RequiereAsignacion|RequiereFlete|CodFlete|CapacidadActivo|Lastro|NoAutorizacion|IdDetalleAutorizacion|UnidadesAutorizadas|TipoPago|Monto|UnidadesVendidasCredito|UnidadesVendidasContado|TotalDescuentoContado|TotalDescuentoCredito|TotalIvaContado|TotalIvaCredito|SubTotalContado|SubTotalCredito|MontoTotalContado|MontoTotalCredito|MontoTotalCopago|MontoTotalCuota|PrecioContado|PrecioCredito|PorcentajeImpuesto|PorcentajeDescuento|
+System.String|System.String|System.String|System.Int16|System.Int16|System.Int16|System.Int16|System.Int16|System.Int16|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.Int16|System.String|System.Decimal|System.Int16|System.Int16|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|
+7298683|0101403|6000|0|0|6|0| |0| |m3|OXIGENO MEDICINAL EN CILINDRO|1|1|1| | |1| | | | | |0|0| | | | | | | | | | | | | | |
+7298683|0901131|1000|0|0|1|0| |0| |m3|O2 MEDICINAL CILINDRO PORTATIL|1|1|1| | |1| | | | | |0|0| | | | | | | | | | | | | | |
+7298683|1101403|1000|0|0|1|0| |0| |cu|FLETE OXIGENO GASEOSO MEDICINAL|4|0|1| | |0| | | | | |0|0| | | | | | | | | | | | | | |
+7298683|1901131|1000|0|0|1|0| |0| |cu|FLETE O2 MEDICINAL CILINDRO PORTATIL|4|0|0| | |0| | | | | |0|0| | | | | | | | | | | | | | |
+7298683|2101403|1000|0|0|1|0| |0| |cu|ALQUILER CILINDRO OXIGENO GASEOSO MEDICINAL|3|0|0| | |0| | | | | |0|0| | | | | | | | | | | | | | |
+7298683|2901131|1000|0|0|1|0| |0| |m3|ALQUILER O2 MEDICINAL CILINDRO PORTATIL|3|0|0| | |0| | | | | |0|0| | | | | | | | | | | | | | |
+7298685|0901043|1000|0|0|0|0| |1| |cu|CONCENTRADOR  O2 INVACARE  IRC5LX|5|1|1| | |1| | | | | |0|0| | | | | | | | | | | | | | |
+7298685|0901131|1000|0|0|0|0| |1| |m3|O2 MEDICINAL CILINDRO PORTATIL|1|1|1| | |1| | | | | |0|0| | | | | | | | | | | | | | |
+7298685|4000009|1000|2|0|0|2|0|0|1|cu|SERVICIOS TECNICOS ESPECIALIZADOS|2|0|0| |1000|0| | | | | |0|2|0.00|0.00|0.00|0.00|4.00|0.00|4.00|0.00|0.00|0.00|2.00|0.00|19.00|0.00|
+
+TABLE: GUIACARGADESCARGA
+ROWCOUNT: 1 
+Id_carga|Fecha_inicio|Kilometraje_ini|Numero_guia|Fecha_cierre|Kilometraje_cierre|
+System.String|System.DateTime|System.String|System.String|System.DateTime|System.String|
+451682|2020/08/26 11:02:14|1| | | |
+
+TABLE: ATENCIONES_DESCARGA_GASES
+ROWCOUNT: 2 
+NoPedido|CodProducto|Capacidad|cantidad|
+System.String|System.String|System.String|System.Int16|
+7298683|0901043|1000|1|
+7298685|4000009|1000|2|

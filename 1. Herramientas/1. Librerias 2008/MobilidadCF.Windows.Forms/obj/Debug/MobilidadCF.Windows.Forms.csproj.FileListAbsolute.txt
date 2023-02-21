@@ -1,0 +1,74 @@
+C:\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\MovilidadCF.Windows.Forms.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\MovilidadCF.Windows.Forms.pdb
+C:\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\obj\Debug\MovilidadCF.Windows.Forms.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\obj\Debug\MovilidadCF.Windows.Forms.pdb
+C:\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\Microsoft.WindowsMobile.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\MovilidadCF.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.WindowsCE.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\Microsoft.WindowsMobile.xml
+C:\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\MovilidadCF.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\MovilidadCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\MovilidadCF.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\Microsoft.WindowsMobile.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\MovilidadCF.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.WindowsMobile.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.Barcode.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.BarcodeForms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.WindowsCE.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.Drawing.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.StandardForms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.Configuration.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\Microsoft.WindowsMobile.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.Drawing.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.BarcodeForms.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.WindowsMobile.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.StandardForms.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\MovilidadCF.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.Barcode.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.Configuration.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.Windows.Forms.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\obj\Debug\MovilidadCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Windows.Forms\obj\Debug\MovilidadCF.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\MovilidadCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\MovilidadCF.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\Microsoft.WindowsMobile.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\MovilidadCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.WindowsMobile.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.Barcode.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.BarcodeForms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.WindowsCE.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.Drawing.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.StandardForms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.Configuration.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\Microsoft.WindowsMobile.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.WindowsCE.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.Drawing.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.BarcodeForms.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.WindowsMobile.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.StandardForms.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\MovilidadCF.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\Symbol.Barcode.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.Configuration.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\bin\Debug\OpenNETCF.Windows.Forms.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\obj\Debug\MovilidadCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Windows.Forms\obj\Debug\MovilidadCF.Windows.Forms.pdb

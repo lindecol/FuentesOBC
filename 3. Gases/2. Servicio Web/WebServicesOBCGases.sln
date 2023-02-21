@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebServicesOBC", "http://localhost/WebServicesOBCGases", "{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = ""
+		Debug.AspNetCompiler.VirtualPath = "/WebServicesOBCGases"
+		Debug.AspNetCompiler.PhysicalPath = "..\WebServicesOBCGases\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebServicesOBC\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebServicesOBCGases"
+		Release.AspNetCompiler.PhysicalPath = "..\WebServicesOBCGases\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebServicesOBCGases\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\WebServicesOBC\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		ProjectReferences = ""
+		Debug.AspNetCompiler.VirtualPath = "/WebServicesOBC"
+		Debug.AspNetCompiler.PhysicalPath = "C:\PROYECTOS\PocketPC.NET\VisualStudio 2005\Oxigenos - Despachos\WebServicesOBC\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebServicesOBCGases\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WebServicesOBCGases"
+		Release.AspNetCompiler.PhysicalPath = "C:\PROYECTOS\PocketPC.NET\VisualStudio 2005\Oxigenos - Despachos\WebServicesOBC\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WebServicesOBCGases\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "C:\PROYECTOS\PocketPC.NET\VisualStudio 2005\Oxigenos - Despachos\WebServicesOBC\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Debug|.NET.Build.0 = Debug|Any CPU
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Release|.NET.ActiveCfg = Debug|Any CPU
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Release|.NET.Build.0 = Debug|Any CPU
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0CC498CC-9BE8-4393-ABFE-8C8B35B00BDE}.Release|Mixed Platforms.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

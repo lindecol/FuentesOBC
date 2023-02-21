@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="TextFileImportTaskDataSet" targetNamespace="http://tempuri.org/TextFileImportTaskDataSet.xsd" xmlns:mstns="http://tempuri.org/TextFileImportTaskDataSet.xsd" xmlns="http://tempuri.org/TextFileImportTaskDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="TextFileImportTaskDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="TextFileImportTaskDataSet" msprop:Generator_DataSetName="TextFileImportTaskDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="General" msprop:Generator_UserTableName="General" msprop:Generator_RowDeletedName="GeneralRowDeleted" msprop:Generator_RowChangedName="GeneralRowChanged" msprop:Generator_RowClassName="GeneralRow" msprop:Generator_RowChangingName="GeneralRowChanging" msprop:Generator_RowEvArgName="GeneralRowChangeEvent" msprop:Generator_RowEvHandlerName="GeneralRowChangeEventHandler" msprop:Generator_TableClassName="GeneralDataTable" msprop:Generator_TableVarName="tableGeneral" msprop:Generator_RowDeletingName="GeneralRowDeleting" msprop:Generator_TablePropName="General">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ArchivoOrigen" msdata:Caption="CadenaConexion" msprop:Generator_UserColumnName="ArchivoOrigen" msprop:Generator_ColumnVarNameInTable="columnArchivoOrigen" msprop:Generator_ColumnPropNameInRow="ArchivoOrigen" msprop:Generator_ColumnPropNameInTable="ArchivoOrigenColumn" type="xs:string" />
+              <xs:element name="UsaLongitudesFijas" msdata:Caption="LongitudFija" msprop:Generator_UserColumnName="UsaLongitudesFijas" msprop:Generator_ColumnVarNameInTable="columnUsaLongitudesFijas" msprop:Generator_ColumnPropNameInRow="UsaLongitudesFijas" msprop:Generator_ColumnPropNameInTable="UsaLongitudesFijasColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="SeparadoresCampos" msprop:Generator_UserColumnName="SeparadoresCampos" msprop:Generator_ColumnVarNameInTable="columnSeparadoresCampos" msprop:Generator_ColumnPropNameInRow="SeparadoresCampos" msprop:Generator_ColumnPropNameInTable="SeparadoresCamposColumn" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="ContieneFilaTitulos" msprop:Generator_UserColumnName="ContieneFilaTitulos" msprop:Generator_ColumnVarNameInTable="columnContieneFilaTitulos" msprop:Generator_ColumnPropNameInRow="ContieneFilaTitulos" msprop:Generator_ColumnPropNameInTable="ContieneFilaTitulosColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="PaginaCodigos" msprop:Generator_UserColumnName="PaginaCodigos" msprop:Generator_ColumnVarNameInTable="columnPaginaCodigos" msprop:Generator_ColumnPropNameInRow="PaginaCodigos" msprop:Generator_ColumnPropNameInTable="PaginaCodigosColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="TablaDestino" msprop:Generator_UserColumnName="TablaDestino" msprop:Generator_ColumnVarNameInTable="columnTablaDestino" msprop:Generator_ColumnPropNameInRow="TablaDestino" msprop:Generator_ColumnPropNameInTable="TablaDestinoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="InsertarFilasNuevas" msprop:Generator_UserColumnName="InsertarFilasNuevas" msprop:Generator_ColumnVarNameInTable="columnInsertarFilasNuevas" msprop:Generator_ColumnPropNameInRow="InsertarFilasNuevas" msprop:Generator_ColumnPropNameInTable="InsertarFilasNuevasColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="ActualizarFilasActuales" msprop:Generator_UserColumnName="ActualizarFilasActuales" msprop:Generator_ColumnVarNameInTable="columnActualizarFilasActuales" msprop:Generator_ColumnPropNameInRow="ActualizarFilasActuales" msprop:Generator_ColumnPropNameInTable="ActualizarFilasActualesColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="IgnorarErrores" msprop:Generator_UserColumnName="IgnorarErrores" msprop:Generator_ColumnVarNameInTable="columnIgnorarErrores" msprop:Generator_ColumnPropNameInRow="IgnorarErrores" msprop:Generator_ColumnPropNameInTable="IgnorarErroresColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="ComandoFinalizacion" msprop:Generator_UserColumnName="ComandoFinalizacion" msprop:Generator_ColumnPropNameInRow="ComandoFinalizacion" msprop:Generator_ColumnVarNameInTable="columnComandoFinalizacion" msprop:Generator_ColumnPropNameInTable="ComandoFinalizacionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="IgnorarFilas" msprop:Generator_UserColumnName="IgnorarFilas" msprop:Generator_ColumnPropNameInRow="IgnorarFilas" msprop:Generator_ColumnVarNameInTable="columnIgnorarFilas" msprop:Generator_ColumnPropNameInTable="IgnorarFilasColumn" type="xs:decimal" default="0" minOccurs="0" />
+              <xs:element name="EliminarArchivo" msprop:Generator_UserColumnName="EliminarArchivo" msprop:Generator_ColumnPropNameInRow="EliminarArchivo" msprop:Generator_ColumnVarNameInTable="columnEliminarArchivo" msprop:Generator_ColumnPropNameInTable="EliminarArchivoColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="VerificarNumerico" msprop:Generator_UserColumnName="VerificarNumerico" msprop:Generator_ColumnVarNameInTable="columnVerificarNumerico" msprop:Generator_ColumnPropNameInRow="VerificarNumerico" msprop:Generator_ColumnPropNameInTable="VerificarNumericoColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="InicioNumerico" msprop:Generator_UserColumnName="InicioNumerico" msprop:Generator_ColumnVarNameInTable="columnInicioNumerico" msprop:Generator_ColumnPropNameInRow="InicioNumerico" msprop:Generator_ColumnPropNameInTable="InicioNumericoColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="LongitudNumerico" msprop:Generator_UserColumnName="LongitudNumerico" msprop:Generator_ColumnVarNameInTable="columnLongitudNumerico" msprop:Generator_ColumnPropNameInRow="LongitudNumerico" msprop:Generator_ColumnPropNameInTable="LongitudNumericoColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="SeparadorMiles" msprop:Generator_UserColumnName="SeparadorMiles" msprop:Generator_ColumnPropNameInRow="SeparadorMiles" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnSeparadorMiles" msprop:Generator_ColumnPropNameInTable="SeparadorMilesColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SeparadorDecimales" msprop:Generator_UserColumnName="SeparadorDecimales" msprop:Generator_ColumnPropNameInRow="SeparadorDecimales" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnSeparadorDecimales" msprop:Generator_ColumnPropNameInTable="SeparadorDecimalesColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="MapeoCampos" msprop:Generator_UserTableName="MapeoCampos" msprop:Generator_RowDeletedName="MapeoCamposRowDeleted" msprop:Generator_RowChangedName="MapeoCamposRowChanged" msprop:Generator_RowClassName="MapeoCamposRow" msprop:Generator_RowChangingName="MapeoCamposRowChanging" msprop:Generator_RowEvArgName="MapeoCamposRowChangeEvent" msprop:Generator_RowEvHandlerName="MapeoCamposRowChangeEventHandler" msprop:Generator_TableClassName="MapeoCamposDataTable" msprop:Generator_TableVarName="tableMapeoCampos" msprop:Generator_RowDeletingName="MapeoCamposRowDeleting" msprop:Generator_TablePropName="MapeoCampos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CampoDestino" msprop:Generator_UserColumnName="CampoDestino" msprop:Generator_ColumnVarNameInTable="columnCampoDestino" msprop:Generator_ColumnPropNameInRow="CampoDestino" msprop:Generator_ColumnPropNameInTable="CampoDestinoColumn" type="xs:string" />
+              <xs:element name="Posicion" msdata:Caption="CampoOrigen" msprop:Generator_UserColumnName="Posicion" msprop:Generator_ColumnVarNameInTable="columnPosicion" msprop:Generator_ColumnPropNameInRow="Posicion" msprop:Generator_ColumnPropNameInTable="PosicionColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Longitud" msdata:Caption="ValorEstatico" msprop:Generator_UserColumnName="Longitud" msprop:Generator_ColumnVarNameInTable="columnLongitud" msprop:Generator_ColumnPropNameInRow="Longitud" msprop:Generator_ColumnPropNameInTable="LongitudColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Formato" msprop:Generator_UserColumnName="Formato" msprop:Generator_ColumnVarNameInTable="columnFormato" msprop:Generator_ColumnPropNameInRow="Formato" msprop:Generator_ColumnPropNameInTable="FormatoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ValorEstatico" msprop:Generator_UserColumnName="ValorEstatico" msprop:Generator_ColumnVarNameInTable="columnValorEstatico" msprop:Generator_ColumnPropNameInRow="ValorEstatico" msprop:Generator_ColumnPropNameInTable="ValorEstaticoColumn" type="xs:string" default="" minOccurs="0" />
+              <xs:element name="NoActualizar" msprop:Generator_UserColumnName="NoActualizar" msprop:Generator_ColumnPropNameInRow="NoActualizar" msprop:Generator_ColumnVarNameInTable="columnNoActualizar" msprop:Generator_ColumnPropNameInTable="NoActualizarColumn" type="xs:boolean" default="false" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="MapeoCamposKey1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:MapeoCampos" />
+      <xs:field xpath="mstns:CampoDestino" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

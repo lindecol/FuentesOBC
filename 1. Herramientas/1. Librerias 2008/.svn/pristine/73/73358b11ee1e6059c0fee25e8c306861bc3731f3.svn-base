@@ -1,0 +1,687 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Data;
+using System.Data.Common;
+using System.Reflection;
+using System.Threading;
+using Newtonsoft.Json.Linq;
+
+#if NETCF20
+namespace MovilidadCF.Data
+{
+#else
+namespace Desktop.Data
+{
+#endif
+    public class GestorDatosBase : System.ComponentModel.Component
+    {
+        private DbConnection m_Connection = null;
+        private DbTransaction m_Transaction = null;
+        private int m_OpenCount = 0;
+        private int m_TransactionCount = 0;
+        private string m_sConnectionString;
+        private GestorDatosBase m_Parent = null;
+        private System.Globalization.NumberFormatInfo m_FormatoNumerico = null;
+        private string m_sSeparadorDecimales = ".";
+        private System.Globalization.CultureInfo m_InformacionCulturaAnterior = null;
+                
+        public GestorDatosBase()
+            : base()
+        {
+        }
+
+  
+        public GestorDatosBase(string sConnectionString)
+        {
+            m_sConnectionString = sConnectionString;
+        }
+
+        public string ConnectionString
+        {
+            get
+            {
+                return m_sConnectionString;
+            }
+            set
+            {
+                m_sConnectionString = value;
+            }
+        }
+
+        public GestorDatosBase Parent
+        {
+            get
+            {
+                return m_Parent;
+            }
+            set
+            {
+                m_Parent = value;
+            }
+        }
+
+
+        // funciones virtuales que deben ser implementadas por las clases hijo
+        virtual internal DbConnection CreateConnection(string ConnectionString) { return null; }
+        virtual public DbCommand CreateCommand() { return null; }
+        virtual public DbDataAdapter CreateDataAdapter() { return null; }
+        virtual public DbCommandBuilder CreateCommandBuilder() { return null; }
+        virtual public void DeriveParameters(DbCommand cmd) { }
+        virtual internal bool SaveToDatabase(string sSerializedData, bool bUpdateCurrentRows, DataSetSerializer.IEstadoCarga Estado, DataSet ds) { return false; }
+        virtual internal bool SaveToDatabase(string sSerializedData, bool bUpdateCurrentRows) { return false; }
+        virtual internal bool SaveToDatabase(string sSerializedData, bool bUpdateCurrentRows, bool bDespreciarTablas) { return false; }
+        virtual internal bool SaveCompressToDatabase(string sSerializedData, bool bUpdateCurrentRows, DataSetSerializer.IEstadoCarga Estado, DataSet ds, bool NoLanzaExcepcion) { return false; }
+        virtual internal bool SaveCompressToDatabase(string sSerializedData, bool bUpdateCurrentRows, DataSetSerializer.IEstadoCarga Estado, DataSet ds) { return false; }
+        virtual internal bool SaveCompressToDatabase(string sSerializedData, bool bUpdateCurrentRows) { return false; }
+        virtual public bool SaveToDatabase(JArray datosServicio, bool bUpdateCurrentRows, DataSetSerializer.IEstadoCarga Estado, DataSet ds) { return false; }
+
+        public DbCommand CreateCommand(CommandType commandType, string sCommandText, bool bDeriveParameters)
+        {
+            DbCommand cmd = CreateCommand();
+            cmd.Connection = Connection;
+            cmd.CommandType = commandType;
+            cmd.CommandText = sCommandText;
+            if (commandType == CommandType.StoredProcedure && bDeriveParameters)
+            {
+                OpenConnection();
+                try
+                {
+                    DeriveParameters(cmd);
+                }
+                finally
+                {
+                    CloseConnection();
+                }
+            }
+            
+            return cmd;
+        }
+      
+        protected virtual void SetCommandParameters(DbCommand cmd, object[] Parameters)
+        {
+            throw new NotImplementedException("SetCommandParameters, debe ser implemetentado en la clases hijo");
+        }
+        public virtual DataTable GetTables()
+        {
+            return Connection.GetSchema("TABLES");
+        }
+
+        public DbConnection Connection
+        {
+            get 
+            {
+                if (m_Parent != null)
+                {                    
+                    return m_Parent.Connection;
+                }
+                if (m_Connection == null)
+                {
+                    m_Connection = CreateConnection(m_sConnectionString);
+                }
+                return m_Connection;
+            }
+        }
+
+        public DbTransaction Transaction
+        {
+            get
+            {
+                if (m_Parent != null)
+                    return m_Parent.Transaction;
+                return m_Transaction;
+            }
+            set
+            {
+                if (m_Parent != null)
+                    m_Parent.Transaction = value;
+                m_Transaction = value;
+            }
+        }
+
+        public void OpenConnection()
+        {
+            if (m_Parent != null)
+                m_Parent.OpenConnection();
+            else
+            {
+                if (m_OpenCount == 0)
+                {
+                    if (Connection != null)
+                    {
+                        Connection.Open();
+                    }
+                    else
+                    {
+                        throw new Exception("Error creando conexiones");
+                    }
+                }
+                m_OpenCount++;
+            }
+        }
+
+        public void CloseConnection()
+        {
+            if (m_Parent != null)
+                m_Parent.CloseConnection();
+            else
+            {
+                m_OpenCount--;
+                if (m_OpenCount == 0)
+                    Connection.Close();
+            }
+        }
+
+        public void BeginTransaction()
+        {
+            if (m_Parent != null)
+            {
+                m_Parent.BeginTransaction();
+                return;
+            }          
+
+            if (m_TransactionCount == 0)
+            {
+                OpenConnection();
+
+                // Create the transaction and assign it to the Transaction property
+                if (Transaction == null)
+                {
+                    Transaction = Connection.BeginTransaction();
+                }
+            }
+            m_TransactionCount++;
+        }
+
+        // --------------------------------------------------------------------
+        public void CommitTransaction()
+        {
+            if (m_Parent != null)
+            {
+                m_Parent.CommitTransaction();
+                return;
+            }
+
+            m_TransactionCount--;
+            if (m_TransactionCount == 0)
+            {
+                if (Transaction == null)
+                    throw new InvalidOperationException("No se ha abierto ninguna transacción");
+
+                // Commit the transaction
+                Transaction.Commit();
+                Transaction = null;
+
+                // Close the connection
+                CloseConnection();
+            }
+        }
+
+        // --------------------------------------------------------------------
+        public void RollbackTransaction()
+        {
+            if (m_Parent != null)
+            {
+                m_Parent.CommitTransaction();
+                return;
+            }
+                        
+            if (m_TransactionCount > 0)
+            {
+                m_TransactionCount--;
+
+                if (Transaction != null)
+                {
+                    // Rollback the transaction
+                    Transaction.Rollback();
+                    Transaction = null;
+                }
+
+                // Close the connection
+                CloseConnection();
+            }
+            else
+                throw new InvalidOperationException("No se ha abierto ninguna transacción");
+
+        }
+
+        public void PrepareAdapter(System.ComponentModel.Component DataAdapter)
+        {
+            if (m_Parent != null)
+            {
+                m_Parent.PrepareAdapter(DataAdapter);
+                return;
+            }
+
+            IDbDataAdapter Adapter;
+            if (DataAdapter is IDbDataAdapter)
+            {
+                // Es un dataupdater Db base 
+                Adapter = (IDbDataAdapter)DataAdapter;
+            }
+            else
+            {
+                // Se trata un Typed DataAdapter
+
+                // se asigna la conexión a la base de datos
+                PropertyInfo propConnection = DataAdapter.GetType().GetProperty("Connection", BindingFlags.Public | BindingFlags.NonPublic | BindingFlags.Instance);
+                if (propConnection != null)
+                    propConnection.SetValue(DataAdapter, Connection, null);
+
+
+                Adapter = (IDbDataAdapter)DataAdapter.GetType().GetProperty("Adapter", BindingFlags.NonPublic | BindingFlags.Instance).GetValue(DataAdapter, null);
+                if (Adapter != null)
+                {
+                    IDbCommand[] CommandCollection = (IDbCommand[])DataAdapter.GetType().GetProperty("CommandCollection", BindingFlags.NonPublic | BindingFlags.Instance).GetValue(DataAdapter, null); ;
+
+                    // attach or reset transaction to all commands of this adapter:
+                    if (CommandCollection != null)
+                    {
+                        foreach (IDbCommand command in CommandCollection)
+                        {
+                            command.Transaction = m_Transaction;
+                        }
+                    }
+                }
+            }
+
+            if (Adapter != null)
+            {
+                // Se configura el Db Data Adapter
+                if (Adapter.InsertCommand != null)
+                {
+                    Adapter.InsertCommand.Connection = Connection;
+                    Adapter.InsertCommand.Transaction = m_Transaction;
+                }
+                if (Adapter.UpdateCommand != null)
+                {
+                    Adapter.UpdateCommand.Connection = Connection;
+                    Adapter.UpdateCommand.Transaction = m_Transaction;
+                }
+                if (Adapter.DeleteCommand != null)
+                {
+                    Adapter.DeleteCommand.Connection = Connection;
+                    Adapter.DeleteCommand.Transaction = m_Transaction;
+                }
+            }
+        }
+
+        public DbDataAdapter CreateDataAdapter(string sCommandText)
+        {
+            if (m_Parent != null)
+                return m_Parent.CreateDataAdapter(sCommandText);
+            return CreateDataAdapter( sCommandText, true);
+        }                  
+   
+        public DbDataAdapter CreateDataAdapter(string sCommandText, bool bGenerateUpdateCommands)
+        {
+            if (m_Parent != null)
+                return m_Parent.CreateDataAdapter(sCommandText, bGenerateUpdateCommands);
+            
+            DbDataAdapter da = CreateDataAdapter();
+            da.SelectCommand = CreateCommand();
+            da.SelectCommand.Connection = Connection;
+            if (!sCommandText.StartsWith("SELECT ", StringComparison.CurrentCultureIgnoreCase))
+                sCommandText = "SELECT * FROM " + sCommandText;
+            da.SelectCommand.CommandType = CommandType.Text;
+            da.SelectCommand.CommandText = sCommandText;
+
+            if (bGenerateUpdateCommands)
+            {
+                DbCommandBuilder cmdbuilder = CreateCommandBuilder();
+                cmdbuilder.DataAdapter = da;
+                cmdbuilder.ConflictOption = ConflictOption.OverwriteChanges;
+                cmdbuilder.SetAllValues = false;
+                da.InsertCommand = cmdbuilder.GetInsertCommand();
+                try
+                {
+                    da.UpdateCommand = cmdbuilder.GetUpdateCommand();
+                }
+                catch
+                {
+                    // se puede generar una excepcion si la consulta base no contiene todos
+                    // los campos de la tabla primaria o el Proveedor de acceso a datos
+                    // no soporta esta operación
+                }
+                try
+                {
+                    da.DeleteCommand = cmdbuilder.GetDeleteCommand();
+                }
+                catch
+                {
+                    // se puede generar una excepcion si la consulta base no contiene todos
+                    // los campos de la tabla primaria o el Proveedor de acceso a datos
+                    // no soporta esta operación
+                }
+            }
+            return da;
+        }
+
+
+        public int ExecuteNonQuery(CommandType commandType, string sCommandText, params object[] Parameters)
+        {
+            if (m_Parent != null)
+                return m_Parent.ExecuteNonQuery(commandType, sCommandText, Parameters);
+            int res = 0;
+            DbCommand cmd = CreateCommand();
+            OpenConnection();
+            try
+            {
+                PrepareCommand(cmd, commandType, sCommandText, Parameters);
+                res = cmd.ExecuteNonQuery();
+            }
+            finally
+            {
+                CloseConnection();
+            }
+            cmd.Dispose();
+            return res;
+        }
+
+        public object ExecuteScalar(CommandType commandType, string sCommandText, params object[] Parameters)
+        {
+            if (m_Parent != null)
+                return m_Parent.ExecuteScalar(commandType, sCommandText, Parameters);
+           
+            DbCommand cmd = CreateCommand();
+            object res = null;
+            OpenConnection();
+            try
+            {
+                PrepareCommand(cmd, commandType, sCommandText, Parameters);
+                res = cmd.ExecuteScalar();
+            }
+            finally
+            {
+                CloseConnection();
+            }
+            return res;
+        }
+
+        public DbDataReader ExecuteReader(CommandType commandType, string sCommandText, params object[] Parameters)
+        {
+            if (m_Parent != null)
+                return m_Parent.ExecuteReader(commandType, sCommandText, Parameters);
+          
+            DbCommand cmd = CreateCommand();
+            DbDataReader reader;
+            PrepareCommand(cmd, commandType, sCommandText, Parameters);
+            reader = cmd.ExecuteReader();
+            return reader;
+        }
+
+        public virtual void Fill(DataTable dt, CommandType commandType, string sCommandText, params object[] Parameters)
+        {
+            if (m_Parent != null)
+            {
+                m_Parent.Fill(dt, commandType, sCommandText, Parameters);
+                return;
+            }
+
+            DbDataAdapter da = CreateDataAdapter();
+            da.SelectCommand = CreateCommand();
+            da.SelectCommand.Parameters.Clear();
+            PrepareCommand(da.SelectCommand, commandType, sCommandText, Parameters);
+            dt.Rows.Clear();
+            da.Fill(dt);
+            dt.AcceptChanges();
+            da.SelectCommand.Parameters.Clear();
+            da.Dispose();
+        }
+
+        protected virtual void PrepareCommand(DbCommand cmd, CommandType commandType, string sCommandText, object[] Parameters)
+        {
+            if (m_Parent != null)
+            {
+                m_Parent.PrepareCommand(cmd, commandType, sCommandText, Parameters);
+                return;
+            }
+
+            int I;
+            cmd.Connection = this.Connection;
+            cmd.CommandType = commandType;
+            cmd.CommandText = sCommandText;
+            cmd.Transaction = this.Transaction;
+            cmd.Parameters.Clear();
+            if (Parameters != null)
+            {
+                if ( Parameters.Length > 0 )
+                {
+                    if (Parameters[0] is DbParameter)
+                    {
+                        for (I = 0; I < Parameters.Length; I++)
+                                cmd.Parameters.Add(Parameters[I]);
+                    }
+                    else if (cmd.CommandType == CommandType.StoredProcedure)
+                    {
+                        OpenConnection();
+                        try
+                        {
+                            //TODO: Implementar estrategia de caching
+                            DeriveParameters(cmd);
+                        }
+                        finally
+                        {
+                            CloseConnection();
+                        }
+
+                     
+                        for (I = 0; I < Parameters.Length; I++)
+                        {
+                            cmd.Parameters[I].Value = Parameters[I];
+                        }
+                    }
+                    else
+                    {
+                        SetCommandParameters(cmd, Parameters);
+                    }
+                }
+            }
+        }
+
+        internal object GetColumnValue(string sFieldType, string sValue, string sColumna)
+        {
+            try
+            {               
+                if (sValue == "(null)")
+                {
+                    return DBNull.Value;
+                }
+                else
+                {
+                    if (!sFieldType.StartsWith("System."))
+                    {
+                        sFieldType = "System." + sFieldType;
+                    }
+                    switch (sFieldType)
+                    {
+                        case "System.String":
+                            StringBuilder sbTexto = new StringBuilder(Convert.ToString(sValue));
+                            sbTexto.Replace("<CRLF>", "\r\n");
+                            sbTexto.Replace("<CR>", "\r");
+                            sbTexto.Replace("<LF>", "\n");
+                            return sbTexto.ToString();
+                        case "System.DateTime":
+                            try
+                            {
+                                return DateTime.ParseExact(sValue, DataSetSerializer.FormatoFecha, null);
+                            }
+                            catch
+                            {
+                                try
+                                {
+                                    return DateTime.ParseExact(sValue, DataSetSerializer.FormatoFecha.Replace("/", "-"), null);
+                                }
+                                catch (Exception ex)
+                                {
+                                    if (sValue.Contains("T"))
+                                    {
+                                        sValue = sValue.Substring(0, sValue.IndexOf("T"));
+                                        return DateTime.ParseExact(sValue, "yyyy-MM-dd", null);
+                                    }
+                                    else
+                                    {
+                                        throw ex;
+                                    }
+                                }                                
+                            }
+                            
+                        case "System.Byte[]":
+                            return Convert.FromBase64String(sValue);
+                        case "System.Int32":
+                            return Int32.Parse(sValue);
+                        case "System.Double":
+                            if (m_FormatoNumerico == null)
+                            {
+                                return Double.Parse(sValue);
+                            }
+                            else
+                            {
+                                return Double.Parse(sValue,m_FormatoNumerico);
+                            }
+                        case "System.Decimal":
+                            if (m_FormatoNumerico == null)
+                            {
+                                return Decimal.Parse(sValue);
+                            }
+                            else
+                            {
+                                return Decimal.Parse(sValue, m_FormatoNumerico);
+                            }
+                        case "System.Int16":
+                            return Int16.Parse(sValue);
+                        case "System.Boolean":
+                            if (sValue == DataSetSerializer.ValorTrue)
+                            {
+                                return true;
+                            }
+                            else
+                            {
+                                if (sValue == DataSetSerializer.ValorFalse)
+                                {
+                                    return false;
+                                }
+                                else
+                                {                                    
+                                    if (sValue == "")
+                                    {
+                                        return false; 
+                                    }
+                                    else
+                                    {
+                                        return bool.Parse(sValue);
+                                    }
+
+                                }
+                            }
+                        default:
+                            return sValue;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error convirtiendo datos, Tipo: " + sFieldType + "F" + this.FormatoFecha + " Valor:" + sValue + " Columna:" + sColumna);
+            }
+        }
+
+        internal object GetColumnValue(string sFieldType, string sValue)
+        {
+            return this.GetColumnValue(sFieldType, sValue, string.Empty);
+        }
+
+        private string m_sValorTrue = "true";
+
+        public string ValorTrue
+        {
+            get { return m_sValorTrue; }
+            set { m_sValorTrue = value; }
+        }
+
+        private string m_sValorFalse = "false";
+
+        public string ValorFalse
+        {
+            get { return m_sValorFalse; }
+            set { m_sValorFalse = value; }
+        }
+
+        private string m_sFormatoFecha = "yyyy/MM/dd HH:mm:ss";
+
+        public string FormatoFecha
+        {
+            get { return m_sFormatoFecha; }
+            set { m_sFormatoFecha = value; }
+        }
+
+        public string SeparadorDecimales
+        {
+            get { return m_sSeparadorDecimales; }
+            set 
+            { 
+                m_sSeparadorDecimales = value; 
+                //Instanciar el formato númerico
+                if (m_sSeparadorDecimales == ".")
+                {
+                    System.Globalization.CultureInfo culturaActual = System.Globalization.CultureInfo.CurrentCulture;
+                    m_FormatoNumerico = (System.Globalization.NumberFormatInfo)culturaActual.NumberFormat.Clone();
+                    m_FormatoNumerico.NumberDecimalSeparator = ".";
+                    m_FormatoNumerico.NumberGroupSeparator = ",";
+
+                }
+                else
+                {
+                    System.Globalization.CultureInfo culturaActual = System.Globalization.CultureInfo.CurrentCulture;
+                    m_FormatoNumerico = (System.Globalization.NumberFormatInfo)culturaActual.NumberFormat.Clone();
+                    m_FormatoNumerico.NumberDecimalSeparator = ",";
+                    m_FormatoNumerico.NumberGroupSeparator = ".";
+                }
+            }
+        }
+
+        #if NETCF20
+        public void PersonalizarCulturaHiloEjecucion()
+        {
+            m_InformacionCulturaAnterior=null; 
+        }
+        #else    
+        public void PersonalizarCulturaHiloEjecucion()
+        {           
+            //Personalizamos el hilo de ejecucion
+            //Si es punto es idioma ingles
+            string sNombre = string.Empty;
+            if (SeparadorDecimales == ".")
+            {
+                sNombre = "en-US";
+            }
+            else
+            {
+                if (SeparadorDecimales == ",")
+                {
+                    sNombre = "es-CO";
+                }
+                else
+                {
+                    m_InformacionCulturaAnterior = null;
+                    return;
+                }
+
+            }
+            //Guardamos la cultura Anterior            
+            m_InformacionCulturaAnterior = System.Threading.Thread.CurrentThread.CurrentCulture;
+            //Configuramos la nueva cultura
+            System.Globalization.CultureInfo nwConfiguracion = new System.Globalization.CultureInfo(sNombre);
+            System.Threading.Thread.CurrentThread.CurrentCulture = nwConfiguracion;
+        }
+
+        public void ReestablecerCulturaHiloEjecucion()
+        {
+            if (m_InformacionCulturaAnterior != null)
+            {
+                System.Threading.Thread.CurrentThread.CurrentCulture = m_InformacionCulturaAnterior;
+                m_InformacionCulturaAnterior = null;
+            }
+        }    
+    #endif
+    }
+}

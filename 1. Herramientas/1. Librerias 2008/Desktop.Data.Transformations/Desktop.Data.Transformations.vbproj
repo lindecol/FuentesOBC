@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1E929AD2-DA15-4823-BE8A-F727D31C9F1F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Desktop.Data.Transformations</RootNamespace>
+    <AssemblyName>Desktop.Data.Transformations</AssemblyName>
+    <MyType>Windows</MyType>
+    <StartupObject>
+    </StartupObject>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <OptionStrict>On</OptionStrict>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Datascan.Data.Transformations.xml</DocumentationFile>
+    <DefineConstants>_MYFORMS=True</DefineConstants>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Datascan.Data.Transformations.xml</DocumentationFile>
+    <DefineConstants>_MYFORMS=True</DefineConstants>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataAccess\Definiciones.vb" />
+    <Compile Include="DataAccess\TransformationDataSet.vb">
+      <DependentUpon>TransformationDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IU\DataPreviewDialog.designer.vb">
+      <DependentUpon>DataPreviewDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\DataPreviewDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tasks\CustomCommon\CustomTaskDataSet.vb">
+      <DependentUpon>CustomTaskDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\CustomCommon\CustomTaskDialog.Designer.vb">
+      <DependentUpon>CustomTaskDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\CustomCommon\CustomTaskDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tasks\CustomExport\CustomExportTask.vb" />
+    <Compile Include="Tasks\CustomCommon\CustomTaskDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CustomTaskDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\CustomImport\CustomImportTask.vb" />
+    <Compile Include="Tasks\DBExport\DBExportTask.vb" />
+    <Compile Include="Tasks\DBExport\DBExportTaskDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBExportTaskDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\DBExport\DBExportTaskDataSet.vb">
+      <DependentUpon>DBExportTaskDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\DBExport\DBExportTaskDialog.Designer.vb">
+      <DependentUpon>DBExportTaskDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\DBExport\DBExportTaskDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tasks\DBImport\DBImportTaskDataSet.vb">
+      <DependentUpon>DBImportTaskDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\ExecuteProcessSQL\ExcuteProcessSQLDialog.Designer.vb">
+      <DependentUpon>ExcuteProcessSQLDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\ExecuteProcessSQL\ExcuteProcessSQLDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tasks\ExecuteProcessSQL\ExecuteProcessDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ExecuteProcessDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\ExecuteProcessSQL\ExecuteProcessSQL.vb" />
+    <Compile Include="Tasks\TextFileExport\TextFileExportTask.vb" />
+    <Compile Include="Tasks\TextFileExport\TextFileExportTaskDataSet.Designer.vb">
+      <DependentUpon>TextFileExportTaskDataSet.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Tasks\TextFileExport\TextFileExportTaskDataSet.vb">
+      <DependentUpon>TextFileExportTaskDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\TextFileExport\TextFileExportTaskDialog.designer.vb">
+      <DependentUpon>TextFileExportTaskDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\TextFileExport\TextFileExportTaskDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tasks\DBImport\DBImportTaskDialog.designer.vb">
+      <DependentUpon>DBImportTaskDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\DBImport\DBImportTaskDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataAccess\TransformationDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TransformationDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="IU\TransformationEditControl.designer.vb">
+      <DependentUpon>TransformationEditControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\TransformationEditControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IU\EditTareaDialog.Designer.vb">
+      <DependentUpon>EditTareaDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\EditTareaDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tasks\DBImport\DBImportTask.vb" />
+    <Compile Include="DataTransformation.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Tasks\TaskBase.vb" />
+    <Compile Include="Tasks\TaskFactory.vb" />
+    <Compile Include="Tasks\TextFileImport\TextFileImportTask.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Tasks\TextFileImport\TextFileImportTaskDataSet.Designer.vb">
+      <DependentUpon>TextFileImportTaskDataSet.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Tasks\TextFileImport\TextFileImportTaskDialog.designer.vb">
+      <DependentUpon>TextFileImportTaskDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\TextFileImport\TextFileImportTaskDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\GUIUtils.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="Tasks\DBImport\DBImportTaskDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBImportTaskDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\StringUtils.vb" />
+    <Compile Include="Utils\Style.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="IU\DataPreviewDialog.resx">
+      <DependentUpon>DataPreviewDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tasks\CustomCommon\CustomTaskDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CustomTaskDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tasks\DBExport\DBExportTaskDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DBExportTaskDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tasks\DBImport\DBImportTaskDialog.resx">
+      <DependentUpon>DBImportTaskDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tasks\ExecuteProcessSQL\ExcuteProcessSQLDialog.resx">
+      <DependentUpon>ExcuteProcessSQLDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tasks\TextFileExport\TextFileExportTaskDialog.resx">
+      <DependentUpon>TextFileExportTaskDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\TransformationEditControl.resx">
+      <DependentUpon>TransformationEditControl.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\EditTareaDialog.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EditTareaDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tasks\TextFileImport\TextFileImportTaskDialog.resx">
+      <DependentUpon>TextFileImportTaskDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DataAccess\TransformationDataSet.xsc">
+      <DependentUpon>TransformationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataAccess\TransformationDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>TransformationDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataAccess\TransformationDataSet.xss">
+      <DependentUpon>TransformationDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Tasks\DBImport\DBImportTaskDataSet.xsc">
+      <DependentUpon>DBImportTaskDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Tasks\DBImport\DBImportTaskDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DBImportTaskDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Tasks\DBImport\DBImportTaskDataSet.xss">
+      <DependentUpon>DBImportTaskDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewDocument.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gear_1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GoToUp.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ImportFromDatabase.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ImportFromFile.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewCard.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewDocument1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewWindow1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NewWindow.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OK.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OpenFolder.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RefreshDocView.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Task.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddTable.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_export2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_import.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit_Undo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EditInformation1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EditInformation.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExportToDatabase.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExportToFile.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Filter2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Find.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NavUp.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Tasks\CustomCommon\CustomTaskDataSet.xsc">
+      <DependentUpon>CustomTaskDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Tasks\CustomCommon\CustomTaskDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CustomTaskDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Tasks\CustomCommon\CustomTaskDataSet.xss">
+      <DependentUpon>CustomTaskDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Tasks\DBExport\DBExportTaskDataSet.xsc">
+      <DependentUpon>DBExportTaskDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Tasks\DBExport\DBExportTaskDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DBExportTaskDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Tasks\DBExport\DBExportTaskDataSet.xss">
+      <DependentUpon>DBExportTaskDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Tasks\ExecuteProcessSQL\ExecuteProcessDataSet.xsc">
+      <DependentUpon>ExecuteProcessDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Tasks\ExecuteProcessSQL\ExecuteProcessDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ExecuteProcessDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Tasks\ExecuteProcessSQL\ExecuteProcessDataSet.xss">
+      <DependentUpon>ExecuteProcessDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Tasks\TextFileExport\TextFileExportTaskDataSet.xsc">
+      <DependentUpon>TextFileExportTaskDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Tasks\TextFileExport\TextFileExportTaskDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TextFileExportTaskDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Tasks\TextFileExport\TextFileExportTaskDataSet.xss">
+      <DependentUpon>TextFileExportTaskDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\NavDown.bmp" />
+    <None Include="Tasks\TextFileImport\TextFileImportTaskDataSet.xsc">
+      <DependentUpon>TextFileImportTaskDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Tasks\TextFileImport\TextFileImportTaskDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TextFileImportTaskDataSet.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Tasks\TextFileImport\TextFileImportTaskDataSet.xss">
+      <DependentUpon>TextFileImportTaskDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Desktop.Data\Desktop.Data.csproj">
+      <Project>{996090A2-E218-4676-B118-E67F383A882E}</Project>
+      <Name>Desktop.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Desktop.Windows.Forms\Desktop.Windows.Forms.csproj">
+      <Project>{670B88C0-0097-451E-8C9A-815D69D5C9CB}</Project>
+      <Name>Desktop.Windows.Forms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Desktop\Desktop.csproj">
+      <Project>{6F982860-6928-43BD-9E0A-3C6FED0158C0}</Project>
+      <Name>Desktop</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+</Project>

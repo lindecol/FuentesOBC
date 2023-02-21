@@ -1,0 +1,1188 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Symbol.MagStripe</name>
+    </assembly>
+    <members>
+        <member name="T:Symbol.MagStripe.Actions">
+            <summary>
+            Performs actions on the Reader.
+            </summary>
+            <remarks>
+            The Symbol.MagStripe.Actions is used to perform actions on the MSR hardware.
+            Such actions include starting and canceling pending reads, as well as, enabling
+            and disabling the hardware. The class is normally constructed by the
+             <see cref="T:Symbol.MagStripe.Reader"/> class during its instantiation process. 
+            </remarks>
+        </member>
+        <member name="M:Symbol.MagStripe.Actions.Finalize">
+            <summary>
+            Allows an Action object to attempt to free resources and perform other cleanup 
+            operations before it is reclaimed by garbage collection.
+            </summary>
+        </member>
+        <member name="M:Symbol.MagStripe.Actions.Dispose">
+            <summary>
+            Release any resources used by the Actions class.
+            </summary>
+        </member>
+        <member name="M:Symbol.MagStripe.Actions.Enable">
+            <summary>
+            Enables the MSR hardware. 
+            </summary>
+            <remarks>
+            The Enable() method may take a while to process due to that fact that 
+            the initialization of the hardware may take some time. During this time
+            the WaitCursor will be displayed on the screen. The Enable() method allows
+            this initialization to be done when it least impacts the user experience
+            (e.g. entry to a form). To perform the read of a magnetic stripe additional
+            methods must be called. In particular, a call to <see cref="M:Symbol.MagStripe.Actions.Read(Symbol.Generic.ReaderData)"/> must take
+            place. <seealso cref="M:Symbol.MagStripe.Actions.Disable"/> <seealso cref="M:Symbol.MagStripe.Actions.Read(Symbol.Generic.ReaderData)"/> 
+            </remarks>
+        </member>
+        <member name="M:Symbol.MagStripe.Actions.Disable">
+            <summary>
+            Disables the MSR hardware. Reverses the <see cref="M:Symbol.MagStripe.Actions.Enable"/> process. The
+            MSR must be re-enabled before its use if it has been disabled.
+            <seealso cref="M:Symbol.MagStripe.Actions.Enable"/>
+            </summary> 
+        </member>
+        <member name="M:Symbol.MagStripe.Actions.Read(Symbol.Generic.ReaderData)">
+            <summary>
+            Starts a pending read. The MSR will be put into a state in which a swipe of a 
+            magnetic stripe will can take place. 
+            </summary>
+            <param name="clsReaderData">The ReaderData object that will contain the data read once
+            the read completes.</param>
+        </member>
+        <member name="M:Symbol.MagStripe.Actions.Flush">
+            <summary>
+            Removes all pending reads from the Reader. 
+            <seealso cref="M:Symbol.MagStripe.Actions.Read(Symbol.Generic.ReaderData)"/>
+            </summary>
+        </member>
+        <member name="M:Symbol.MagStripe.Actions.NewReaderData">
+            <summary>
+            Creates a generic ReaderData object for use with a Symbol.MagStripe.Reader 
+            object. 
+            </summary>
+            <remarks>
+            The Symbol.Generic base classes provide a level of abstraction for data providers
+            such as Barcode Readers and Magnetic Stripe Readers. This abstraction provides 
+            application developers with the capability to write generic code that can be
+            used across different data providers and hardware. Since only common
+            functionality is provided by the Generic classes, some specific features may
+            not be present.
+            </remarks>
+            <returns>A generic ReaderData object.</returns>
+        </member>
+        <member name="T:Symbol.MagStripe.Device">
+            <summary>
+            The Symbol.MagStripe.Device class provides information about to all the
+            available MSR DLLs in the system.
+            </summary>
+            <remarks>
+            The Symbol.MagStripe.Device class provides an excellent starting point for
+            applications that wish to gain more information about all the MSR DLLs available. The
+            AvailableDevices property provides a static Device array with each entry mapping to
+            available MSR DLLs. Each entry contains information about the hardware the DLL can
+            access and can also be used to contruct a <see cref="T:Symbol.MagStripe.Reader"/> object.
+            This is the recommended method for instantiating Reader objects.
+            </remarks>
+        </member>
+        <member name="M:Symbol.MagStripe.Device.#ctor">
+            <summary>
+            Default device class constructor. Device constructors are not normally called by the user. Selecting a Device reference by using Device.AvailableDevices is preferred instead.
+            </summary>
+            <remarks>
+            By default, a MagStripe.Device object will be constructed with the "MSR3000"
+            "COM1" port targeted. Its friendly name will be "Default Reader".
+            </remarks>
+        </member>
+        <member name="M:Symbol.MagStripe.Device.#ctor(System.String)">
+            <summary>
+            Device class constructor with settable device name. Device constructors are not normally called by the user. Selecting a Device reference by using Device.AvailableDevices is preferred instead.
+            </summary>
+            <remarks>
+            A MagStripe.Device object will be constructed with the given Device Name. Its 
+            friendly name will be "Explicit Reader". "COM1" will be used as the port.
+            </remarks>
+            <param name="DeviceName">The name of the device DLL. Should be in the form of 
+            MSR API dll name without the extension. (ie "MSR3000", "MSROneil", etc.)</param>
+        </member>
+        <member name="M:Symbol.MagStripe.Device.#ctor(System.String,System.String)">
+            <summary>
+            Device class constructor with settable device name and friendly name. Device constructors are not normally called by the user. Selecting a Device reference by using Device.AvailableDevices is preferred instead.
+            </summary>
+            <remarks>
+            A MagStripe.Device object will be constructed with the given Device Name and
+            Friendly Name. "COM1" will be used as the port.
+            </remarks>
+            <param name="DeviceName">The name of the device DLL. Should be in the form of 
+            MSR API dll name without the extension. (ie "MSR3000", "MSROneil", etc.)</param>
+            <param name="FriendlyName">A friendly name for the device. Can be any string.</param>
+        </member>
+        <member name="M:Symbol.MagStripe.Device.#ctor(System.String,System.String,System.String)">
+            <summary>
+            Device class constructor with settable device name, friendly name, and port. Device constructors are not normally called by the user. Selecting a Device reference by using Device.AvailableDevices is preferred instead.
+            </summary>
+            <remarks>
+            The port should be in the form of "COMx" or "MSRx", where x is the number of the
+            driver/port to access.
+            </remarks>
+            <param name="DeviceName">The name of the device DLL. Should be in the form of 
+            MSR API dll name without the extension. (ie "MSR3000", "MSROneil", etc.)</param>
+            <param name="FriendlyName">A friendly name for the device. Can be any string.</param>
+            <param name="PortName">Port ("COMx")or driver ("MSRx") for the MSR device.</param>
+        </member>
+        <member name="P:Symbol.MagStripe.Device.Title">
+            <summary>
+            Static title of the MagStripe device class.
+            </summary>
+            <value>
+            A String that returns "MagStripe".
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.Device.AvailableDevices">
+            <summary>
+            The AvailableDevices property can be used to obtain a list of all available 
+            hardware for use with the MagStripe classes.
+            </summary>
+            <remarks>
+            The AvailableDevices property provides a static Device array with each entry
+            mapping to available MSR hardware. Each entry contains information about
+            the hardware and can also be used to contruct a <see cref="T:Symbol.MagStripe.Reader"/>
+            object. This is the recommended method for instantiating Reader objects.
+            </remarks>
+            <value>
+            A <see cref="T:Symbol.MagStripe.Device"/> array that represents all available MSR hardware.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.Device.PortName">
+            <summary>
+            Returns the port or driver name of the device.
+            </summary>
+            <value>
+            A string that contains the port (COMx) or driver (MSRx) name of the device.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.Device.IsOpen">
+            <summary>
+            Specifies whether of not the MSR device is in use.
+            </summary>
+            <value>
+            A boolean flag that when set indicates that the MSR device is in use.
+            </value>
+        </member>
+        <member name="T:Symbol.MagStripe.States">
+            <summary>
+            Defines the different states of the MagStripe Reader.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.States.STOPPED">
+            <summary>
+            MSR is not enabled.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.States.IDLE">
+            <summary>
+            MSR is enabled but no reads are pending.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.States.READY">
+            <summary>
+            MSR device is ready to have a card swiped.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.States.CLOSING">
+            <summary>
+            MSR is in the process of freeing resources.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.States.FIRST">
+            <summary>
+            The first item in the States enumeration. This item is 
+            used during simulation mode to cycle through all states.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.States.LAST">
+            <summary>
+            The last item in the States enumeration. This item is 
+            used during simulation mode to cycle through all states.
+            </summary>
+        </member>
+        <member name="T:Symbol.MagStripe.EventTypes">
+            <summary>
+            Defines the different types of events that can occur for the MagStripe Reader.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.EventTypes.STATE_CHANGE">
+            <summary>
+            The state of the MSR has changed.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.EventTypes.ERROR">
+            <summary>
+            An error occurred while trying to wait for an event.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.EventTypes.FIRST">
+            <summary>
+            The first item in the EventTypes enumeration. This item is 
+            used during simulation mode to cycle through all event types.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.EventTypes.LAST">
+            <summary>
+            The last item in the EventTypes enumeration. This item is 
+            used during simulation mode to cycle through all event types.
+            </summary>
+        </member>
+        <member name="T:Symbol.MagStripe.MagStripeStatus">
+            <summary>
+            The MagStripeStatus class provides access to notification information.
+            </summary>
+            <remarks>
+            The MagStripeStatus class is normally obtained from the <see cref="M:Symbol.MagStripe.Reader.GetNextStatus"/>
+            method. The GetNextStatus() method is usually called when a StatusNotify event
+            has been fired and your event processing method (EventHandler) has been invoked.
+            During your event processing the MagStripeStatus object is obtained so that
+            information about the status change can be retrieved.
+            <seealso cref="M:Symbol.MagStripe.Reader.GetNextStatus"/> <seealso cref="E:Symbol.MagStripe.Reader.StatusNotify"/>
+            </remarks>
+        </member>
+        <member name="M:Symbol.MagStripe.MagStripeStatus.#ctor(Symbol.MagStripe.EventTypes,Symbol.MagStripe.States,System.String)">
+            <summary>
+            The MagStripeStatus constructor is not normally called by the developer.
+            </summary>
+            <param name="et">An EventTypes enumerated type that defines the type of 
+            event that has occurred.</param>
+            <param name="ss">A States enumerated type that defines the new state of 
+            the Reader.</param>
+            <param name="s">The state of the Reader in string form.</param>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeStatus.Type">
+            <summary>
+            Retrieves the MagStripe Reader event type.
+            </summary>
+            <value>
+            An EventTypes member that defines the type of event that has occured.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeStatus.State">
+            <summary>
+            Retrieves the MagStripe.Reader event state.
+            </summary>
+            <value>
+            A State member that defines the new state of the Reader.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeStatus.Text">
+            <summary>
+            Retrieves the MagStripe.Reader state in string form.
+            </summary>
+            <value>
+            The string representation of the MagStripe.Reader state.
+            </value>
+        </member>
+        <member name="T:Symbol.MagStripe.Info">
+            <summary>
+            The MagStripe.Info Class contains information about the MSR.
+            </summary>
+            <remarks>
+            The Info class is normally constructed by the Reader class and can be accessed
+            using the Reader.Info property.
+            </remarks>
+        </member>
+        <member name="M:Symbol.MagStripe.Info.#ctor(Symbol.MagStripe.Reader)">
+            <summary>
+            The Info class constructor is not normally called.
+            </summary>
+            <param name="clsReader">A Reader object from which the information will be
+            obtained.</param>
+        </member>
+        <member name="P:Symbol.MagStripe.Info.IsEnabled">
+            <summary>
+            Specifies whether or not the Reader is enabled.
+            </summary>
+            <value>
+            A boolean flag which when true indicates that the Reader is enabled, otherwise it
+            is disabled.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.Info.IsSimulating">
+            <summary>
+            Read only property returns whether or not the reader is in simulation mode.
+            </summary>
+            <remarks>
+            Simulation mode is used primarily by the class libraries to allow support for 
+            programming using the "stock" emulators provided by Microsoft. While in
+            simulation mode scans are faked so that programs can be tested and developed.
+            </remarks>
+            <value>
+            A boolean flag which when true indicates that the Reader is in simulation mode, 
+            otherwise actual hardware has been targeted.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.Info.PendingReads">
+            <summary>
+            Returns the number of pending reads.
+            </summary>
+            <remarks>
+            A pending read is a read that has been submitted but has not yet completed. To 
+            submit a pending read call the <see cref="M:Symbol.MagStripe.Actions.Read(Symbol.Generic.ReaderData)"/> method. A read
+            completes by either a successful decode, a failed decode, or due to a cancellation of 
+            the read.
+            </remarks>
+            <value>
+            An integer which returns the number of current pending reads.
+            </value>
+        </member>
+        <member name="T:Symbol.MagStripe.ReservedChar">
+            <summary>
+            The ReservedChar class provides access to the ReservedChar fields of the MSR parameters.
+            </summary>
+            <remarks> 
+            These fields are reserved for customizing the MSR.  They must not be modified by 
+            developers without obtaining specific instructions from the manufacturer.  Any changes to 
+            these fields may result in unpredictable behavior.
+            </remarks>
+        </member>
+        <member name="P:Symbol.MagStripe.ReservedChar.format">
+            <summary>
+            For internal use only.
+            </summary>
+        </member>
+        <member name="P:Symbol.MagStripe.ReservedChar.sr_ascii">
+            <summary>
+            For internal use only.
+            </summary>
+        </member>
+        <member name="P:Symbol.MagStripe.ReservedChar.sr_bits">
+            <summary>
+            For internal use only.
+            </summary>
+        </member>
+        <member name="T:Symbol.MagStripe.MagStripeParams">
+            <summary>
+            The MagStripeParams class provides access to MSR parameters.
+            </summary>
+            <remarks> 
+            The MagStripeParams class is normally constructed by the Reader class and can be
+            accessed through the Reader.Parameters property. This class is derived from
+            Symbol.API and can be used with the StandardForms classes to create a UI
+            interface for modifying/viewing the parameters.
+            </remarks>
+        </member>
+        <member name="F:Symbol.MagStripe.MagStripeParams.ReservedChar1">
+            <summary>
+            The ReservedChar class provides access to the ReservedChar fields of the MSR parameters.
+            These fields must not be modified by the developers without specific instructions from 
+            the manufacturer
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.MagStripeParams.ReservedChar2">
+            <summary>
+            The ReservedChar class provides access to the ReservedChar fields of the MSR parameters.
+            These fields must not be modified by the developers without specific instructions from 
+            the manufacturer
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.MagStripeParams.ReservedChar3">
+            <summary>
+            The ReservedChar class provides access to the ReservedChar fields of the MSR parameters.
+            These fields must not be modified by the developers without specific instructions from 
+            the manufacturer
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.MagStripeParams.ReservedChar4">
+            <summary>
+            The ReservedChar class provides access to the ReservedChar fields of the MSR parameters.
+            These fields must not be modified by the developers without specific instructions from 
+            the manufacturer
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.MagStripeParams.ReservedChar5">
+            <summary>
+            The ReservedChar class provides access to the ReservedChar fields of the MSR parameters.
+            These fields must not be modified by the developers without specific instructions from 
+            the manufacturer
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.MagStripeParams.ReservedChar6">
+            <summary>
+            The ReservedChar class provides access to the ReservedChar fields of the MSR parameters.
+            These fields must not be modified by the developers without specific instructions from 
+            the manufacturer
+            </summary>
+        </member>
+        <member name="M:Symbol.MagStripe.MagStripeParams.#ctor(Symbol.MagStripe.Reader)">
+            <summary>
+            The MagStripeParams contructor should not normally be called. 
+            </summary>
+            <param name="clsReader">The Reader object from which the parameter information 
+            should come from.</param>
+        </member>
+        <member name="M:Symbol.MagStripe.MagStripeParams.Save(System.Boolean)">
+            <summary>
+            Saves the parameters so that they can be restored later.
+            </summary>
+            <param name="bRecurseIntoSubClasses">When "true", the save procedure
+            will recurse into the subclasses and save their parameters as well. 
+            (i.e. perform a deep copy).
+            </param>
+            <returns>
+            An object that represents the saved parameters.
+            </returns>
+        </member>
+        <member name="M:Symbol.MagStripe.MagStripeParams.Restore(System.Object)">
+            <summary>
+            Restores saved parameters. The object passed as
+            a parameter should be obtained using the <see cref="M:Symbol.MagStripe.MagStripeParams.Save(System.Boolean)"/> method.
+            </summary>
+            <param name="SaveInfo">An object obtained that contains the saved state</param>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeParams.Text">
+            <summary>
+            A Text property that returns a friendly name for the class.
+            </summary>
+            <value>
+            String that returns "Parameters".
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeParams.Terminator">
+            <summary>
+            Specifies the termination character.
+            </summary>
+            <value>
+            A TerminatorChars enumerated value.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeParams.Preamble">
+            <summary>
+            Specifies the preamble character string. (May not be supported by all MagStripe
+            readers)
+            </summary>
+            <value>
+            A string that contains the Preamble. The allowed maximum length is 10 characters. 
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeParams.Postamble">
+            <summary>
+            Specifies the postamble character string. (May not be supported by all MagStripe
+            readers)
+            </summary>
+            <value>
+            A string that contains the Postamble. The allowed maximum length is 10 characters. 
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeParams.TrackSelection">
+            <summary>
+            Specifies the track selection.
+            </summary>
+            <value>
+            A TrackSelections value that determines which tracks should be read.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeParams.TrackSeparator">
+            <summary>
+            Specifies the track separator.
+            </summary>
+            <value>
+            An character value (as an integer) that specifies the track separator.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeParams.LRCSetting">
+            <summary>
+            Specifies the LRC setting.
+            </summary>
+            <value>
+            The LRCSettings value. Either No LRC or Send LRC.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeParams.DataEditSetting">
+            <summary>
+            Specifies the data edit setting. (To be obsoleted, do not use!)
+            </summary>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeParams.DecoderMode">
+            <summary>
+            Specifies the decoder mode. (May not be supported by all MagStripe readers)
+            </summary>
+            <value>
+            A DecoderModes type that specifies the type of Decoder Mode.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeParams.Track1Format">
+            <summary>
+            Track1 format property. (To be obsoleted, do not use!)
+            </summary>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeParams.Track2Format">
+            <summary>
+            Track2 format property.  (To be obsoleted, do not use!)
+            </summary>
+        </member>
+        <member name="P:Symbol.MagStripe.MagStripeParams.Track3Format">
+            <summary>
+            Track3 format property. (To be obsoleted, do not use!)
+            </summary>
+        </member>
+        <member name="T:Symbol.MagStripe.TerminatorChars">
+            <summary>
+            MagStripe terminator characters
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.TerminatorChars.CR_LF_MODE">
+            <summary>
+            Carriage Return and Line Feed.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.TerminatorChars.CR_MODE">
+            <summary>
+            Carriage Return.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.TerminatorChars.LF_MODE">
+            <summary>
+            Line Feed.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.TerminatorChars.NO_TERM_MODE">
+            <summary>
+            Not terminator character.
+            </summary>
+        </member>
+        <member name="T:Symbol.MagStripe.TrackSelections">
+            <summary>
+            MagStripe track selections
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.TrackSelections.ANY_TRACK">
+            <summary>
+            Any track will be decoded.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.TrackSelections.TRACK_1">
+            <summary>
+            Only Track one will be decoded.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.TrackSelections.TRACK_2">
+            <summary>
+            Only Track two will be decoded.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.TrackSelections.TRACK_1_2">
+            <summary>
+            Track one and two will be decoded.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.TrackSelections.TRACK_3">
+            <summary>
+            Only Track three will be decoded.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.TrackSelections.TRACK_1_3">
+            <summary>
+            Track one and three will be decoded.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.TrackSelections.TRACK_2_3">
+            <summary>
+            Track two and three will be decoded.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.TrackSelections.ALL_TRACKS">
+            <summary>
+            All tracks will be decoded.
+            </summary>
+        </member>
+        <member name="T:Symbol.MagStripe.LRCSettings">
+            <summary>
+            MagStripe LRC settings
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.LRCSettings.NO_LRC">
+            <summary>
+            No LRC will be sent.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.LRCSettings.SEND_LRC">
+            <summary>
+            LRC will be sent.
+            </summary>
+        </member>
+        <member name="T:Symbol.MagStripe.DataEditSettings">
+            <summary>
+            MagStripe Data edit settings. (Not supported by all MagStripe readers)
+            </summary>
+            <remarks>
+            No longer supported.
+            </remarks>
+        </member>
+        <member name="F:Symbol.MagStripe.DataEditSettings.DISABLE_DATA_EDIT">
+            <summary>
+            Disable the use of data edit.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.DataEditSettings.ENABLE_DATA_MATCH">
+            <summary>
+            Enable data match.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.DataEditSettings.ENABLE_DATA_NOMATCH">
+            <summary>
+            Enable data non-match.
+            </summary>
+        </member>
+        <member name="T:Symbol.MagStripe.DecoderModes">
+            <summary>
+            MagStripe decoder modes. (Not supported by all MagStripe readers)
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.DecoderModes.STANDARD_DECODE">
+            <summary>
+            Standard Decoder for ISO, DMV, AAMVA formats.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.DecoderModes.GENERIC_DECODE">
+            <summary>
+            Generic Decoder.
+            </summary>
+        </member>
+        <member name="F:Symbol.MagStripe.DecoderModes.RAW_DECODE">
+            <summary>
+            Raw Data Decoder. The Raw Data Decoder sends magnetic data in raw data format so the application program can perform complicated decoding. With this feature, raw data, which are bit level data in the card, can be sent to the application program for further processing. Two ASCII characters represent each raw data byte. Track selection is invalid for the raw data decoder; that is, all encoded data of three tracks in the card is sent.
+            </summary>
+        </member>
+        <member name="T:Symbol.MagStripe.Reader">
+            <summary>
+            The MagStripe.Reader class can be considered the primary class of the MagStripe class
+            library. It provides access to actions, information, and parameters.
+            </summary>
+            <remarks>
+            The Reader class provides access to the capabilities of the MSR. It is normally constructed
+            by having a <see cref="T:Symbol.MagStripe.Device"/> object passed in as a parameter. Once created, 
+            actions can be performed on the reader using object returned from the 
+            <see cref="P:Symbol.MagStripe.Reader.Actions"/> property. One of the most commonly used actions is the 
+            submitting of a <see cref="M:Symbol.MagStripe.Actions.Read(Symbol.Generic.ReaderData)"/> request. To perform a Read you will need to
+            contruct a <see cref="T:Symbol.MagStripe.ReaderData"/> object and pass it as a parameter to the 
+            Read method. You will then need to attach to the <see cref="E:Symbol.MagStripe.Reader.ReadNotify"/> event
+            to be notified when a read completes.<para> Decoder and scan parameter objects can be
+            access using the Reader.Decoders and Reader.Parameters properties, respectively.
+            </para><para>The Dispose method of the Reader should be called when the object is no
+            longer needed by the application.</para>
+            </remarks>
+        </member>
+        <member name="M:Symbol.MagStripe.Reader.#ctor">
+            <summary>
+            Default Reader constructor creates an instance using the first available device.
+            </summary>
+            <remarks>
+            The first available device may be a Simulated device if no MSR hardware is
+            found. To be sure that the correct device is targeted during the instantiation of 
+            the Reader, it is suggested that you specify the Device fully using the other
+            Reader constructors.
+            </remarks>
+        </member>
+        <member name="M:Symbol.MagStripe.Reader.#ctor(Symbol.Generic.Device)">
+            <summary>
+            Reader constructor with settable MagStripe.Device.
+            </summary>
+            <remarks>
+            This is the recommended constructor to use when creating a Reader object.
+            </remarks>
+            <param name="clsDevice">A Generic.Device or <see cref="T:Symbol.MagStripe.Device"/>
+            object that targets a particular MSR.</param>
+        </member>
+        <member name="M:Symbol.MagStripe.Reader.Finalize">
+            <summary>
+            Allows a Reader to attempt to free resources and perform other cleanup 
+            operations before it is reclaimed by garbage collection.
+            </summary>
+        </member>
+        <member name="M:Symbol.MagStripe.Reader.Dispose">
+            <summary>
+            Frees up all resources used by the Reader, including any objects it has created. 
+            It is strongly recommended that this method be called when the Reader is no longer
+            needed by the application.
+            </summary>
+        </member>
+        <member name="M:Symbol.MagStripe.Reader.GetNextReaderData">
+            <summary>
+            Gets the next ReaderData object from the read completion queue.
+            </summary>
+            <remarks>
+            The GetNextReaderData method is most commonly called by methods that have been
+            invoked via the ReadNotify event. This method provides access to the ReaderData
+            object of completed reads (whether the reads have been completed successfully or
+            not should be determined from the status information provided by the ReaderData
+            object).
+            </remarks>
+            <returns>A <see cref="T:Symbol.MagStripe.ReaderData"/> object that has completed.</returns>
+        </member>
+        <member name="M:Symbol.MagStripe.Reader.GetNextStatus">
+            <summary>
+            Gets the next MagStripeStatus object from the MSR status event queue.
+            </summary>
+            <remarks>
+            The GetNextStatus method is most commonly called by methods that have been
+            invoked via the StatusNotify event. This method provides access to the 
+            MagStripeStatus object that contains information about the MSR event that
+            has occured.
+            </remarks>
+            <returns>A <see cref="T:Symbol.MagStripe.MagStripeStatus"/> object with MSR event
+            information.</returns>
+        </member>
+        <member name="M:Symbol.MagStripe.Reader.ToString">
+            <summary>
+            String representation of class.
+            </summary>
+            <returns>The device name of the Reader in string form.</returns>
+        </member>
+        <member name="M:Symbol.MagStripe.Reader.Save(System.Boolean)">
+            <summary>
+            Saves the parameters so that they can be restored later if necessary.
+            </summary>
+            <param name="bRecurseIntoSubClasses">When "true", the save procedure
+            will recurse into the subclasses and save their parameters as well. 
+            (i.e. perform a deep copy).
+            </param>
+            <returns>
+            An object that represents the saved parameters.
+            </returns>
+        </member>
+        <member name="M:Symbol.MagStripe.Reader.Restore(System.Object)">
+            <summary>
+            Restores saved parameters. The object passed as
+            a parameter should be obtained using the <see cref="M:Symbol.MagStripe.Reader.Save(System.Boolean)"/> method.
+            </summary>
+            <param name="SaveInfo">An object obtained that contains the saved state</param>
+        </member>
+        <member name="M:Symbol.MagStripe.Reader.OnReadNotify(System.EventArgs)">
+            <summary>
+            Called by MessageWindow class to notify UI thread of read. 
+            </summary>
+        </member>
+        <member name="M:Symbol.MagStripe.Reader.OnStatusNotify(System.EventArgs)">
+            <summary>
+            Called by MessageWindow class to notify UI thread of status. 
+            </summary>
+        </member>
+        <member name="E:Symbol.MagStripe.Reader.ReadNotify">
+            <summary>
+            Attach to this notification event to be called back when a read completes.
+            </summary>
+            <value>
+            A <see cref="T:System.EventHandler"/> delegate of the method that will be invoked
+            when a read completes.
+            </value>
+        </member>
+        <member name="E:Symbol.MagStripe.Reader.StatusNotify">
+            <summary>
+            Attach to this notification event to be called back when a MSR event occurs.
+            </summary>
+            <value>
+            A <see cref="T:System.EventHandler"/> delegate of the method that will be invoked
+            when a MSR event occurs.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.Reader.Actions">
+            <summary>
+            Provides access to actions that can be performed on the Reader.
+            </summary>
+            <value>A <see cref="T:Symbol.MagStripe.Actions"/> object.</value>
+        </member>
+        <member name="P:Symbol.MagStripe.Reader.Info">
+            <summary>
+            Provides access to information about the Reader.
+            </summary>
+            <value> A <see cref="T:Symbol.MagStripe.Info"/> object.</value>
+        </member>
+        <member name="P:Symbol.MagStripe.Reader.Version">
+            <summary>
+            Provides access to version information.
+            </summary>
+            <value> A <see cref="T:Symbol.MagStripe.Version"/> object.</value>
+        </member>
+        <member name="P:Symbol.MagStripe.Reader.Text">
+            <summary>
+            Returns the name of the device being used for the Reader.
+            </summary>
+            <value>String that contains the Device name</value>
+        </member>
+        <member name="P:Symbol.MagStripe.Reader.Parameters">
+            <summary>
+            Provides access to MSR parameters so that they can be viewed and modified.
+            </summary>
+            <value>
+            A <see cref="T:Symbol.MagStripe.MagStripeParams"/> object that contains the MSR parameters.
+            </value>
+        </member>
+        <member name="T:Symbol.MagStripe.ReaderData">
+            <summary>
+            ReaderData class encapsulates all the MSR data and meta-data for a given read.
+            </summary>
+            <remarks>
+            The ReaderData class is most commonly used to create objects that will be passed to the
+            <see cref="M:Symbol.MagStripe.Actions.Read(Symbol.Generic.ReaderData)"/> method. This will start a pending read.
+            </remarks>
+        </member>
+        <member name="M:Symbol.MagStripe.ReaderData.#ctor">
+            <summary>
+            Default ReaderData constructor.
+            </summary>
+            <remarks>
+            The default buffer size is 500 bytes.
+            </remarks>
+        </member>
+        <member name="M:Symbol.MagStripe.ReaderData.#ctor(System.Int32)">
+            <summary>
+            ReaderData constructor with integer based buffer size.
+            </summary>
+            <param name="bufferSize">An integer that specifies the size of the memory buffer
+            in bytes.</param>
+        </member>
+        <member name="M:Symbol.MagStripe.ReaderData.#ctor(System.Boolean,System.Byte,System.Int32)">
+            <summary>
+            ReaderData constructor is applicable for MSR attachments that have the PIN entry capability
+            such as DCR7000.
+            </summary>
+            <remarks>
+            The ReaderData class is used to create a ReaderData object
+            that will be used to parse out MSR information from an MSR swipe and collect user PIN entry
+            for processing debit cards. 
+            </remarks>
+            <param name="PINRead">A boolean that specifies whether to read PIN</param>
+            <param name="PINEncryptionFormat">A byte that specifies the format used to encrypt the 
+            PAN and user’s PIN data.  Currently only the value '0' (ISO-0 format) is supported.  
+            </param>
+            <param name="PINEntryTimeout">Timeout in milliseconds.
+            The default value is 5000 milliseconds. If the user does not provide the PIN 
+            information within this time, a timeout error will be returned.</param>
+        </member>
+        <member name="M:Symbol.MagStripe.ReaderData.Finalize">
+            <summary>
+            Allows a ReaderData to attempt to free resources and perform other cleanup 
+            operations before it is reclaimed by garbage collection.
+            </summary>
+        </member>
+        <member name="M:Symbol.MagStripe.ReaderData.Dispose">
+            <summary>
+            Release all resources used by ReaderData object.
+            </summary>
+            <remarks> 
+            It is highly recommended that this method be called when the ReaderData object is no
+            longer being used by the application. <para>Note: Do not Dispose of the ReaderData
+            object until any Reads associated with it have been cancelled.</para>
+            </remarks>
+        </member>
+        <member name="M:Symbol.MagStripe.ReaderData.ToString">
+            <summary>
+            Returns the MSR data text.
+            </summary>
+            <returns>
+            A string of the MSR data.
+            </returns>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.Text">
+            <summary>
+            Returns the MSR data text.
+            </summary>
+            <value>
+            A string of the MSR data.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.Source">
+            <summary>
+            Returns the source of the MSR data. (ie The MSR device name)
+            </summary>
+            <value> 
+            A string that contains the name of the MSR which provided the source.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.TimeStamp">
+            <summary>
+            The time at which the MSR data was obtained.
+            </summary>
+            <value>
+            A DateTime structure that contains the time information.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.EventStatus">
+            <summary>
+            Returns the event status in string form.
+            </summary>
+            <value>
+            A stirng that provides information about the status of the current read.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.BufferSize">
+            <summary>
+            Size of the ReaderData buffer.
+            </summary>
+            <value>
+            An integer that contains the current memory buffer size allocated for MSR data.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.Track1Data">
+            <summary>
+            Information data on track 1.
+            </summary>
+            <value>
+            A string that contains only the data from track 1.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.Track2Data">
+            <summary>
+            Information data on track 2.
+            </summary>
+            <value>
+            A string that contains only the data from track 2.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.Track3Data">
+            <summary>
+            Information data on track 3.
+            </summary>
+            <value>
+            A string that contains only the data from track 3.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.Track1Decode">
+            <summary>
+            Information on track 1 successful decode.
+            </summary>
+            <value>
+            A boolean flag that specifies whether or not track 1 contained information.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.Track2Decode">
+            <summary>
+            Information on track 2 successful decode.
+            </summary>
+            <value>
+            A boolean flag that specifies whether or not track 2 contained information.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.Track3Decode">
+            <summary>
+            Information on track 3 successful decode.
+            </summary>
+            <value>
+            A boolean flag that specifies whether or not track 3 contained information.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.HasReader">
+            <summary>
+            Specifies whether or not the ReaderData has been attached to a Reader object via 
+            a Actions.Read method call.
+            </summary>
+            <remarks>
+             Note: This property will return true after a read has completed.
+            </remarks>
+            <value>
+            A boolean flag that when set to true indicates that the ReaderData has been
+            attached to a Reader at some point.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.PINRead">
+            <summary>
+            Specifies whether or not to read PIN from the user through the DCR.
+            </summary>
+            <value>
+            A boolean flag that when set to true indicates that PIN has to be read
+            from the DCR.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.PINEncryptionFormat">
+            <summary>
+            Specifies the format used to encrypt the PAN and user’s PIN data.
+            Currently only the value ISO-0 format is supported.  
+            For the current release, the caller should supply 0x00 for this parameter.
+            The default value is 0.
+            </summary>
+            <value>
+            A byte that specifies the format for encrypting the PAN and user's PIN data.
+            The default value is 0.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.PINEntryTimeout">
+            <summary>
+            Timeout (in milliseconds) for the user to enter PIN on the DCR.
+            If the user does not provide the PIN information within this time, 
+            a timeout error will be returned.
+            </summary>
+            <value>
+            An unsigned short that specifies the timeout (in milliseconds) duration for PIN entry.
+            The default value is 5000 milliseconds.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.PINEncryptedData">
+            <summary>
+            Stores the encrypted data.
+            As per the DUKPT spec, this buffer must be a minimum of 18 bytes long 
+            (10 bytes for KSN and 8 for EPB).
+            </summary>
+            <value>
+            A byte array that stores the encrypted data
+            </value> 
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.PINCapable">
+            <summary>
+            This field is set to true if the mag stripe reader is capable of reading PIN (DCR)
+            and the previously swiped MSR card contains valid PAN data.
+            To read the PIN data, check if this field is true and set the field 
+            "PINRead" to true.  
+            </summary>
+            <value>
+            A boolean value that when set to true indicates that PIN can be read.
+            </value> 
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.PANData">
+            <summary>
+            If the previously swiped card is a valid credit or debit card, this field will be
+            populated with the PAN (personal acoount number) data.  Or if there is no need for  
+            swiping the debit or credit card, this field can be manually entered.
+            
+            When using a DCR (debit card reader), the value of this field will be used for generating 
+            the PIN encrypted data. Refer to the page “Using DCR (debit card reader)” under the 
+            section “MagStripe” in the Programmer’s Guide of the EMDK help file.
+            </summary>
+            <value>
+            A string value used in generating the PIN encrypted data.
+            </value> 
+        </member>
+        <member name="P:Symbol.MagStripe.ReaderData.Result">
+            <summary>
+            The result of the read request.
+            </summary>
+            <remarks>
+            This result is a managed code version of the actual result returned by the
+            underlying scan driver stack. It can be used to determine whether or not the 
+            read was successful or failed. 
+            </remarks>
+            <value>
+            A <see cref="T:Symbol.Results"/> member that indicates whether or not the read was 
+            successful.
+            </value>
+        </member>
+        <member name="T:Symbol.MagStripe.CreditCardReaderData">
+            <summary>
+            CreditCardReaderData class encapsulates all the MSR data and meta-data into a 
+            CreditCard aware object.
+            </summary>
+            <remarks>
+            The CreditCardReaderData class is most commonly used to create a ReaderData object
+            that will be used to parse out Credit Card information from an MSR swipe. This class
+            provides functions to quickly obtain the information through Credit Card aware
+            properties. <para> Use this class the same way a normal ReaderData class would be 
+            used.</para>
+            </remarks>
+        </member>
+        <member name="M:Symbol.MagStripe.CreditCardReaderData.#ctor">
+            <summary>
+            Default CreditCardReaderData constructor.
+            </summary>
+        </member>
+        <member name="M:Symbol.MagStripe.CreditCardReaderData.#ctor(System.Boolean,System.Byte,System.Int32)">
+            <summary>
+            CreditCardReaderData constructor is applicable for MSR attachments that have the PIN entry capability
+            such as DCR7000.
+            </summary>
+            <remarks>
+            The CreditCardReaderData class is used to create a ReaderData object
+            that will be used to parse out Credit Card information from an MSR swipe and collect user PIN entry
+            for processing debit cards. 
+            </remarks>
+            <param name="PINRead">A boolean that specifies whether to read PIN</param>
+            <param name="PINEncryptionFormat">A byte that specifies the format used to encrypt the 
+            PAN and user’s PIN data.  Currently only the value '0' (ISO-0 format) is supported.  
+            </param>
+            <param name="PINEntryTimeout">Timeout in milliseconds.
+            The default value is 5000 milliseconds. If the user does not provide the PIN 
+            information within this time, a timeout error will be returned.</param>
+        </member>
+        <member name="P:Symbol.MagStripe.CreditCardReaderData.IsValid">
+            <summary>
+            Denotes whether or not data is a valid credit card.
+            </summary>
+            <value>
+            A boolean flag that specifies whether or not the credit card has the proper
+            information on its data tracks.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.CreditCardReaderData.CardHolderName">
+            <summary>
+            Returns the credit card holders name.
+            </summary>
+            <value>
+            A string that contains the card holders name. If the card does not have the proper
+            information then "" is returned.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.CreditCardReaderData.CardNumber">
+            <summary>
+            Returns the credit card holders number.
+            </summary>
+            <value>
+            A string that contains the card holders credit card number. This string is ""
+            if the card does not contain the information.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.CreditCardReaderData.CardNumberMasked">
+            <summary>
+            Returns credit card number in masked format.
+            </summary>
+            <remarks>
+            Masked format includes having X's across the card number except for the last
+            4 digits.
+            </remarks>
+            <value>
+            A string that contains the card holders number in masked format. If the 
+            information is not found then "" is returned.
+            </value>
+        </member>
+        <member name="P:Symbol.MagStripe.CreditCardReaderData.ExpirationDate">
+            <summary>
+            Returns the expiration date of credit card.
+            </summary>
+            <value>
+            A string that contains the expiration date of the credit card. If the information
+            could not be found then "" is returned.
+            </value>
+        </member>
+        <member name="T:Symbol.MagStripe.Version">
+            <summary>
+            MagStripe reader version class.
+            </summary>
+        </member>
+        <member name="M:Symbol.MagStripe.Version.#ctor(Symbol.MagStripe.Reader)">
+            <summary>
+            Version class constructor
+            </summary>
+            <param name="r">The Reader object to obtain version information from.</param>
+        </member>
+        <member name="P:Symbol.MagStripe.Version.APIVersion">
+            <summary>
+            Native API Version information.
+            </summary>
+        </member>
+        <member name="P:Symbol.MagStripe.Version.DLLVersion">
+            <summary>
+            DLL Version Information
+            </summary>
+        </member>
+        <member name="P:Symbol.MagStripe.Version.FWVersion">
+            <summary>
+            Firmware Version Information
+            </summary>
+        </member>
+        <member name="P:Symbol.MagStripe.Version.Assembly">
+            <summary>
+            Version of the Assembly.
+            </summary>
+        </member>
+    </members>
+</doc>

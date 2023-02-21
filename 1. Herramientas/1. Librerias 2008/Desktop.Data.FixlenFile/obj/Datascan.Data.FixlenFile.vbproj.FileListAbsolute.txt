@@ -1,0 +1,16 @@
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\bin\Debug\Datascan.Data.FixlenFile.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\bin\Debug\Datascan.Data.FixlenFile.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\bin\Debug\Datacan.Data.FixlenFile.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\bin\Debug\Datascan.Data.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\bin\Debug\Datascan.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\bin\Debug\Mono.Security.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\bin\Debug\Npgsql.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\bin\Debug\Datascan.Data.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\bin\Debug\Datascan.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\obj\Debug\Datascan.Data.FixlenFile.Resources.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\obj\Debug\Datascan.Data.FixlenFile.vbproj.GenerateResource.Cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\obj\Debug\Datascan.Data.FixlenFile.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\obj\Debug\Datacan.Data.FixlenFile.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Data.FixlenFile\obj\Debug\Datascan.Data.FixlenFile.pdb

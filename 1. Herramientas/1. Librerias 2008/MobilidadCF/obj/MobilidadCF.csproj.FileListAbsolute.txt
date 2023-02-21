@@ -1,0 +1,12 @@
+D:\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\MovilidadCF.dll
+D:\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\MovilidadCF.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\DatascanCF\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\LibreriasMovilidad\Codigo\Librerias\DatascanCF\obj\Debug\ResolveAssemblyReference.cache
+D:\LibreriasMovilidad\Codigo\Librerias\DatascanCF\obj\Debug\MovilidadCF.dll
+D:\LibreriasMovilidad\Codigo\Librerias\DatascanCF\obj\Debug\MovilidadCF.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\MobilidadCF\obj\Debug\ResolveAssemblyReference.cache
+D:\LibreriasMovilidad\Codigo\Librerias\MobilidadCF\obj\Debug\MovilidadCF.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\MobilidadCF\bin\Debug\MovilidadCF.dll
+D:\LibreriasMovilidad\Codigo\Librerias\MobilidadCF\bin\Debug\MovilidadCF.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\MobilidadCF\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\LibreriasMovilidad\Codigo\Librerias\MobilidadCF\obj\Debug\MovilidadCF.dll

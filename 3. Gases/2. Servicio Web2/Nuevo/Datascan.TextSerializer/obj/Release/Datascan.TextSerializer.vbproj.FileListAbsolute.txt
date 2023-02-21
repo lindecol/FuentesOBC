@@ -1,0 +1,8 @@
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\2. Servicio Web2\Nuevo\Datascan.TextSerializer\bin\Release\Datascan.TextSerializer.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\2. Servicio Web2\Nuevo\Datascan.TextSerializer\bin\Release\Datascan.TextSerializer.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\2. Servicio Web2\Nuevo\Datascan.TextSerializer\bin\Release\Datascan.TextSerializer.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\2. Servicio Web2\Nuevo\Datascan.TextSerializer\obj\Release\Datascan.TextSerializer.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\2. Servicio Web2\Nuevo\Datascan.TextSerializer\obj\Release\Datascan.TextSerializer.vbproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\2. Servicio Web2\Nuevo\Datascan.TextSerializer\obj\Release\Datascan.TextSerializer.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\2. Servicio Web2\Nuevo\Datascan.TextSerializer\obj\Release\Datascan.TextSerializer.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\3. Gases\2. Servicio Web2\Nuevo\Datascan.TextSerializer\obj\Release\Datascan.TextSerializer.pdb

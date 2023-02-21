@@ -1,0 +1,45 @@
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\bin\Debug\Desktop.Windows.Forms.dll.config
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\bin\Debug\Desktop.Windows.Forms.dll
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\bin\Debug\Desktop.Windows.Forms.pdb
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.ChartControl.resources
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.ListBar.resources
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.PaneCaption.resources
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.SectionHeader.resources
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.XPander.resources
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.XPanderList.resources
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.frmListBarTest.resources
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.Properties.Resources.resources
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.csproj.GenerateResource.Cache
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.dll
+C:\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\bin\Debug\Desktop.Windows.Forms.dll.config
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\bin\Debug\Desktop.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\bin\Debug\Desktop.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.ChartControl.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.ListBar.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.PaneCaption.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.SectionHeader.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.XPander.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.XPanderList.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.frmListBarTest.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.Properties.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.csproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\bin\Debug\Desktop.Windows.Forms.dll.config
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\bin\Debug\Desktop.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\bin\Debug\Desktop.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.ChartControl.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.ListBar.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.PaneCaption.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.SectionHeader.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.XPander.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.XPanderList.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.frmListBarTest.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.Properties.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.csproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Windows.Forms\obj\Debug\Desktop.Windows.Forms.pdb

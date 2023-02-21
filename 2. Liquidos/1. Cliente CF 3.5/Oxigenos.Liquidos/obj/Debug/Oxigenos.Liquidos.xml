@@ -1,0 +1,368 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Oxigenos.Liquidos
+</name>
+</assembly>
+<members>
+<member name="T:Oxigenos.Liquidos.HojasRutaDataSet.HojasRutaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.ChoferesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.LugaresCargaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.TanquerosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.TractoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.ReporteHojaRutaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.ReporteDetalleHojaRutaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.HojasRutaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.ChoferesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.LugaresCargaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.TanquerosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.TractoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.ReporteHojaRutaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.ReporteDetalleHojaRutaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.HojasRutaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.ChoferesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.LugaresCargaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.TanquerosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.TractoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.ReporteHojaRutaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet.ReporteDetalleHojaRutaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSetTableAdapters.HojasRutaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSetTableAdapters.ChoferesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSetTableAdapters.LugaresCargaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSetTableAdapters.TanquerosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSetTableAdapters.TractoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSetTableAdapters.ReporteHojaRutaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.HojasRutaDataSetTableAdapters.ReporteDetalleHojaRutaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ReportesDataSet.PedidosAnuladosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ReportesDataSet.DocumentosGeneradosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ReportesDataSet.PedidosAnuladosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ReportesDataSet.DocumentosGeneradosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ReportesDataSet.PedidosAnuladosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ReportesDataSet.DocumentosGeneradosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ReportesDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ReportesDataSetTableAdapters.PedidosAnuladosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ReportesDataSetTableAdapters.DocumentosGeneradosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Oxigenos.Liquidos.GestorVenta.LoadTanqueCliente(System.String,System.String,System.String)">
+	<summary>
+ Obtiene los datos del tanque del cliente
+ </summary>
+	<param name="NoTanque">No tanque</param>
+	<param name="CodCliente">Cliente</param>
+	<param name="CodProducto">Producto</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.DetalleFacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.MaestroFacturasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.TanquesClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.AforosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.PrecintosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.DetallePedidoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.Guia_DocumentoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.DetalleFacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.MaestroFacturasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.TanquesClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.AforosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.PrecintosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.DetallePedidoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.Guia_DocumentoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.DetalleFacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.MaestroFacturasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.TanquesClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.AforosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.PrecintosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.DetallePedidoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet.Guia_DocumentoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSetTableAdapters.DetalleFacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSetTableAdapters.MaestroFacturasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSetTableAdapters.TanquesClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSetTableAdapters.AforosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSetTableAdapters.PrecintosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSetTableAdapters.DetallePedidoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.VentaDataSetTableAdapters.Guia_DocumentoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Oxigenos.Liquidos.GeneracionForm.GenerarDocumento">
+	<summary>
+ Genera el documento a grabar
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Oxigenos.Liquidos.GeneracionForm.existeDocumento">
+	<summary>
+ valida si existe el documento y si existe lo incrementa
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Oxigenos.Liquidos.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Oxigenos.Liquidos.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ProductosDataSet.ProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ProductosDataSet.PreciosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ProductosDataSet.KardexCamionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ProductosDataSet.ProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ProductosDataSet.PreciosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ProductosDataSet.KardexCamionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ProductosDataSet.ProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ProductosDataSet.PreciosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ProductosDataSet.KardexCamionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ProductosDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ProductosDataSetTableAdapters.ProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ProductosDataSetTableAdapters.PreciosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Liquidos.ProductosDataSetTableAdapters.KardexCamionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Oxigenos.Liquidos.InicioRutaForm.guardarDatos">
+	<summary>
+ Graba los datos de la hoja ruta
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

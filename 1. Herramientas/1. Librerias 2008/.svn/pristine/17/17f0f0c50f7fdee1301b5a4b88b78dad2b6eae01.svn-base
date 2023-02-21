@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="MovilidadCF.Windows.Forms.NumericInputBox" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>NumericInputBox.cs</FileName>
+      <HashCode>IiBAIAAAADBAAAAAAACAAMCCAAgAACAAABAECAAAgAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="MovilidadCF.Windows.Forms.Shape">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Shape.cs</FileName>
+      <HashCode>AACAAAAAACAAAAAAQACAAAACAAAAAAAABAEAAAAABAA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Enum Name="MovilidadCF.Windows.Forms.Shape.ShapeStyle" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Shape.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Class Name="MovilidadCF.Windows.Forms.UIHandler" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>UIHandler.cs</FileName>
+      <HashCode>oAAApKBgAKKxoIBJEMSI8BFi8gAGUggOSCAgm3CpCAI=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="MovilidadCF.Windows.Forms.TextInputBox" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>TextInputBox.cs</FileName>
+      <HashCode>AgAEAAADAGAABAERAACEAAICACABAAAgQBgACAAAoAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="MovilidadCF.Windows.Forms.DataComboBox" Collapsed="true">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataComboBox.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovilidadCF.Windows.Forms.EnumComboBox" Collapsed="true">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>EnumComboBox.cs</FileName>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAgAAAAAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MovilidadCF.Windows.Forms.ComboBoxBase" Collapsed="true">
+    <Position X="1.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ComboBoxBase.cs</FileName>
+      <HashCode>QQAAAAEBAAkAAAAAAAgAAAAQEAAAAAAAgAAAABgAgAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MovilidadCF.Windows.Forms.InputBoxBase" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <FileName>InputBoxBase.cs</FileName>
+      <HashCode>AQAAAAMBAAkAAAAAAAAIAAAQEAAAAAAAgAAAABgAoAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MovilidadCF.Windows.Forms.SignatureControl" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <FileName>SignatureControl.cs</FileName>
+      <HashCode>AQSAUAgkAAABAAIEAAwCAAAACBAAACgAIQJgAABCIAI=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Events" Collapsed="true" />
+    </Compartments>
+  </Class>
+</ClassDiagram>

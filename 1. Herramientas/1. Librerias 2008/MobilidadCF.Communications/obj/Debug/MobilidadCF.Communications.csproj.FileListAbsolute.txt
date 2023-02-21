@@ -1,0 +1,57 @@
+C:\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\MovilidadCF.Communications.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\MovilidadCF.Communications.pdb
+C:\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\MovilidadCF.Windows.Forms.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.IO.Serial.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\MovilidadCF.Windows.Forms.pdb
+C:\Workspace\Librerias - 2008\MobilidadCF.Communications\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\Librerias - 2008\MobilidadCF.Communications\obj\Debug\MovilidadCF.Communications.MobilityCentral.EstadoForm.resources
+C:\Workspace\Librerias - 2008\MobilidadCF.Communications\obj\Debug\MovilidadCF.Communications.WinTMS.WinTMSServerForm.resources
+C:\Workspace\Librerias - 2008\MobilidadCF.Communications\obj\Debug\MobilidadCF.Communications.csproj.GenerateResource.Cache
+C:\Workspace\Librerias - 2008\MobilidadCF.Communications\obj\Debug\MovilidadCF.Communications.dll
+C:\Workspace\Librerias - 2008\MobilidadCF.Communications\obj\Debug\MovilidadCF.Communications.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\MovilidadCF.Communications.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\MovilidadCF.Communications.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\MovilidadCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.Drawing.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.IO.Serial.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.WindowsCE.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.Configuration.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\MovilidadCF.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.WindowsCE.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.Drawing.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.Configuration.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.Windows.Forms.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\obj\Debug\MovilidadCF.Communications.MobilityCentral.EstadoForm.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\obj\Debug\MovilidadCF.Communications.WinTMS.WinTMSServerForm.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\obj\Debug\MobilidadCF.Communications.csproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\obj\Debug\MovilidadCF.Communications.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\MobilidadCF.Communications\obj\Debug\MovilidadCF.Communications.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\MovilidadCF.Communications.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\MovilidadCF.Communications.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\MovilidadCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.Drawing.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.IO.Serial.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.WindowsCE.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.WindowsCE.Messaging.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.Configuration.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\MovilidadCF.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.WindowsCE.Messaging.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.WindowsCE.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.Drawing.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.Configuration.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\bin\Debug\OpenNETCF.Windows.Forms.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\obj\Debug\MovilidadCF.Communications.MobilityCentral.EstadoForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\obj\Debug\MovilidadCF.Communications.WinTMS.WinTMSServerForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\obj\Debug\MobilidadCF.Communications.csproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\obj\Debug\MovilidadCF.Communications.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\MobilidadCF.Communications\obj\Debug\MovilidadCF.Communications.pdb

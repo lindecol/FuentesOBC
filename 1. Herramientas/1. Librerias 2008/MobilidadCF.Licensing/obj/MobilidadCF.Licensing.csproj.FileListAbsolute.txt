@@ -1,0 +1,14 @@
+D:\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Licensing\bin\Debug\MovilidadCF.Licensing.dll
+D:\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Licensing\bin\Debug\MovilidadCF.Licensing.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Licensing\obj\Debug\ResolveAssemblyReference.cache
+D:\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Licensing\obj\Debug\MovilidadCF.Licensing.LicenceErrorForm.resources
+D:\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Licensing\obj\Debug\MobilidadCF.Licensing.csproj.GenerateResource.Cache
+D:\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Licensing\obj\Debug\MovilidadCF.Licensing.dll
+D:\LibreriasMovilidad\Codigo\Librerias\DatascanCF.Licensing\obj\Debug\MovilidadCF.Licensing.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\MobilidadCF.Licensing\bin\Debug\MovilidadCF.Licensing.dll
+D:\LibreriasMovilidad\Codigo\Librerias\MobilidadCF.Licensing\bin\Debug\MovilidadCF.Licensing.pdb
+D:\LibreriasMovilidad\Codigo\Librerias\MobilidadCF.Licensing\obj\Debug\ResolveAssemblyReference.cache
+D:\LibreriasMovilidad\Codigo\Librerias\MobilidadCF.Licensing\obj\Debug\MovilidadCF.Licensing.LicenceErrorForm.resources
+D:\LibreriasMovilidad\Codigo\Librerias\MobilidadCF.Licensing\obj\Debug\MobilidadCF.Licensing.csproj.GenerateResource.Cache
+D:\LibreriasMovilidad\Codigo\Librerias\MobilidadCF.Licensing\obj\Debug\MovilidadCF.Licensing.dll
+D:\LibreriasMovilidad\Codigo\Librerias\MobilidadCF.Licensing\obj\Debug\MovilidadCF.Licensing.pdb

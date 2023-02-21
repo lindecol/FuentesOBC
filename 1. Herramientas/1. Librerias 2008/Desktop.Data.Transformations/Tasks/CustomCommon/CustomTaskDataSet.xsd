@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CustomImporTaskDataSet" targetNamespace="http://tempuri.org/CustomImporTaskDataSet.xsd" xmlns:mstns="http://tempuri.org/CustomImporTaskDataSet.xsd" xmlns="http://tempuri.org/CustomImporTaskDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CustomImporTaskDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="CustomImporTaskDataSet" msprop:Generator_DataSetName="CustomImporTaskDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="General" msprop:Generator_UserTableName="General" msprop:Generator_RowDeletedName="GeneralRowDeleted" msprop:Generator_RowChangedName="GeneralRowChanged" msprop:Generator_RowClassName="GeneralRow" msprop:Generator_RowChangingName="GeneralRowChanging" msprop:Generator_RowEvArgName="GeneralRowChangeEvent" msprop:Generator_RowEvHandlerName="GeneralRowChangeEventHandler" msprop:Generator_TableClassName="GeneralDataTable" msprop:Generator_TableVarName="tableGeneral" msprop:Generator_RowDeletingName="GeneralRowDeleting" msprop:Generator_TablePropName="General">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="UbicacionEnsamblado" msprop:Generator_UserColumnName="UbicacionEnsamblado" msprop:Generator_ColumnVarNameInTable="columnUbicacionEnsamblado" msprop:Generator_ColumnPropNameInRow="UbicacionEnsamblado" msprop:Generator_ColumnPropNameInTable="UbicacionEnsambladoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Clase" msprop:Generator_UserColumnName="Clase" msprop:Generator_ColumnVarNameInTable="columnClase" msprop:Generator_ColumnPropNameInRow="Clase" msprop:Generator_ColumnPropNameInTable="ClaseColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Metodo" msprop:Generator_UserColumnName="Metodo" msprop:Generator_ColumnVarNameInTable="columnMetodo" msprop:Generator_ColumnPropNameInRow="Metodo" msprop:Generator_ColumnPropNameInTable="MetodoColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Clase" msprop:Generator_UserTableName="Clase" msprop:Generator_RowDeletedName="ClaseRowDeleted" msprop:Generator_TableClassName="ClaseDataTable" msprop:Generator_RowChangedName="ClaseRowChanged" msprop:Generator_RowClassName="ClaseRow" msprop:Generator_RowChangingName="ClaseRowChanging" msprop:Generator_RowEvArgName="ClaseRowChangeEvent" msprop:Generator_RowEvHandlerName="ClaseRowChangeEventHandler" msprop:Generator_TablePropName="Clase" msprop:Generator_TableVarName="tableClase" msprop:Generator_RowDeletingName="ClaseRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nombre" msprop:Generator_UserColumnName="Nombre" msprop:Generator_ColumnPropNameInRow="Nombre" msprop:Generator_ColumnVarNameInTable="columnNombre" msprop:Generator_ColumnPropNameInTable="NombreColumn" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Metodo" msprop:Generator_UserTableName="Metodo" msprop:Generator_RowDeletedName="MetodoRowDeleted" msprop:Generator_TableClassName="MetodoDataTable" msprop:Generator_RowChangedName="MetodoRowChanged" msprop:Generator_RowClassName="MetodoRow" msprop:Generator_RowChangingName="MetodoRowChanging" msprop:Generator_RowEvArgName="MetodoRowChangeEvent" msprop:Generator_RowEvHandlerName="MetodoRowChangeEventHandler" msprop:Generator_TablePropName="Metodo" msprop:Generator_TableVarName="tableMetodo" msprop:Generator_RowDeletingName="MetodoRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NombreClase" msprop:Generator_UserColumnName="NombreClase" msprop:Generator_ColumnPropNameInRow="NombreClase" msprop:Generator_ColumnVarNameInTable="columnNombreClase" msprop:Generator_ColumnPropNameInTable="NombreClaseColumn" type="xs:string" />
+              <xs:element name="Firma" msprop:Generator_UserColumnName="Firma" msprop:Generator_ColumnPropNameInRow="Firma" msprop:Generator_ColumnVarNameInTable="columnFirma" msprop:Generator_ColumnPropNameInTable="FirmaColumn" type="xs:string" />
+              <xs:element name="Consecutivo" msprop:Generator_UserColumnName="Consecutivo" msprop:Generator_ColumnPropNameInRow="Consecutivo" msprop:Generator_ColumnVarNameInTable="columnConsecutivo" msprop:Generator_ColumnPropNameInTable="ConsecutivoColumn" type="xs:short" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Clase" />
+      <xs:field xpath="mstns:Nombre" />
+    </xs:unique>
+    <xs:unique name="Metodo_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Metodo" />
+      <xs:field xpath="mstns:NombreClase" />
+      <xs:field xpath="mstns:Firma" />
+      <xs:field xpath="mstns:Consecutivo" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="Clase_Metodo" msdata:parent="Clase" msdata:child="Metodo" msdata:parentkey="Nombre" msdata:childkey="NombreClase" msprop:Generator_UserRelationName="Clase_Metodo" msprop:Generator_RelationVarName="relationClase_Metodo" msprop:Generator_UserChildTable="Metodo" msprop:Generator_UserParentTable="Clase" msprop:Generator_ParentPropName="ClaseRow" msprop:Generator_ChildPropName="GetMetodoRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

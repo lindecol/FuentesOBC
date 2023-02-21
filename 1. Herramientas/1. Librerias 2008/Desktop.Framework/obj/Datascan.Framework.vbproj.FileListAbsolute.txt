@@ -1,0 +1,90 @@
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\ScriptsBD\ScriptSQLMobile.txt
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.Framework.dll.config
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.Framework.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.Framework.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Centaro.EXE.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.Data.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.Windows.Forms.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Mono.Security.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Npgsql.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.Data.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.Windows.Forms.pdb
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\ResolveAssemblyReference.cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.vbproj.ResolveComReference.cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.ScriptSQLMobile.txt
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.ScriptSQLServer.txt
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.AcercaDeDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.ConfigurarModulosForm.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.EditarModuloDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.EmpresasForm.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.MainConfiguracionForm.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.RegistroProgramasDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.SelecionarCategoriaDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.MainForm.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.CambiarClaveDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.EditarUsuarioDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.PerfilesUsuarioDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.EditarPerfilDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.PerfilesUsuariosView.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.UsuarioView.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.Resources.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.SeleccionarEmpresaDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.BaseViewControl.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.DataNavigationDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.DefinirFiltrosDialog.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.LoginControl.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.MainViewControl.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.NavigationPanelControl.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.DataNavigationControl.resources
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.vbproj.GenerateResource.Cache
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.dll
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Centaro.EXE.xml
+C:\WorkSpace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\ScriptsBD\ScriptSQLMobile.txt
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.Framework.dll.config
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.Framework.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.Framework.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Centaro.EXE.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.Data.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.Windows.Forms.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Mono.Security.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Npgsql.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.Data.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\bin\Debug\Datascan.Windows.Forms.pdb
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\ResolveAssemblyReference.cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.vbproj.ResolveComReference.cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.ScriptSQLMobile.txt
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.ScriptSQLServer.txt
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.AcercaDeDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.ConfigurarModulosForm.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.EditarModuloDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.EmpresasForm.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.MainConfiguracionForm.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.RegistroProgramasDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.SelecionarCategoriaDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.MainForm.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.CambiarClaveDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.EditarUsuarioDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.PerfilesUsuarioDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.EditarPerfilDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.PerfilesUsuariosView.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.UsuarioView.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.Resources.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.SeleccionarEmpresaDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.BaseViewControl.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.DataNavigationDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.DefinirFiltrosDialog.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.LoginControl.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.MainViewControl.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.NavigationPanelControl.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.DataNavigationControl.resources
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.vbproj.GenerateResource.Cache
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.dll
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Centaro.EXE.xml
+F:\Codigo Fuente Datascan\Workspace\LineaDatascan\LibreriasMovilidad\Codigo\Librerias\Datascan.Framework\obj\Debug\Datascan.Framework.pdb

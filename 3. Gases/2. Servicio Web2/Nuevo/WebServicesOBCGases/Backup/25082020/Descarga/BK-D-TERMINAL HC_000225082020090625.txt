@@ -1,0 +1,19 @@
+TABLECOUNT: 3
+TOTALROWCOUNT: 3
+TABLE: PEDIDOS_GASES_DESCARGA
+ROWCOUNT: 1 
+NoPedido|CodSucursal|CodCliente|CodEntidad|FechaPedido|FechaProgramada|HoraProgramada|FechaAtencion|HoraAtencion|PrimerServicio|Recoleccion|Solicito|Observacion|Estado|MotivoAnulacion|Nuevo|ActivaTarjeta|Direccion|Barrio|
+System.String|System.String|System.String|System.String|System.DateTime|System.DateTime|System.String|System.DateTime|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|
+0000001|01|0152015| |2020/08/25 00:00:00|2020/08/25 00:00:00|09:08|2020/08/25 00:00:00|9:5|0| | | |3| |1| | | |
+
+TABLE: GUIACARGADESCARGA
+ROWCOUNT: 1 
+Id_carga|Fecha_inicio|Kilometraje_ini|Numero_guia|Fecha_cierre|Kilometraje_cierre|
+System.String|System.DateTime|System.String|System.String|System.DateTime|System.String|
+450679|2020/08/25 09:03:50|100| | | |
+
+TABLE: ATENCIONES_DESCARGA_GASES
+ROWCOUNT: 1 
+NoPedido|CodProducto|Capacidad|cantidad|
+System.String|System.String|System.String|System.Int16|
+0000001|0101201|1000|1|

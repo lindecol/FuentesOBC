@@ -1,0 +1,728 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Oxigenos.Gases
+</name>
+</assembly>
+<members>
+<member name="T:Oxigenos.Gases.PacientesDataSet.AutorizacionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DetalleAutorizacionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.EntidadClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.EntidadesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DetallesTipoAsignacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.TipoAsignacionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AutorizacionAsignacionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AlquileresPagadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.MovimientoCopagosCuotasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.CopagosPendientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AutorizacionRemisionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DepositosEntidadDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AlquileresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AsignacionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AlquileresPendientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AlquileresAdelantadosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DeudasPagadasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.ClientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DepositosGarantiaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AutorizacionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DetalleAutorizacionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.EntidadClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.EntidadesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DetallesTipoAsignacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.TipoAsignacionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AutorizacionAsignacionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AlquileresPagadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.MovimientoCopagosCuotasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.CopagosPendientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AutorizacionRemisionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DepositosEntidadRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AlquileresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AsignacionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AlquileresPendientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AlquileresAdelantadosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DeudasPagadasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.ClientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DepositosGarantiaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AutorizacionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DetalleAutorizacionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.EntidadClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.EntidadesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DetallesTipoAsignacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.TipoAsignacionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AutorizacionAsignacionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AlquileresPagadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.MovimientoCopagosCuotasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.CopagosPendientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AutorizacionRemisionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DepositosEntidadRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AlquileresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AsignacionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AlquileresPendientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.AlquileresAdelantadosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DeudasPagadasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.ClientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet.DepositosGarantiaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.AutorizacionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.DetalleAutorizacionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.EntidadClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.EntidadesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.DetallesTipoAsignacionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.TipoAsignacionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.AutorizacionAsignacionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.AlquileresPagadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.MovimientoCopagosCuotasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.CopagosPendientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.AutorizacionRemisionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.DepositosEntidadTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.AlquileresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.AsignacionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.AlquileresPendientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.AlquileresAdelantadosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.DeudasPagadasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.ClientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PacientesDataSetTableAdapters.DepositosGarantiaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.KardexCamionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.ProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.TipoProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.PertenenciaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.ActivoProductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.CargaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.CilindrosClienteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.KardexCamionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.ProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.TipoProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.PertenenciaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.ActivoProductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.CargaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.CilindrosClienteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.KardexCamionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.ProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.TipoProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.PertenenciaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.ActivoProductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.CargaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet.CilindrosClienteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSetTableAdapters.KardexCamionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSetTableAdapters.ProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSetTableAdapters.TipoProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSetTableAdapters.PertenenciaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSetTableAdapters.ActivoProductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSetTableAdapters.CargaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.ProductosDataSetTableAdapters.CilindrosClienteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.DetalleGuiaRecoleccionesAjenosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.DetalleFacturaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.MaestroFacturasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.FacturasManualesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.DetalleGuiaFacturasRemisionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.MaestroGuiasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.DetalleGuiaAsignacionesRecoleccionesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.CilindrosLeidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.PreciosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.DetalleGuiaRecoleccionesAjenosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.DetalleFacturaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.MaestroFacturasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.FacturasManualesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.DetalleGuiaFacturasRemisionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.MaestroGuiasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.DetalleGuiaAsignacionesRecoleccionesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.CilindrosLeidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.PreciosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.DetalleGuiaRecoleccionesAjenosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.DetalleFacturaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.MaestroFacturasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.FacturasManualesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.DetalleGuiaFacturasRemisionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.MaestroGuiasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.DetalleGuiaAsignacionesRecoleccionesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.CilindrosLeidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet.PreciosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSetTableAdapters.DetalleGuiaRecoleccionesAjenosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSetTableAdapters.DetalleFacturaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSetTableAdapters.MaestroFacturasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSetTableAdapters.FacturasManualesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSetTableAdapters.DetalleGuiaFacturasRemisionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSetTableAdapters.MaestroGuiasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSetTableAdapters.DetalleGuiaAsignacionesRecoleccionesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSetTableAdapters.CilindrosLeidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.VentaDataSetTableAdapters.PreciosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="P:Oxigenos.Gases.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Oxigenos.Gases.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Oxigenos.Gases.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Oxigenos.Gases.PedidosDataSet.TipoProductosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PedidosDataSet.PedidosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PedidosDataSet.DetallePedidoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PedidosDataSet.TipoProductosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PedidosDataSet.PedidosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PedidosDataSet.DetallePedidoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.PedidosDataSet.TipoProductosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PedidosDataSet.PedidosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PedidosDataSet.DetallePedidoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.PedidosDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PedidosDataSetTableAdapters.TipoProductosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PedidosDataSetTableAdapters.PedidosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.PedidosDataSetTableAdapters.DetallePedidoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.ReportesDataset.PedidosAnuladosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ReportesDataset.DocumentosGeneradosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ReportesDataset.ControlEnvasesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ReportesDataset.PedidosAnuladosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ReportesDataset.DocumentosGeneradosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ReportesDataset.ControlEnvasesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.ReportesDataset.PedidosAnuladosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.ReportesDataset.DocumentosGeneradosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.ReportesDataset.ControlEnvasesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.ReportesDataset">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Oxigenos.Gases.ReportesDatasetTableAdapters.PedidosAnuladosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.ReportesDatasetTableAdapters.DocumentosGeneradosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.ReportesDatasetTableAdapters.ControlEnvasesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Oxigenos.Gases.BarcodeDataSet.CodigoBarrasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.BarcodeDataSet.CamposCodigoBarrasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Oxigenos.Gases.BarcodeDataSet.CodigoBarrasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.BarcodeDataSet.CamposCodigoBarrasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Oxigenos.Gases.BarcodeDataSet.CodigoBarrasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.BarcodeDataSet.CamposCodigoBarrasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Oxigenos.Gases.BarcodeDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

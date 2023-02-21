@@ -1,0 +1,129 @@
+C:\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\ScriptsBD\ScriptSQLMobile.txt
+C:\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.Framework.dll.config
+C:\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.Framework.dll
+C:\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.Framework.pdb
+C:\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Centaro.EXE.xml
+C:\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.Data.dll
+C:\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.dll
+C:\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.Windows.Forms.dll
+C:\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Mono.Security.dll
+C:\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Npgsql.dll
+C:\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.Data.pdb
+C:\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.Windows.Forms.pdb
+C:\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.pdb
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.vbproj.ResolveComReference.cache
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.AcercaDeDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.ConfigurarModulosForm.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.EditarModuloDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.EmpresasForm.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.MainConfiguracionForm.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.RegistroProgramasDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.SelecionarCategoriaDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.MainForm.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.CambiarClaveDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.EditarUsuarioDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.PerfilesUsuarioDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.EditarPerfilDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.PerfilesUsuariosView.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.UsuarioView.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.Resources.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.SeleccionarEmpresaDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.BaseViewControl.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.DataNavigationDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.DefinirFiltrosDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.LoginControl.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.MainViewControl.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.NavigationPanelControl.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.DataNavigationControl.resources
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.vbproj.GenerateResource.Cache
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.dll
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Centaro.EXE.xml
+C:\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\ScriptsBD\ScriptSQLMobile.txt
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.Framework.dll.config
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.Framework.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.Framework.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Centaro.EXE.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.Data.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Mono.Security.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Npgsql.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.Data.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\bin\Debug\Desktop.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.vbproj.ResolveComReference.cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.AcercaDeDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.ConfigurarModulosForm.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.EditarModuloDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.EmpresasForm.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.MainConfiguracionForm.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.RegistroProgramasDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.SelecionarCategoriaDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.MainForm.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.CambiarClaveDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.EditarUsuarioDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.PerfilesUsuarioDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.EditarPerfilDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.PerfilesUsuariosView.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.UsuarioView.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.SeleccionarEmpresaDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.BaseViewControl.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.DataNavigationDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.DefinirFiltrosDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.LoginControl.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.MainViewControl.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.NavigationPanelControl.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.DataNavigationControl.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.vbproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Centaro.EXE.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Framework\obj\Debug\Desktop.Framework.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\bin\Debug\ScriptsBD\ScriptSQLMobile.txt
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\bin\Debug\Desktop.Framework.dll.config
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\bin\Debug\Desktop.Framework.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\bin\Debug\Desktop.Framework.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\bin\Debug\Centaro.EXE.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\bin\Debug\Desktop.Data.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\bin\Debug\Desktop.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\bin\Debug\Desktop.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\bin\Debug\Mono.Security.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\bin\Debug\Npgsql.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\bin\Debug\Desktop.Data.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\bin\Debug\Desktop.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\bin\Debug\Desktop.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.vbproj.ResolveComReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.AcercaDeDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.ConfigurarModulosForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.EditarModuloDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.EmpresasForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.MainConfiguracionForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.RegistroProgramasDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.SelecionarCategoriaDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.MainForm.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.CambiarClaveDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.EditarUsuarioDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.PerfilesUsuarioDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.EditarPerfilDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.PerfilesUsuariosView.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.UsuarioView.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.SeleccionarEmpresaDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.BaseViewControl.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.DataNavigationDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.DefinirFiltrosDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.LoginControl.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.MainViewControl.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.NavigationPanelControl.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.DataNavigationControl.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.vbproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Centaro.EXE.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Framework\obj\Debug\Desktop.Framework.pdb

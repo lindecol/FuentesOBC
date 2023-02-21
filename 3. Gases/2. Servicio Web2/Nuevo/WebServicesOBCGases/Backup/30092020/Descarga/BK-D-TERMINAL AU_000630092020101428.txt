@@ -1,0 +1,32 @@
+TABLECOUNT: 4
+TOTALROWCOUNT: 11
+TABLE: PEDIDOS_GASES_DESCARGA
+ROWCOUNT: 1 
+NoPedido|CodSucursal|CodCliente|CodEntidad|FechaPedido|FechaProgramada|HoraProgramada|FechaAtencion|HoraAtencion|PrimerServicio|Recoleccion|Solicito|Observacion|Estado|MotivoAnulacion|Nuevo|ActivaTarjeta|Direccion|Barrio|
+System.String|System.String|System.String|System.String|System.DateTime|System.DateTime|System.String|System.DateTime|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|
+7322080|01|0213212|0190463|2020/09/17 00:00:00|2020/09/17 00:00:00|12:21|2020/09/18 00:00:00|10:18|0|0|EDWARD|2LPM*24H Prueba Obc|3| | | |KR 110 # 63 - 35|VILLAS DEL DORADO|
+
+TABLE: DETPEDIDOS_GASES_DESCARGA
+ROWCOUNT: 5 
+NoPedido|CodProducto|Capacidad|UnidadesVendidasPraxair|UnidadesVendidasCliente|UnidadesPedidas|UnidadesReales|Asignaciones|Recolecciones|Nuevo|UnidadMedidaVenta|DescripcionProducto|TipoProducto|RequiereAsignacion|RequiereFlete|CodFlete|CapacidadActivo|Lastro|NoAutorizacion|IdDetalleAutorizacion|UnidadesAutorizadas|TipoPago|Monto|UnidadesVendidasCredito|UnidadesVendidasContado|TotalDescuentoContado|TotalDescuentoCredito|TotalIvaContado|TotalIvaCredito|SubTotalContado|SubTotalCredito|MontoTotalContado|MontoTotalCredito|MontoTotalCopago|MontoTotalCuota|PrecioContado|PrecioCredito|PorcentajeImpuesto|PorcentajeDescuento|
+System.String|System.String|System.String|System.Int16|System.Int16|System.Int16|System.Int16|System.Int16|System.Int16|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.String|System.Int16|System.String|System.Decimal|System.Int16|System.Int16|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|System.Decimal|
+7322080|0101403|8000|0|0|8|0| |0| |m3|OXIGENO MEDICINAL EN CILINDRO|1|1|1| | |1| | | | | |0|0| | | | | | | | | | | | | | |
+7322080|1101403|1000|0|0|1|0| |0| |cu|FLETE OXIGENO GASEOSO MEDICINAL|4|0|1| | |0| | | | | |0|0| | | | | | | | | | | | | | |
+7322080|2101403|1000|0|0|5|0| |0| |cu|ALQUILER CILINDRO OXIGENO GASEOSO MEDICINAL|3|0|0| | |0| | | | | |0|0| | | | | | | | | | | | | | |
+7322080|0901131|1000|1|0|0|1|1|0|1|m3|O2 MEDICINAL CILINDRO PORTATIL|1|1|1|1901131|1000|1| | |0|0|0.00|1|0|0.00|0.00|0.00|0.00|0.00|7000.00|0.00|7000.00|0.00|0.00|0.00|7000.00|0.00|0.00|
+7322080|1901131|1000|1|0|0|1|0|0|1|cu|FLETE O2 MEDICINAL CILINDRO PORTATIL|4|0|0|0901131|1000|0| | |0|0|0.00|1|0|0.00|0.00|0.00|0.00|0.00|11864.00|0.00|11864.00|0.00|0.00|0.00|11864.00|0.00|0.00|
+
+TABLE: GUIACARGADESCARGA
+ROWCOUNT: 1 
+Id_carga|Fecha_inicio|Kilometraje_ini|Numero_guia|Fecha_cierre|Kilometraje_cierre|
+System.String|System.DateTime|System.String|System.String|System.DateTime|System.String|
+453817|2020/09/17 12:59:01|1| | | |
+
+TABLE: ATENCIONES_DESCARGA_GASES
+ROWCOUNT: 4 
+NoPedido|CodProducto|Capacidad|cantidad|
+System.String|System.String|System.String|System.Int16|
+7322079|0901131|1000|1|
+7322079|1901131|1000|1|
+7322080|0901131|1000|1|
+7322080|1901131|1000|1|

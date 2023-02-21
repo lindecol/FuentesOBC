@@ -1,0 +1,84 @@
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.dll
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Datascan.Data.Transformations.xml
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.Transformations.dll.config
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.Transformations.dll
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.Transformations.pdb
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Datascan.Data.Transformations.xml
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.dll
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.dll
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Windows.Forms.dll
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Mono.Security.dll
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Npgsql.dll
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.pdb
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Windows.Forms.pdb
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.pdb
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.DataPreviewDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.CustomTaskDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.DBExportTaskDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.DBImportTaskDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.ExcuteProcessSQLDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.TextFileExportTaskDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.TransformationEditControl.resources
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.EditTareaDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.Resources.resources
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.TextFileImportTaskDialog.resources
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.vbproj.GenerateResource.Cache
+C:\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.Transformations.dll.config
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.Transformations.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.Transformations.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Datascan.Data.Transformations.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Mono.Security.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Npgsql.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\bin\Debug\Desktop.pdb
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.DataPreviewDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.CustomTaskDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.DBExportTaskDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.DBImportTaskDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.ExcuteProcessSQLDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.TextFileExportTaskDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.TransformationEditControl.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.EditTareaDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.TextFileImportTaskDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.vbproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.dll
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Datascan.Data.Transformations.xml
+D:\WorkSpace\Dropbox\Workspace\Librerias - 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.Transformations.dll.config
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.Transformations.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.Transformations.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\bin\Debug\Datascan.Data.Transformations.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\bin\Debug\Desktop.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Windows.Forms.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\bin\Debug\Mono.Security.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\bin\Debug\Npgsql.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Data.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\bin\Debug\Desktop.Windows.Forms.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\bin\Debug\Desktop.pdb
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.DataPreviewDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.CustomTaskDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.DBExportTaskDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.DBImportTaskDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.ExcuteProcessSQLDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.TextFileExportTaskDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.TransformationEditControl.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.EditTareaDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.Resources.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.TextFileImportTaskDialog.resources
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.vbproj.GenerateResource.Cache
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.dll
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\Datascan.Data.Transformations.xml
+D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\VersionPDF-JSON\1. Herramientas\1. Librerias 2008\Desktop.Data.Transformations\obj\Debug\Desktop.Data.Transformations.pdb

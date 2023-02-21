@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LIQUIDOS">
+</Property><Property Name="Solution File" Value="D:\WorkSpace\Dropbox\Workspace\Oxigenos\Fuentes proyecto 2019\Liquidosv3\Liquidos\LIQUIDOS.sln">
+</Property><Property Name="Date" Value="miércoles, 27 de noviembre de 2019">
+</Property><Property Name="Time" Value="13:28 p. m.">
+</Property></Properties><Event ErrorLevel="0" Project="Oxigenos.Common" Source="Oxigenos.Shared\Oxigenos.Common.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Common" Source="Oxigenos.Shared\Oxigenos.Common.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\Oxigenos.Principal.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\Oxigenos.Principal.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\Oxigenos.Liquidos.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\Oxigenos.Liquidos.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\Oxigenos.Gases.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\Oxigenos.Gases.vbproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="Oxigenos.EncuestaNiso" Source="..\..\..\Oxigenos\Oxigenos.EncuestaNiso\Oxigenos.EncuestaNiso.vbproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="" Source="LIQUIDOS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LIQUIDOS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Common" Source="Oxigenos.Shared\My Project\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Common" Source="Oxigenos.Shared\My Project\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Common" Source="Oxigenos.Shared\Oxigenos.Common.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Common" Source="Oxigenos.Shared\Oxigenos.Common.vbproj" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\AtencionPedidoForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\AtencionPedidoForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\BuscarClienteForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\BuscarClienteForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\BuscarPedidoForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\BuscarPedidoForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\CargaDatosForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\CargaDatosForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\ConfiguracionForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\ConfiguracionForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\DataAccess\NucleoDataAccess.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\DataAccess\NucleoDataAccess.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\DescargaDatosForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\DescargaDatosForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\DireccionesClienteForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\DireccionesClienteForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\InformacionClienteForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\InformacionClienteForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\MainForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\MainForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\My Project\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\My Project\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\PedidosClienteForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\PedidosClienteForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\RuteroForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\RuteroForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\Oxigenos.Principal.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\Oxigenos.Principal.vbproj" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\DataAccess\NucleoDataSet.xsd" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\DataAccess\NucleoDataSet.xsd" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\Liquidos.sdf" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\Liquidos.sdf" Description="The database was upgraded from a previous version of SQL Server Compact.">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\Oxigenos.sdf" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Principal" Source="Oxigenos.Nucleo\Oxigenos.sdf" Description="The database was upgraded from a previous version of SQL Server Compact.">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\CargaNovedadesGprsForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\CargaNovedadesGprsForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\DataAccess\GestorHojasRutas.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\DataAccess\GestorHojasRutas.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\DataAccess\GestorProductos.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\DataAccess\GestorProductos.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\DataAccess\GestorVenta.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\DataAccess\GestorVenta.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\EnvioDatosGprsForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\EnvioDatosGprsForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\FinRutaForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\FinRutaForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\GeneracionForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\GeneracionForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\InicioRutaForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\InicioRutaForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\My Project\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\My Project\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\PrecintosForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\PrecintosForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\ReportesForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\ReportesForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\VentaForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\VentaForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\VentaPorCaudalimetroForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\VentaPorCaudalimetroForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\VentaPorNivelesForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\VentaPorNivelesForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\VentaPorPesadaCamionForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\VentaPorPesadaCamionForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\VentaPorPesadaTanqueForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\VentaPorPesadaTanqueForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\Oxigenos.Liquidos.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\Oxigenos.Liquidos.vbproj" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\DataAccess\HojasRutaDataSet.xsd" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\DataAccess\HojasRutaDataSet.xsd" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\DataAccess\ProductosDataSet.xsd" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\DataAccess\ProductosDataSet.xsd" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\DataAccess\ReportesDataSet.xsd" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\DataAccess\ReportesDataSet.xsd" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\DataAccess\VentaDataSet.xsd" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\DataAccess\VentaDataSet.xsd" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\Liquidos.sdf" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Liquidos" Source="Oxigenos.Liquidos\Liquidos.sdf" Description="The database was upgraded from a previous version of SQL Server Compact.">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\AsignacionManualForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\AsignacionManualForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\AsignaDocumentoManualForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\AsignaDocumentoManualForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\BuscarProductoForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\BuscarProductoForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\CapturaEntidadForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\CapturaEntidadForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\CargueCamionForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\CargueCamionForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\ContratosForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\ContratosForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\BarcodeParser.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\BarcodeParser.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\GestorPacientes.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\GestorPacientes.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\GestorPedidos.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\GestorPedidos.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\GestorProductos.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\GestorProductos.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\GestorVenta.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\GestorVenta.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DeudasForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DeudasForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DocumentosManualesForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DocumentosManualesForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\FinRutaForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\FinRutaForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\GeneracionForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\GeneracionForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\InicioRutaForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\InicioRutaForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\LecturaCilindrosVentaForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\LecturaCilindrosVentaForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\My Project\Resources.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\My Project\Resources.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\PrecioProductoForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\PrecioProductoForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\RecoleccionesForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\RecoleccionesForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\RecoleccionesManualesForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\RecoleccionesManualesForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\ReportesForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\ReportesForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\ResumenCargaForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\ResumenCargaForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\ResumenDetalleGenerar.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\ResumenDetalleGenerar.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\VentaForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\VentaForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\VentaManualForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\VentaManualForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\VerAsignacionesForm.resx" Description="File converted successfully">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\VerAsignacionesForm.resx" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\Oxigenos.Gases.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\Oxigenos.Gases.vbproj" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\PacientesDataSet.xsd" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\PacientesDataSet.xsd" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\PedidosDataSet.xsd" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\PedidosDataSet.xsd" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\ProductosDataSet.xsd" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\ProductosDataSet.xsd" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\ReportesDataset.xsd" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\ReportesDataset.xsd" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\VentaDataSet.xsd" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\DataAccess\VentaDataSet.xsd" Description="References to a previous version of the SQL Server Compact provider were updated.">
+</Event><Event ErrorLevel="3" Project="Oxigenos.Gases" Source="Oxigenos.Gases\Oxigenos.sdf" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Oxigenos.Gases" Source="Oxigenos.Gases\Oxigenos.sdf" Description="The database was upgraded from a previous version of SQL Server Compact.">
+</Event></UpgradeLog>
